@@ -1695,3 +1695,6 @@ java.lang.IllegalStateException: recursive call to sendBlockUpdated
 [04Jan2025 22:00:04.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Teleported Nextraid to ImSensei_]
 [04Jan2025 22:01:03.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Creative Mode]
 [04Jan2025 22:01:12.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Survival Mode]
+[04Jan2025 22:02:00.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> ttttt
+[04Jan2025 22:04:38.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Is it a Fruit or is it a Nut?]
+[04Jan2025 22:05:12.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Doing my Part]
