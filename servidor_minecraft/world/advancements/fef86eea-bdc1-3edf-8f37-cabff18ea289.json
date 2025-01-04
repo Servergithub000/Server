@@ -49,6 +49,7 @@
       "wasteland": "2025-01-04 23:16:06 +0000",
       "redwood_forest": "2025-01-03 23:01:33 +0000",
       "dune_beach": "2025-01-03 23:01:18 +0000",
+      "pasture": "2025-01-04 23:48:09 +0000",
       "volcanic_plains": "2025-01-03 20:44:00 +0000",
       "lavender_field": "2025-01-03 21:01:01 +0000",
       "prairie": "2025-01-03 20:49:56 +0000",
@@ -3704,6 +3705,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-04 23:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 23:26:23 +0000"
@@ -3779,6 +3786,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-01-04 23:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-01-04 23:43:17 +0000"
     },
     "done": true
   },
@@ -3884,6 +3897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-04 23:43:18 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/soothe_bell": {
     "criteria": {
       "has_nugget": "2025-01-04 22:33:50 +0000"
@@ -3905,6 +3924,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-04 23:43:18 +0000"
     },
     "done": true
   },
@@ -3935,6 +3960,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/protector": {
+    "criteria": {
+      "has_terracotta": "2025-01-04 23:43:17 +0000"
     },
     "done": true
   },
