@@ -2898,15 +2898,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-01-04 22:50:24 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-01-04 22:50:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-04 22:50:24 +0000"
     },
     "done": true
   },
