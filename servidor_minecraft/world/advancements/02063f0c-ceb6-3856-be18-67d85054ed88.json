@@ -3759,18 +3759,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/acacia_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 23:00:40 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_counter": {
-    "criteria": {
-      "has_spruce_counter": "2025-01-03 22:40:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-01-03 22:23:05 +0000"
@@ -3780,12 +3768,6 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-01-03 22:23:05 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/acacia": {
-    "criteria": {
-      "has_wood": "2025-01-03 23:00:40 +0000"
     },
     "done": true
   },
@@ -3801,75 +3783,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/acacia_whispering_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 23:00:40 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_table": {
-    "criteria": {
-      "has_spruce_table": "2025-01-03 22:40:59 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/acacia_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 23:00:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2025-01-03 22:33:30 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_shelf": {
-    "criteria": {
-      "has_spruce_shelf": "2025-01-03 22:40:59 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2025-01-03 22:51:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-01-03 22:23:05 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 23:00:40 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/acacia_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 23:00:40 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/acacia_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 23:00:40 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_dining_bench": {
-    "criteria": {
-      "has_spruce_dining_bench": "2025-01-03 22:40:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-01-03 22:40:59 +0000"
     },
     "done": true
   },
@@ -3885,39 +3801,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/chicken": {
-    "criteria": {
-      "has_feather": "2025-01-03 22:59:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-01-03 22:40:59 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2025-01-03 22:23:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-03 22:40:59 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_pillar_trim": {
-    "criteria": {
-      "has_spruce_pillar_trim": "2025-01-03 22:40:59 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/acacia_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 23:00:40 +0000"
     },
     "done": true
   },
@@ -3933,21 +3819,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/acacia_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 23:00:40 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2025-01-03 22:23:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-01-03 23:00:40 +0000"
     },
     "done": true
   },
@@ -3957,27 +3831,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/acacia_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 23:00:40 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:sneak_grove": {
-    "criteria": {
-      "steal_crystal": "2025-01-03 23:01:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-03 22:23:05 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_corner_trim": {
-    "criteria": {
-      "has_spruce_corner_trim": "2025-01-03 22:40:59 +0000"
     },
     "done": true
   },
@@ -3986,18 +3842,6 @@
       "has_diamond": "2025-01-03 22:23:05 +0000"
     },
     "done": false
-  },
-  "handcrafted:recipes/misc/spruce_desk": {
-    "criteria": {
-      "has_spruce_desk": "2025-01-03 22:40:59 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/acacia_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 23:00:40 +0000"
-    },
-    "done": true
   },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
@@ -4008,6 +3852,84 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-01-03 22:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-03 22:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-03 22:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-01-03 22:33:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-01-03 22:40:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-01-03 22:40:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-01-03 22:40:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-01-03 22:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-03 22:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-01-03 22:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-03 22:40:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-01-03 22:40:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-01-03 22:40:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-01-03 22:40:59 +0000"
     },
     "done": true
   },
@@ -4023,57 +3945,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/acacia_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 23:00:40 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:harvest_apricorn_seed": {
-    "criteria": {
-      "check_inv": "2025-01-03 23:08:46 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-01-03 22:51:26 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2025-01-03 22:40:59 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/roseate_ball": {
-    "criteria": {
-      "has_pink_apricorn": "2025-01-03 22:58:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2025-01-03 22:41:00 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/acacia_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 23:00:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-01-03 22:23:05 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/print_tropical": {
-    "criteria": {
-      "has_logs": "2025-01-03 23:00:40 +0000"
     },
     "done": true
   },
@@ -4089,21 +3963,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/acacia_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 23:00:40 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
       "has_spruce_drawer": "2025-01-03 22:40:59 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/acacia_blossom": {
-    "criteria": {
-      "acacia_blossom": "2025-01-03 23:00:40 +0000"
     },
     "done": true
   },
@@ -4143,27 +4005,39 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/acacia_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-01-03 23:00:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-01-03 22:40:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "handcrafted:recipes/misc/spruce_side_table": {
     "criteria": {
-      "has_diamond": "2025-01-03 22:23:05 +0000"
+      "has_spruce_side_table": "2025-01-03 22:40:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
-      "has_log": "2025-01-03 23:00:40 +0000"
+      "has_planks": "2025-01-03 22:41:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-03 22:51:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-03 22:51:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/roseate_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2025-01-03 22:58:58 +0000"
     },
     "done": true
   },
@@ -4173,9 +4047,135 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_side_table": {
+  "travelersbackpack:recipes/misc/chicken": {
     "criteria": {
-      "has_spruce_side_table": "2025-01-03 22:40:59 +0000"
+      "has_feather": "2025-01-03 22:59:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_tropical": {
+    "criteria": {
+      "has_logs": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-01-03 23:00:40 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2025-01-03 23:01:21 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:harvest_apricorn_seed": {
+    "criteria": {
+      "check_inv": "2025-01-03 23:08:46 +0000"
     },
     "done": true
   },
