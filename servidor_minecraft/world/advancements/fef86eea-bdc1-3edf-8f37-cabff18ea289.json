@@ -46,6 +46,7 @@
       "mediterranean_forest": "2025-01-03 20:39:12 +0000",
       "spider_nest": "2025-01-03 23:21:29 +0000",
       "dryland": "2025-01-04 22:40:53 +0000",
+      "wasteland": "2025-01-04 23:16:06 +0000",
       "redwood_forest": "2025-01-03 23:01:33 +0000",
       "dune_beach": "2025-01-03 23:01:18 +0000",
       "volcanic_plains": "2025-01-03 20:44:00 +0000",
@@ -1364,6 +1365,7 @@
       "minecraft:magma_cube": "2025-01-03 23:32:13 +0000",
       "minecraft:spider": "2025-01-03 21:18:11 +0000",
       "minecraft:creeper": "2025-01-03 22:02:18 +0000",
+      "minecraft:husk": "2025-01-04 23:14:48 +0000",
       "minecraft:cave_spider": "2025-01-03 23:21:31 +0000",
       "minecraft:piglin": "2025-01-03 23:29:36 +0000",
       "minecraft:zombie": "2025-01-03 20:57:41 +0000",
@@ -3702,9 +3704,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/misc/paper_compress": {
     "criteria": {
       "has_item": "2025-01-04 22:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/monitor": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/display_case": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
     },
     "done": true
   },
@@ -3717,6 +3761,48 @@
   "travelersbackpack:recipes/misc/chicken": {
     "criteria": {
       "has_feather": "2025-01-04 22:57:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-04 23:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-04 23:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/wise_glasses": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_smithing": {
+    "criteria": {
+      "has_gold": "2025-01-04 23:32:16 +0000"
     },
     "done": true
   },
@@ -3738,15 +3824,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-01-04 22:34:45 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-01-04 23:32:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-01-04 22:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2025-01-04 23:32:02 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/restoration_tank": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
     },
     "done": true
   },
@@ -3768,6 +3896,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/painting": {
     "criteria": {
       "has_item": "2025-01-04 22:34:45 +0000"
@@ -3780,6 +3926,18 @@
     },
     "done": true
   },
+  "cobblemon:recipes/blocks/fossil_analyzer": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/spell_tag": {
     "criteria": {
       "has_item": "2025-01-04 22:34:45 +0000"
@@ -3789,6 +3947,18 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-01-04 22:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 23:26:23 +0000"
     },
     "done": true
   },
@@ -3807,6 +3977,12 @@
   "cobblemon:recipes/held/blunder_policy": {
     "criteria": {
       "has_paper": "2025-01-04 22:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-04 23:27:19 +0000"
     },
     "done": true
   },
