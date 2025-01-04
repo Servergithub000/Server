@@ -8,22 +8,22 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 3,
+    "totalCaptureCount": 4,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 4,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 6,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 6,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "poison": 1,
-      "electric": 1,
+      "electric": 2,
       "water": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:gimmighoul": 1
+      "cobblemon:gimmighoul": 2
     },
     "aspectsCollected": {}
   }

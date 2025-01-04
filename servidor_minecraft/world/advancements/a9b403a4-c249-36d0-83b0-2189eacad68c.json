@@ -44,6 +44,7 @@
       "maple_woods": "2025-01-03 22:01:25 +0000",
       "orchard": "2025-01-03 22:17:42 +0000",
       "mediterranean_forest": "2025-01-03 19:56:37 +0000",
+      "coniferous_forest": "2025-01-04 21:31:39 +0000",
       "redwood_forest": "2025-01-03 21:56:06 +0000",
       "volcano": "2025-01-03 22:21:01 +0000",
       "volcanic_plains": "2025-01-03 22:24:40 +0000",
@@ -1556,6 +1557,8 @@
       "cooked_mutton": "2025-01-03 20:51:12 +0000",
       "cooked_beef": "2025-01-03 23:27:52 +0000",
       "beef": "2025-01-03 23:45:38 +0000",
+      "apple": "2025-01-04 21:27:10 +0000",
+      "potato": "2025-01-04 21:28:07 +0000",
       "bread": "2025-01-03 21:31:42 +0000",
       "golden_apple": "2025-01-03 20:34:12 +0000",
       "rotten_flesh": "2025-01-03 20:21:12 +0000",
@@ -4231,6 +4234,42 @@
   "biomesoplenty:recipes/building_blocks/magic_planks": {
     "criteria": {
       "has_logs": "2025-01-03 23:45:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-04 21:29:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-04 21:29:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-04 21:29:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-04 21:29:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-01-04 21:29:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-01-04 21:29:35 +0000"
     },
     "done": true
   },
