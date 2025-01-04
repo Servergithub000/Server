@@ -425,6 +425,7 @@
       "minecraft:dark_forest": "2025-01-03 22:04:41 +0000",
       "minecraft:sparse_jungle": "2025-01-03 23:13:07 +0000",
       "minecraft:river": "2025-01-03 19:56:48 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-04 22:27:48 +0000",
       "minecraft:stony_shore": "2025-01-03 22:13:54 +0000",
       "minecraft:swamp": "2025-01-04 21:41:19 +0000",
       "minecraft:cold_ocean": "2025-01-03 22:02:50 +0000",
@@ -432,6 +433,7 @@
       "minecraft:windswept_forest": "2025-01-03 22:00:00 +0000",
       "minecraft:jungle": "2025-01-03 22:36:14 +0000",
       "minecraft:ocean": "2025-01-03 22:04:35 +0000",
+      "minecraft:warm_ocean": "2025-01-04 22:28:15 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 21:57:50 +0000",
       "minecraft:savanna": "2025-01-03 22:41:43 +0000",
       "minecraft:plains": "2025-01-03 22:06:33 +0000"
@@ -4287,6 +4289,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-01-04 22:15:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-01-04 21:29:35 +0000"
@@ -4296,6 +4304,12 @@
   "mcwtrpdoors:recipes/acacia/acacia_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-04 22:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-04 22:20:42 +0000"
     },
     "done": true
   },
@@ -4347,6 +4361,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-04 22:27:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_fancy_bed": {
     "criteria": {
       "has_acacia_fancy_bed": "2025-01-04 22:03:47 +0000"
@@ -4362,6 +4382,12 @@
   "handcrafted:recipes/misc/acacia_corner_trim": {
     "criteria": {
       "has_acacia_corner_trim": "2025-01-04 22:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-04 22:27:50 +0000"
     },
     "done": true
   },
@@ -4413,6 +4439,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-01-04 22:24:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-01-04 22:15:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_pillar_trim": {
     "criteria": {
       "has_acacia_pillar_trim": "2025-01-04 22:03:47 +0000"
@@ -4425,15 +4463,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-04 22:15:13 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-04 22:03:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-04 22:15:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/soft_sand": {
+    "criteria": {
+      "has_sand": "2025-01-04 22:32:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-04 22:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-01-04 22:32:30 +0000"
     },
     "done": true
   },
@@ -4458,6 +4520,12 @@
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2025-01-04 22:01:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-04 22:20:42 +0000"
     },
     "done": true
   },
@@ -4551,9 +4619,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-01-04 22:27:50 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_chest": "2025-01-04 22:03:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-01-04 22:29:30 +0000"
     },
     "done": true
   },
@@ -4572,6 +4652,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-01-04 22:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-04 22:32:30 +0000"
     },
     "done": true
   },
@@ -4608,6 +4694,12 @@
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2025-01-04 21:58:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-04 22:15:13 +0000"
     },
     "done": true
   },

@@ -1698,3 +1698,27 @@ java.lang.IllegalStateException: recursive call to sendBlockUpdated
 [04Jan2025 22:02:00.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> ttttt
 [04Jan2025 22:04:38.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Is it a Fruit or is it a Nut?]
 [04Jan2025 22:05:12.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Doing my Part]
+[04Jan2025 22:18:43.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Acquire Hardware]
+[04Jan2025 22:18:57.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Suit Up]
+[04Jan2025 22:22:02.176] [ForkJoinPool.commonPool-worker-9/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[04Jan2025 22:22:02.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iDunk3d_ON[/127.96.238.132:34965] logged in with entity id 46830 at (318.8057986716984, 69.5625, 689.6999999880791)
+[04Jan2025 22:22:02.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON joined the game
+[04Jan2025 22:22:02.421] [Server thread/INFO] [Jade/]: Syncing config to iDunk3d_ON (fef86eea-bdc1-3edf-8f37-cabff18ea289)
+[04Jan2025 22:22:03.539] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fef86eea-bdc1-3edf-8f37-cabff18ea289 was loaded
+[04Jan2025 22:22:19.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iDunk3d_ON> el puto kingus
+[04Jan2025 22:22:26.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> el puto dunked
+[04Jan2025 22:22:28.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> semen de burrilla australiana
+[04Jan2025 22:22:31.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iDunk3d_ON> real
+[04Jan2025 22:22:31.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set the weather to clear]
+[04Jan2025 22:24:49.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [We do a little trolling...]
+[04Jan2025 22:25:00.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> paja
+[04Jan2025 22:25:05.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iDunk3d_ON> ./cp
+[04Jan2025 22:29:06.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[04Jan2025 22:29:14.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON has made the advancement [Alex's Caves]
+[04Jan2025 22:29:30.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [Once Upon a Cave]
+[04Jan2025 22:29:37.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON has made the advancement [It Belongs in a Museum]
+[04Jan2025 22:29:53.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElKingus) moved wrongly! 0.3375003429990784
+[04Jan2025 22:29:53.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElKingus) moved wrongly! 0.48489768076512973
+[04Jan2025 22:30:32.579] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[04Jan2025 22:31:12.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [We Just Want our Hat Back]
+[04Jan2025 22:31:40.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [A Bone to Pick]
