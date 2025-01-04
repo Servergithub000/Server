@@ -1722,3 +1722,33 @@ java.lang.IllegalStateException: recursive call to sendBlockUpdated
 [04Jan2025 22:30:32.579] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
 [04Jan2025 22:31:12.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [We Just Want our Hat Back]
 [04Jan2025 22:31:40.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [A Bone to Pick]
+[04Jan2025 22:34:28.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus lost connection: Timed out
+[04Jan2025 22:34:28.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus left the game
+[04Jan2025 22:34:28.660] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was unloaded
+[04Jan2025 22:34:43.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON has made the advancement [Once Upon a Cave]
+[04Jan2025 22:35:35.843] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[04Jan2025 22:35:35.854] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/desert
+[04Jan2025 22:35:35.917] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[04Jan2025 22:36:05.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElKingus[/127.107.176.211:52179] logged in with entity id 61081 at (808.4233222312592, 90.0, 42.37077372653177)
+[04Jan2025 22:36:05.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus joined the game
+[04Jan2025 22:36:05.734] [Server thread/INFO] [Jade/]: Syncing config to ElKingus (d7576eb2-d4e0-3173-8113-1cfb36272967)
+[04Jan2025 22:36:08.764] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was loaded
+[04Jan2025 22:37:11.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Sweet Tooth]
+[04Jan2025 22:37:41.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [Hot Stuff]
+[04Jan2025 22:39:03.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus moved too quickly! 0.6236492832356362,-1.233632006042484,-10.319722278097174
+[04Jan2025 22:39:12.779] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 66bb52b3-86b6-42b8-b5bd-3b984e42c2c5
+[04Jan2025 22:39:12.780] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 66bb52b3-86b6-42b8-b5bd-3b984e42c2c5
+[04Jan2025 22:39:50.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus lost connection: Timed out
+[04Jan2025 22:39:50.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus left the game
+[04Jan2025 22:39:50.986] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was unloaded
+[04Jan2025 22:40:23.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved too quickly! -5.1761937787305214,0.0,-8.90050799865503
+[04Jan2025 22:40:29.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElKingus[/127.107.176.211:54177] logged in with entity id 66929 at (228.95904190983038, 78.0, -144.75761896546447)
+[04Jan2025 22:40:29.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus joined the game
+[04Jan2025 22:40:29.270] [Server thread/INFO] [Jade/]: Syncing config to ElKingus (d7576eb2-d4e0-3173-8113-1cfb36272967)
+[04Jan2025 22:40:35.359] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was loaded
+[04Jan2025 22:40:35.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[04Jan2025 22:40:53.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2655ms or 53 ticks behind
+[04Jan2025 22:42:19.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Jan2025 22:42:36.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
+[04Jan2025 22:42:56.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4935ms or 98 ticks behind
+[04Jan2025 22:43:08.049] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/63719, l='ServerLevel[world]', x=403.70, y=62.57, z=1145.97] died, message: 'Unemployed was slain by Zombie'

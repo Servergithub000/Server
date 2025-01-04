@@ -11353,3 +11353,767 @@ java.lang.IllegalStateException: recursive call to sendBlockUpdated
 [04Jan2025 22:32:41.147] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
 [04Jan2025 22:32:41.148] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [04Jan2025 22:32:41.149] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 22:32:46.452] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=298.02, y=69.00, z=685.39]
+[04Jan2025 22:33:00.330] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Jan2025 22:33:01.378] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=260.45, y=69.94, z=723.15], dimensionLocationPath overworld
+[04Jan2025 22:33:01.378] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=260.45, y=69.94, z=723.15] in list []
+[04Jan2025 22:33:08.234] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=263.50, y=70.00, z=730.16]
+[04Jan2025 22:33:10.897] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 22:33:10.897] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:33:10.898] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 22:33:40.725] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=283.70, y=69.94, z=712.58], dimensionLocationPath overworld
+[04Jan2025 22:33:40.725] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=283.70, y=69.94, z=712.58] in list []
+[04Jan2025 22:33:41.042] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 22:33:41.042] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:33:41.044] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 22:33:51.346] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/59175, l='ServerLevel[world]', x=308.33, y=74.29, z=717.39], dimensionLocationPath overworld
+[04Jan2025 22:33:51.346] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/59175, l='ServerLevel[world]', x=308.33, y=74.29, z=717.39] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@c1]
+[04Jan2025 22:33:51.835] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/59175, l='ServerLevel[world]', x=307.82, y=74.05, z=717.88, removed=DISCARDED]
+[04Jan2025 22:33:58.383] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=272.55, y=70.00, z=714.91]
+[04Jan2025 22:34:11.276] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 22:34:11.276] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:34:11.277] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 22:34:26.049] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=267.38, y=68.00, z=705.93], dimensionLocationPath overworld
+[04Jan2025 22:34:26.049] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=267.38, y=68.00, z=705.93] in list []
+[04Jan2025 22:34:28.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus lost connection: Timed out
+[04Jan2025 22:34:28.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus left the game
+[04Jan2025 22:34:28.660] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was unloaded
+[04Jan2025 22:34:41.060] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 22:34:41.060] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:34:41.061] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 22:34:42.436] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Jan2025 22:34:43.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON has made the advancement [Once Upon a Cave]
+[04Jan2025 22:35:11.097] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 22:35:11.097] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:35:11.098] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 22:35:35.843] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[04Jan2025 22:35:35.850] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/roads/straight
+[04Jan2025 22:35:35.854] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/desert
+[04Jan2025 22:35:35.865] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/roads/t_2
+[04Jan2025 22:35:35.871] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/house/small_1
+[04Jan2025 22:35:35.875] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/house/small_2
+[04Jan2025 22:35:35.877] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/house/small_3
+[04Jan2025 22:35:35.878] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/house/small_4
+[04Jan2025 22:35:35.879] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/house/small_5
+[04Jan2025 22:35:35.882] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/house/med_1
+[04Jan2025 22:35:35.884] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/house/med_2
+[04Jan2025 22:35:35.887] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/house/big_1
+[04Jan2025 22:35:35.888] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/house/big_2
+[04Jan2025 22:35:35.890] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/jobsite/butcher
+[04Jan2025 22:35:35.891] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/jobsite/chemist
+[04Jan2025 22:35:35.892] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/jobsite/farm
+[04Jan2025 22:35:35.896] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/jobsite/fishing_oasis
+[04Jan2025 22:35:35.898] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/jobsite/library
+[04Jan2025 22:35:35.899] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/jobsite/mason
+[04Jan2025 22:35:35.901] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/jobsite/observatory
+[04Jan2025 22:35:35.902] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/jobsite/shepherd
+[04Jan2025 22:35:35.904] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/jobsite/smith
+[04Jan2025 22:35:35.904] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/jobsite/tannery
+[04Jan2025 22:35:35.906] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/jobsite/fd_farm
+[04Jan2025 22:35:35.907] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/big_bush
+[04Jan2025 22:35:35.907] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/bush
+[04Jan2025 22:35:35.907] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/lamp_1
+[04Jan2025 22:35:35.908] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/lamp_2
+[04Jan2025 22:35:35.908] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/lamp_3
+[04Jan2025 22:35:35.908] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/lamp_4
+[04Jan2025 22:35:35.909] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/melon_1
+[04Jan2025 22:35:35.909] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/melon_2
+[04Jan2025 22:35:35.910] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/oasis
+[04Jan2025 22:35:35.910] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/obelisk
+[04Jan2025 22:35:35.910] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/palm
+[04Jan2025 22:35:35.911] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/shrub
+[04Jan2025 22:35:35.911] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/stall
+[04Jan2025 22:35:35.912] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/stall_2
+[04Jan2025 22:35:35.912] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/well
+[04Jan2025 22:35:35.917] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[04Jan2025 22:35:36.014] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/roads/bent_2
+[04Jan2025 22:35:36.021] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/roads/t_1
+[04Jan2025 22:35:36.022] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/roads/bent_1
+[04Jan2025 22:35:36.291] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/roads/t_3
+[04Jan2025 22:35:36.403] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/roads/inter
+[04Jan2025 22:35:36.908] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/roads/terminator
+[04Jan2025 22:35:41.148] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 22:35:41.148] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:35:41.150] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 22:36:03.747] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[04Jan2025 22:36:03.785] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[04Jan2025 22:36:03.824] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[04Jan2025 22:36:03.877] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[04Jan2025 22:36:03.924] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[04Jan2025 22:36:03.976] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[04Jan2025 22:36:04.026] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[04Jan2025 22:36:04.046] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[04Jan2025 22:36:04.046] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [grapplemod, treechop, betterdungeons, kuma_api, supermartijn642configlib, netherportalfix, playeranimator, botarium, betteroceanmonuments, dynamiclights, immersive_aircraft, modernfix, citadel, alexsmobs, yungsapi, mixinextras, zume, relics, mcwdoors, clickadv, balm, carryon, betterfortresses, cloth_config, ctov, sawmill, embeddium, rubidium, corpse, farmersdelight, handcrafted, mcwtrpdoors, supermartijn642corelib, yungsbridges, resourcefulconfig, lionfishapi, cataclysm, curios, patchouli, oculus, basicweapons, cobblemon, betterstrongholds, resourcefullib, architectury, cupboard, betterendisland, framework, smallships, bettermineshafts, enchantinginfuser, mcwlights, betterjungletemples, betteradvancements, mowziesmobs, geckolib, octolib, jei, lithostitched, goblintraders, caelus, journeymap, travelersbackpack, naturescompass, artifacts, configured, libx, simplytools, betterdeserttemples, explorerscompass, waveycapes, puzzlesaccessapi, skinlayers3d, forge, minecraft, alexscaves, terrablender, biomesoplenty, moonlight, mousetweaks, bettercombat, jade, animal_feeding_trough, spectrelib, movingelevators, kotlinforforge, notenoughanimations, mes, polymorph, parcool, nullscape, immersive_paintings, ferritecore, puzzleslib, immersive_melodies, extremesoundmuffler, expandability, skinrestorer, xpbook]
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:skin_refresh' : Version test of '' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'parcool:message' : Version test of '3.3.1.0' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_im:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'travelersbackpack:1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:treechop-channel' : Version test of '7' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enchantinginfuser:1' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'relics:network' : Version test of '1.0' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sawmill:channel' : Version test of '0' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_ip:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:refresh' : Version test of '' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:play' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Version test of '1.0.0' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[04Jan2025 22:36:04.047] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'movingelevators:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_air:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'libx:netchannel' : Version test of '10' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:handshake' : Version test of '' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'polymorph:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explorerscompass:explorerscompass' : Version test of '1.0' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of '1.1.8' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Version test of '1.0' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'grapplemod:channel' : Version test of '1.0' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'smallships:default' : Version test of '1.0.0' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cobblemon:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[04Jan2025 22:36:04.048] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[04Jan2025 22:36:04.066] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[04Jan2025 22:36:04.067] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.067] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.067] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[04Jan2025 22:36:04.067] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.067] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.086] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[04Jan2025 22:36:04.136] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[04Jan2025 22:36:04.188] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[04Jan2025 22:36:04.239] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[04Jan2025 22:36:04.254] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[04Jan2025 22:36:04.254] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.254] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.285] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[04Jan2025 22:36:04.285] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[04Jan2025 22:36:04.285] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.285] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.285] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[04Jan2025 22:36:04.285] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.285] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.329] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[04Jan2025 22:36:04.376] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[04Jan2025 22:36:04.432] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[04Jan2025 22:36:04.476] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[04Jan2025 22:36:04.517] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[04Jan2025 22:36:04.517] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.518] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.518] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[04Jan2025 22:36:04.518] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.518] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.518] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[04Jan2025 22:36:04.518] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.518] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.518] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[04Jan2025 22:36:04.519] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.519] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.519] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[04Jan2025 22:36:04.519] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.519] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.519] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[04Jan2025 22:36:04.519] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.520] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.533] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[04Jan2025 22:36:04.585] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[04Jan2025 22:36:04.630] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[04Jan2025 22:36:04.659] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[04Jan2025 22:36:04.659] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.659] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.659] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[04Jan2025 22:36:04.659] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.659] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.659] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[04Jan2025 22:36:04.659] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.659] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.678] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[04Jan2025 22:36:04.701] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[04Jan2025 22:36:04.701] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.701] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.727] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[04Jan2025 22:36:04.727] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[04Jan2025 22:36:04.727] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.728] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.782] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[04Jan2025 22:36:04.797] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[04Jan2025 22:36:04.797] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.797] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.829] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config parcool-server.toml' to 'fml:handshake' sequence 21
+[04Jan2025 22:36:04.854] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[04Jan2025 22:36:04.854] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:04.854] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:04.879] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 22
+[04Jan2025 22:36:04.926] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 23
+[04Jan2025 22:36:04.985] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config enchantinginfuser-server.toml' to 'fml:handshake' sequence 24
+[04Jan2025 22:36:05.008] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[04Jan2025 22:36:05.008] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:05.008] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:05.032] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corpse-server.toml' to 'fml:handshake' sequence 25
+[04Jan2025 22:36:05.053] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[04Jan2025 22:36:05.053] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:05.053] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:05.089] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config xptome-server.toml' to 'fml:handshake' sequence 26
+[04Jan2025 22:36:05.090] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[04Jan2025 22:36:05.090] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:05.090] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:05.127] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 27
+[04Jan2025 22:36:05.127] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[04Jan2025 22:36:05.127] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:05.127] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:05.177] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 28
+[04Jan2025 22:36:05.453] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[04Jan2025 22:36:05.454] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:05.454] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:05.454] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[04Jan2025 22:36:05.454] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:05.454] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:05.455] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[04Jan2025 22:36:05.455] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:05.455] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:05.455] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[04Jan2025 22:36:05.455] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:05.455] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:05.477] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[04Jan2025 22:36:05.477] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:36:05.477] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:36:05.527] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Jan2025 22:36:05.574] [ForkJoinPool.commonPool-worker-12/DEBUG] [SkinRestorer/]: Fetching ElKingus's skin
+[04Jan2025 22:36:05.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElKingus[/127.107.176.211:52179] logged in with entity id 61081 at (808.4233222312592, 90.0, 42.37077372653177)
+[04Jan2025 22:36:05.652] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@43c7a713 into net.minecraft.network.Connection@31687b41
+[04Jan2025 22:36:05.652] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 229 classes
+[04Jan2025 22:36:05.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus joined the game
+[04Jan2025 22:36:05.734] [Server thread/INFO] [Jade/]: Syncing config to ElKingus (d7576eb2-d4e0-3173-8113-1cfb36272967)
+[04Jan2025 22:36:08.764] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was loaded
+[04Jan2025 22:36:11.246] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 22:36:11.247] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:36:11.248] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 22:36:28.671] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/roads/inter
+[04Jan2025 22:36:28.672] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/roads/bent_1
+[04Jan2025 22:36:28.673] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/stall
+[04Jan2025 22:36:28.673] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/stall_2
+[04Jan2025 22:36:28.673] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/big_bush
+[04Jan2025 22:36:28.674] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/roads/terminator
+[04Jan2025 22:36:28.678] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/lamp_2
+[04Jan2025 22:36:28.714] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/jobsite/tannery
+[04Jan2025 22:36:28.715] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/house/small_2
+[04Jan2025 22:36:28.716] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/melon_1
+[04Jan2025 22:36:28.716] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/lamp_3
+[04Jan2025 22:36:32.051] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/roads/straight
+[04Jan2025 22:36:32.246] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/lamp_4
+[04Jan2025 22:36:32.247] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/oasis
+[04Jan2025 22:36:32.252] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/bush
+[04Jan2025 22:36:32.253] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/well
+[04Jan2025 22:36:32.253] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/lamp_1
+[04Jan2025 22:36:34.338] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/house/small_1
+[04Jan2025 22:36:34.339] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/house/small_4
+[04Jan2025 22:36:34.385] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/roads/t_2
+[04Jan2025 22:36:34.387] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/jobsite/smith
+[04Jan2025 22:36:34.533] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/melon_2
+[04Jan2025 22:36:34.533] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/obelisk
+[04Jan2025 22:36:34.535] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/house/med_1
+[04Jan2025 22:36:34.536] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/shrub
+[04Jan2025 22:36:36.828] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/jobsite/chemist
+[04Jan2025 22:36:36.841] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/jobsite/mason
+[04Jan2025 22:36:40.793] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/deco/palm
+[04Jan2025 22:36:41.042] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Jan2025 22:36:41.288] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 22:36:41.288] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:36:41.289] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 22:36:41.509] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/jobsite/library
+[04Jan2025 22:36:41.560] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/house/small_3
+[04Jan2025 22:36:41.574] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/house/big_2
+[04Jan2025 22:36:41.606] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/house/small_5
+[04Jan2025 22:36:42.204] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=286.62, y=68.00, z=698.70]
+[04Jan2025 22:36:43.389] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/roads/t_3
+[04Jan2025 22:36:43.562] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/house/big_1
+[04Jan2025 22:36:44.390] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert/jobsite/fd_farm
+[04Jan2025 22:36:53.253] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Jan2025 22:37:01.594] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[04Jan2025 22:37:10.649] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/roads/bent_2
+[04Jan2025 22:37:10.657] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/roads/t_3
+[04Jan2025 22:37:10.663] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/roads/straight
+[04Jan2025 22:37:10.670] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/roads/inter
+[04Jan2025 22:37:10.676] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/roads/bent_1
+[04Jan2025 22:37:10.677] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/greenhouse
+[04Jan2025 22:37:10.686] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/observatory
+[04Jan2025 22:37:10.688] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/small_1
+[04Jan2025 22:37:10.689] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/small_3
+[04Jan2025 22:37:10.697] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/med_2
+[04Jan2025 22:37:10.705] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/temple
+[04Jan2025 22:37:10.715] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/big_2
+[04Jan2025 22:37:10.716] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/small_2
+[04Jan2025 22:37:10.718] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/loomhouse
+[04Jan2025 22:37:10.723] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/fishery
+[04Jan2025 22:37:10.725] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/bakery
+[04Jan2025 22:37:10.727] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/smith
+[04Jan2025 22:37:10.728] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/fd_farm
+[04Jan2025 22:37:10.729] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/med_1
+[04Jan2025 22:37:10.730] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/mason
+[04Jan2025 22:37:10.731] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/pen
+[04Jan2025 22:37:10.733] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/big_1
+[04Jan2025 22:37:10.734] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/butcher
+[04Jan2025 22:37:10.735] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/small_5
+[04Jan2025 22:37:10.736] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/small_4
+[04Jan2025 22:37:10.738] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/small_6
+[04Jan2025 22:37:10.743] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/tree_6
+[04Jan2025 22:37:10.748] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/bush
+[04Jan2025 22:37:10.748] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/tree_1
+[04Jan2025 22:37:10.749] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/tree_2
+[04Jan2025 22:37:10.749] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/tree_7
+[04Jan2025 22:37:10.754] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/tree_4
+[04Jan2025 22:37:10.766] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/well
+[04Jan2025 22:37:10.767] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/tree_3
+[04Jan2025 22:37:10.776] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/stall_big
+[04Jan2025 22:37:10.798] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/stall
+[04Jan2025 22:37:10.923] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/wagon
+[04Jan2025 22:37:10.980] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/tree_5
+[04Jan2025 22:37:11.004] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/roads/t_2
+[04Jan2025 22:37:11.330] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/roads/t_1
+[04Jan2025 22:37:11.399] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/chicken
+[04Jan2025 22:37:11.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Sweet Tooth]
+[04Jan2025 22:37:11.550] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/roads/terminator
+[04Jan2025 22:37:11.618] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/sheep
+[04Jan2025 22:37:12.000] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[04Jan2025 22:37:12.000] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:37:12.002] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[04Jan2025 22:37:21.274] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=276.13, y=64.00, z=846.09], dimensionLocationPath overworld
+[04Jan2025 22:37:21.274] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=276.13, y=64.00, z=846.09] in list []
+[04Jan2025 22:37:23.445] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/cow
+[04Jan2025 22:37:33.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 22:37:33.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 22:37:34.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/straight
+[04Jan2025 22:37:34.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_2
+[04Jan2025 22:37:34.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/bent_2
+[04Jan2025 22:37:34.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_5
+[04Jan2025 22:37:34.980] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/cartography
+[04Jan2025 22:37:34.980] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_1
+[04Jan2025 22:37:34.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_3
+[04Jan2025 22:37:34.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_4
+[04Jan2025 22:37:34.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/inter
+[04Jan2025 22:37:34.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/pen
+[04Jan2025 22:37:34.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/library
+[04Jan2025 22:37:34.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/fd_farm
+[04Jan2025 22:37:34.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/big_2
+[04Jan2025 22:37:34.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/wagon
+[04Jan2025 22:37:34.987] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/bent_1
+[04Jan2025 22:37:34.987] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/pig
+[04Jan2025 22:37:34.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/med_1
+[04Jan2025 22:37:34.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/chemist
+[04Jan2025 22:37:34.990] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_3
+[04Jan2025 22:37:34.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/mason
+[04Jan2025 22:37:34.992] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/farm
+[04Jan2025 22:37:34.992] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_3
+[04Jan2025 22:37:34.993] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/fishing_hut
+[04Jan2025 22:37:34.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_2
+[04Jan2025 22:37:34.995] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/butcher
+[04Jan2025 22:37:34.995] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_1
+[04Jan2025 22:37:34.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_4
+[04Jan2025 22:37:34.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/terminator
+[04Jan2025 22:37:34.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/well
+[04Jan2025 22:37:34.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/hay_bale
+[04Jan2025 22:37:41.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [Hot Stuff]
+[04Jan2025 22:37:42.044] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[04Jan2025 22:37:42.044] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:37:42.046] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[04Jan2025 22:38:13.109] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[04Jan2025 22:38:13.109] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:38:13.111] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[04Jan2025 22:38:42.526] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 22:38:42.526] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:38:42.527] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 22:39:03.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus moved too quickly! 0.6236492832356362,-1.233632006042484,-10.319722278097174
+[04Jan2025 22:39:03.792] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Jan2025 22:39:03.894] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/straight
+[04Jan2025 22:39:03.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_1
+[04Jan2025 22:39:03.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/bent_2
+[04Jan2025 22:39:03.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/cartography
+[04Jan2025 22:39:03.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_2
+[04Jan2025 22:39:03.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_1
+[04Jan2025 22:39:03.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/hay_bale
+[04Jan2025 22:39:03.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/med_1
+[04Jan2025 22:39:03.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/pen
+[04Jan2025 22:39:03.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/farm
+[04Jan2025 22:39:03.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/chemist
+[04Jan2025 22:39:03.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_3
+[04Jan2025 22:39:03.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_2
+[04Jan2025 22:39:03.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/shepherd
+[04Jan2025 22:39:03.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_5
+[04Jan2025 22:39:03.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_4
+[04Jan2025 22:39:03.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/pig
+[04Jan2025 22:39:03.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/big_2
+[04Jan2025 22:39:03.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_3
+[04Jan2025 22:39:03.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/terminator
+[04Jan2025 22:39:03.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/fd_farm
+[04Jan2025 22:39:03.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/sheep
+[04Jan2025 22:39:03.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/chicken
+[04Jan2025 22:39:03.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/cow
+[04Jan2025 22:39:03.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/butcher
+[04Jan2025 22:39:03.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_1
+[04Jan2025 22:39:03.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_4
+[04Jan2025 22:39:03.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/wagon
+[04Jan2025 22:39:05.730] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/tree_5
+[04Jan2025 22:39:05.736] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/roads/t_2
+[04Jan2025 22:39:06.433] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/65510, l='ServerLevel[world]', x=358.28, y=80.19, z=1145.36], dimensionLocationPath overworld
+[04Jan2025 22:39:06.434] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/65510, l='ServerLevel[world]', x=358.28, y=80.19, z=1145.36] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@c1]
+[04Jan2025 22:39:07.084] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/65510, l='ServerLevel[world]', x=358.13, y=79.95, z=1146.20, removed=DISCARDED]
+[04Jan2025 22:39:10.666] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[04Jan2025 22:39:12.779] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 66bb52b3-86b6-42b8-b5bd-3b984e42c2c5
+[04Jan2025 22:39:12.780] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 66bb52b3-86b6-42b8-b5bd-3b984e42c2c5
+[04Jan2025 22:39:12.962] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 22:39:12.962] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:39:12.964] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 22:39:41.548] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 22:39:41.549] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:39:41.550] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 22:39:47.650] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Jan2025 22:39:50.985] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus lost connection: Timed out
+[04Jan2025 22:39:50.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus left the game
+[04Jan2025 22:39:50.986] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was unloaded
+[04Jan2025 22:40:05.345] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/roads/terminator
+[04Jan2025 22:40:05.345] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/tree_3
+[04Jan2025 22:40:05.346] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/stall
+[04Jan2025 22:40:05.346] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/tree_4
+[04Jan2025 22:40:05.346] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/stall_big
+[04Jan2025 22:40:10.243] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/well
+[04Jan2025 22:40:10.243] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/small_1
+[04Jan2025 22:40:10.249] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/roads/straight
+[04Jan2025 22:40:10.250] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/pen
+[04Jan2025 22:40:10.251] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/bush
+[04Jan2025 22:40:10.257] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/small_2
+[04Jan2025 22:40:10.260] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/med_1
+[04Jan2025 22:40:10.267] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/mason
+[04Jan2025 22:40:10.275] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/greenhouse
+[04Jan2025 22:40:10.282] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/big_2
+[04Jan2025 22:40:11.634] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 22:40:11.635] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:40:11.636] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 22:40:12.000] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/tree_2
+[04Jan2025 22:40:12.042] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/small_3
+[04Jan2025 22:40:12.046] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/tree_1
+[04Jan2025 22:40:13.375] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/roads/bent_1
+[04Jan2025 22:40:13.882] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/loomhouse
+[04Jan2025 22:40:13.920] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/roads/t_3
+[04Jan2025 22:40:13.922] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/small_4
+[04Jan2025 22:40:13.946] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/big_1
+[04Jan2025 22:40:13.952] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/wagon
+[04Jan2025 22:40:13.985] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/deco/tree_6
+[04Jan2025 22:40:15.619] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/fd_farm
+[04Jan2025 22:40:18.213] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/roads/bent_2
+[04Jan2025 22:40:18.215] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/temple
+[04Jan2025 22:40:21.869] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/jobsite/bakery
+[04Jan2025 22:40:23.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved too quickly! -5.1761937787305214,0.0,-8.90050799865503
+[04Jan2025 22:40:26.938] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 29 messages to dispatch.
+[04Jan2025 22:40:26.950] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[04Jan2025 22:40:27.010] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[04Jan2025 22:40:27.056] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[04Jan2025 22:40:27.102] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[04Jan2025 22:40:27.159] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[04Jan2025 22:40:27.219] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[04Jan2025 22:40:27.295] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[04Jan2025 22:40:27.348] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[04Jan2025 22:40:27.348] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[04Jan2025 22:40:27.348] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [grapplemod, treechop, betterdungeons, kuma_api, supermartijn642configlib, netherportalfix, playeranimator, botarium, betteroceanmonuments, dynamiclights, immersive_aircraft, modernfix, citadel, alexsmobs, yungsapi, mixinextras, zume, relics, mcwdoors, clickadv, balm, carryon, betterfortresses, cloth_config, ctov, sawmill, embeddium, rubidium, corpse, farmersdelight, handcrafted, mcwtrpdoors, supermartijn642corelib, yungsbridges, resourcefulconfig, lionfishapi, cataclysm, curios, patchouli, oculus, basicweapons, cobblemon, betterstrongholds, resourcefullib, architectury, cupboard, betterendisland, framework, smallships, bettermineshafts, enchantinginfuser, mcwlights, betterjungletemples, betteradvancements, mowziesmobs, geckolib, octolib, jei, lithostitched, goblintraders, caelus, journeymap, travelersbackpack, naturescompass, artifacts, configured, libx, simplytools, betterdeserttemples, explorerscompass, waveycapes, puzzlesaccessapi, skinlayers3d, forge, minecraft, alexscaves, terrablender, biomesoplenty, moonlight, mousetweaks, bettercombat, jade, animal_feeding_trough, spectrelib, movingelevators, kotlinforforge, notenoughanimations, mes, polymorph, parcool, nullscape, immersive_paintings, ferritecore, puzzleslib, immersive_melodies, extremesoundmuffler, expandability, skinrestorer, xpbook]
+[04Jan2025 22:40:27.348] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:skin_refresh' : Version test of '' from client : ACCEPTED
+[04Jan2025 22:40:27.348] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.348] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'parcool:message' : Version test of '3.3.1.0' from client : ACCEPTED
+[04Jan2025 22:40:27.348] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[04Jan2025 22:40:27.348] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[04Jan2025 22:40:27.348] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_im:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.348] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.348] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.348] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'travelersbackpack:1' from client : ACCEPTED
+[04Jan2025 22:40:27.348] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:treechop-channel' : Version test of '7' from client : ACCEPTED
+[04Jan2025 22:40:27.348] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enchantinginfuser:1' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'relics:network' : Version test of '1.0' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sawmill:channel' : Version test of '0' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_ip:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:refresh' : Version test of '' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:play' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Version test of '1.0.0' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.349] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[04Jan2025 22:40:27.350] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'movingelevators:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.350] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_air:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.350] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.350] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.350] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.350] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'libx:netchannel' : Version test of '10' from client : ACCEPTED
+[04Jan2025 22:40:27.350] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.350] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.350] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skinshuffle:handshake' : Version test of '' from client : ACCEPTED
+[04Jan2025 22:40:27.350] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'polymorph:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.350] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.351] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.351] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[04Jan2025 22:40:27.351] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explorerscompass:explorerscompass' : Version test of '1.0' from client : ACCEPTED
+[04Jan2025 22:40:27.351] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of '1.1.8' from client : ACCEPTED
+[04Jan2025 22:40:27.351] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Version test of '1.0' from client : ACCEPTED
+[04Jan2025 22:40:27.351] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.351] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.351] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'grapplemod:channel' : Version test of '1.0' from client : ACCEPTED
+[04Jan2025 22:40:27.351] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.351] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[04Jan2025 22:40:27.351] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'smallships:default' : Version test of '1.0.0' from client : ACCEPTED
+[04Jan2025 22:40:27.351] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cobblemon:main' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.351] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[04Jan2025 22:40:27.351] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of '1' from client : ACCEPTED
+[04Jan2025 22:40:27.351] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[04Jan2025 22:40:27.351] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[04Jan2025 22:40:27.352] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[04Jan2025 22:40:27.352] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[04Jan2025 22:40:27.352] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:27.352] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:27.352] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[04Jan2025 22:40:27.352] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:27.352] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:27.355] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[04Jan2025 22:40:27.406] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[04Jan2025 22:40:27.436] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[04Jan2025 22:40:27.436] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:27.436] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:27.476] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[04Jan2025 22:40:27.476] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[04Jan2025 22:40:27.476] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:27.476] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:27.476] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[04Jan2025 22:40:27.476] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:27.476] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:27.551] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[04Jan2025 22:40:27.594] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[04Jan2025 22:40:27.646] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[04Jan2025 22:40:27.661] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[04Jan2025 22:40:27.661] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:27.661] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:27.662] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[04Jan2025 22:40:27.662] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:27.662] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:27.699] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[04Jan2025 22:40:27.700] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[04Jan2025 22:40:27.700] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:27.700] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:27.705] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[04Jan2025 22:40:27.705] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:27.705] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:27.706] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[04Jan2025 22:40:27.706] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:27.706] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:27.746] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[04Jan2025 22:40:27.770] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[04Jan2025 22:40:27.770] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:27.770] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:27.787] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[04Jan2025 22:40:27.832] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[04Jan2025 22:40:27.892] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[04Jan2025 22:40:27.908] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[04Jan2025 22:40:27.908] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:27.908] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:27.908] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[04Jan2025 22:40:27.908] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:27.908] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:27.956] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[04Jan2025 22:40:27.956] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:27.956] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:27.956] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[04Jan2025 22:40:27.956] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:27.956] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:27.958] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[04Jan2025 22:40:27.976] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[04Jan2025 22:40:27.976] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:27.976] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:28.011] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[04Jan2025 22:40:28.044] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[04Jan2025 22:40:28.044] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:28.044] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:28.053] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[04Jan2025 22:40:28.115] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[04Jan2025 22:40:28.115] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:28.115] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:28.116] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config parcool-server.toml' to 'fml:handshake' sequence 21
+[04Jan2025 22:40:28.181] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 22
+[04Jan2025 22:40:28.229] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 23
+[04Jan2025 22:40:28.273] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config enchantinginfuser-server.toml' to 'fml:handshake' sequence 24
+[04Jan2025 22:40:28.316] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corpse-server.toml' to 'fml:handshake' sequence 25
+[04Jan2025 22:40:28.372] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config xptome-server.toml' to 'fml:handshake' sequence 26
+[04Jan2025 22:40:28.374] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[04Jan2025 22:40:28.374] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:28.374] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:28.429] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 27
+[04Jan2025 22:40:28.472] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 28
+[04Jan2025 22:40:28.474] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[04Jan2025 22:40:28.474] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:28.474] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:28.481] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[04Jan2025 22:40:28.481] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:28.481] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:28.587] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[04Jan2025 22:40:28.587] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:28.587] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:28.768] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[04Jan2025 22:40:28.768] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:28.769] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:28.769] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[04Jan2025 22:40:28.769] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:28.769] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:28.769] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[04Jan2025 22:40:28.769] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:28.769] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:28.769] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[04Jan2025 22:40:28.770] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:28.770] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:28.838] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[04Jan2025 22:40:28.838] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[04Jan2025 22:40:28.838] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[04Jan2025 22:40:28.861] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Jan2025 22:40:28.936] [ForkJoinPool.commonPool-worker-14/DEBUG] [SkinRestorer/]: Fetching ElKingus's skin
+[04Jan2025 22:40:29.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElKingus[/127.107.176.211:54177] logged in with entity id 66929 at (228.95904190983038, 78.0, -144.75761896546447)
+[04Jan2025 22:40:29.134] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@82d6499 into net.minecraft.network.Connection@49083dd7
+[04Jan2025 22:40:29.134] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 229 classes
+[04Jan2025 22:40:29.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus joined the game
+[04Jan2025 22:40:29.270] [Server thread/INFO] [Jade/]: Syncing config to ElKingus (d7576eb2-d4e0-3173-8113-1cfb36272967)
+[04Jan2025 22:40:29.590] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/desert_oasis/house/med_2
+[04Jan2025 22:40:35.359] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was loaded
+[04Jan2025 22:40:35.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[04Jan2025 22:40:45.208] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[04Jan2025 22:40:45.208] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:40:45.239] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[04Jan2025 22:40:50.652] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Jan2025 22:40:53.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2655ms or 53 ticks behind
+[04Jan2025 22:41:03.673] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/67626, l='ServerLevel[world]', x=423.35, y=79.53, z=1174.46], dimensionLocationPath overworld
+[04Jan2025 22:41:03.673] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/67626, l='ServerLevel[world]', x=423.35, y=79.53, z=1174.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@c1]
+[04Jan2025 22:41:03.926] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/67628, l='ServerLevel[world]', x=423.67, y=78.45, z=1174.36], dimensionLocationPath overworld
+[04Jan2025 22:41:03.926] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/67628, l='ServerLevel[world]', x=423.67, y=78.45, z=1174.36] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@c1, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1082a]
+[04Jan2025 22:41:04.384] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/67628, l='ServerLevel[world]', x=424.41, y=78.20, z=1173.84, removed=DISCARDED]
+[04Jan2025 22:41:04.684] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/67626, l='ServerLevel[world]', x=424.45, y=77.00, z=1174.88, removed=DISCARDED]
+[04Jan2025 22:41:13.059] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/swamp/base_plate
+[04Jan2025 22:41:13.068] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/beach/base_plate
+[04Jan2025 22:41:13.080] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/base_plate
+[04Jan2025 22:41:13.092] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/badlands/base_plate
+[04Jan2025 22:41:13.101] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/plains/base_plate
+[04Jan2025 22:41:13.107] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/jungle/base_plate
+[04Jan2025 22:41:13.115] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/mountain/base_plate
+[04Jan2025 22:41:13.136] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/desert/base_plate
+[04Jan2025 22:41:13.141] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/taiga/base_plate
+[04Jan2025 22:41:13.151] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/dark_forest/base_plate
+[04Jan2025 22:41:13.161] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/snowy/base_plate
+[04Jan2025 22:41:17.641] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[04Jan2025 22:41:17.642] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:41:17.645] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[04Jan2025 22:41:28.811] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=380.88, y=81.75, z=1121.30]
+[04Jan2025 22:41:29.807] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=380.76, y=83.17, z=1117.26], dimensionLocationPath overworld
+[04Jan2025 22:41:29.807] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=380.76, y=83.17, z=1117.26] in list []
+[04Jan2025 22:41:32.237] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=379.65, y=84.00, z=1112.30]
+[04Jan2025 22:41:35.238] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=376.70, y=86.00, z=1106.12], dimensionLocationPath overworld
+[04Jan2025 22:41:35.238] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=376.70, y=86.00, z=1106.12] in list []
+[04Jan2025 22:41:41.115] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/68256, l='ServerLevel[world]', x=384.75, y=78.42, z=1109.73], dimensionLocationPath overworld
+[04Jan2025 22:41:41.115] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/68256, l='ServerLevel[world]', x=384.75, y=78.42, z=1109.73] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@c1]
+[04Jan2025 22:41:41.558] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/68256, l='ServerLevel[world]', x=384.94, y=78.18, z=1110.42, removed=DISCARDED]
+[04Jan2025 22:41:46.452] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[04Jan2025 22:41:46.453] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:41:46.454] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[04Jan2025 22:41:56.801] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/68577, l='ServerLevel[world]', x=385.47, y=75.35, z=1101.58], dimensionLocationPath overworld
+[04Jan2025 22:41:56.801] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/68577, l='ServerLevel[world]', x=385.47, y=75.35, z=1101.58] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@c1]
+[04Jan2025 22:42:10.232] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/68821, l='ServerLevel[world]', x=391.72, y=75.41, z=1109.29], dimensionLocationPath overworld
+[04Jan2025 22:42:10.232] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/68821, l='ServerLevel[world]', x=391.72, y=75.41, z=1109.29] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@c1, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@10be1]
+[04Jan2025 22:42:11.549] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ImSensei_'/193, l='ServerLevel[world]', x=391.19, y=72.00, z=1109.44]
+[04Jan2025 22:42:12.148] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/68821, l='ServerLevel[world]', x=393.07, y=72.00, z=1109.47, removed=DISCARDED]
+[04Jan2025 22:42:14.600] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/bent_1
+[04Jan2025 22:42:14.604] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/small_1
+[04Jan2025 22:42:14.607] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/small_2
+[04Jan2025 22:42:14.610] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/small_3
+[04Jan2025 22:42:14.613] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/med_1
+[04Jan2025 22:42:14.614] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/med_2
+[04Jan2025 22:42:14.615] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/big_1
+[04Jan2025 22:42:14.617] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/big_2
+[04Jan2025 22:42:14.618] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/tannery
+[04Jan2025 22:42:14.618] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/library
+[04Jan2025 22:42:14.619] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/butcher
+[04Jan2025 22:42:14.621] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/cartographer
+[04Jan2025 22:42:14.622] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/chemist
+[04Jan2025 22:42:14.623] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/fishing_hut
+[04Jan2025 22:42:14.624] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/mason
+[04Jan2025 22:42:14.627] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/shepherd
+[04Jan2025 22:42:14.628] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/smith
+[04Jan2025 22:42:14.629] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/farm
+[04Jan2025 22:42:14.630] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/fd_farm
+[04Jan2025 22:42:14.631] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/bench
+[04Jan2025 22:42:14.631] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/campfire
+[04Jan2025 22:42:14.631] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/flower_pot
+[04Jan2025 22:42:14.632] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/fountain
+[04Jan2025 22:42:14.632] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/well
+[04Jan2025 22:42:14.632] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_1
+[04Jan2025 22:42:14.632] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_2
+[04Jan2025 22:42:14.632] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_3
+[04Jan2025 22:42:14.633] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_4
+[04Jan2025 22:42:14.633] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_5
+[04Jan2025 22:42:14.640] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/inter
+[04Jan2025 22:42:14.647] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/straight
+[04Jan2025 22:42:14.695] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/villager/swamp
+[04Jan2025 22:42:14.786] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/bent_2
+[04Jan2025 22:42:14.827] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/t_3
+[04Jan2025 22:42:15.310] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/t_2
+[04Jan2025 22:42:15.550] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/t_1
+[04Jan2025 22:42:16.175] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/terminator
+[04Jan2025 22:42:18.118] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 22:42:18.118] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:42:18.120] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 22:42:19.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Jan2025 22:42:36.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
+[04Jan2025 22:42:43.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 22:42:43.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 22:42:55.735] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 22:42:55.736] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 22:42:55.738] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 22:42:56.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4935ms or 98 ticks behind
+[04Jan2025 22:43:08.049] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/63719, l='ServerLevel[world]', x=403.70, y=62.57, z=1145.97] died, message: 'Unemployed was slain by Zombie'
