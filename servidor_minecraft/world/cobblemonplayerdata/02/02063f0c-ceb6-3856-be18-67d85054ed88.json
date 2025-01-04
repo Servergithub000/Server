@@ -1,0 +1,29 @@
+{
+  "uuid": "02063f0c-ceb6-3856-be18-67d85054ed88",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "6a49b578-08c8-4c6c-853d-480790819cb2",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 2,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 3,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 3,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "poison": 1,
+      "electric": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:gimmighoul": 1
+    },
+    "aspectsCollected": {}
+  }
+}

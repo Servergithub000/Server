@@ -1,0 +1,18 @@
+[04Jan2025 00:16:22.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Jan2025 00:16:23.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Jan2025 00:16:23.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Jan2025 00:16:23.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kurteeee lost connection: Server closed
+[04Jan2025 00:16:23.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kurteeee left the game
+[04Jan2025 00:16:23.021] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5c5ee0f6-ca7f-3ffc-b3ed-cea9cc4be3a1 was unloaded
+[04Jan2025 00:16:23.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Jan2025 00:16:23.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Jan2025 00:16:23.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Jan2025 00:16:23.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Jan2025 00:16:23.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Jan2025 00:16:23.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Jan2025 00:16:23.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Jan2025 00:16:23.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Jan2025 00:16:23.979] [Server thread/INFO] [Framework/]: Unloading server configs...
+[04Jan2025 00:16:23.981] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[04Jan2025 00:16:23.984] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[04Jan2025 00:16:24.029] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
