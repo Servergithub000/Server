@@ -17019,3 +17019,261 @@ java.lang.IllegalStateException: recursive call to sendBlockUpdated
 [04Jan2025 23:03:32.373] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [04Jan2025 23:03:32.375] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
 [04Jan2025 23:03:48.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4640ms or 92 ticks behind
+[04Jan2025 23:04:02.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved wrongly!
+[04Jan2025 23:04:09.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6444ms or 128 ticks behind
+[04Jan2025 23:04:13.519] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[04Jan2025 23:04:13.520] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:04:13.521] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[04Jan2025 23:04:25.407] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/95693, l='ServerLevel[world]', x=-1337.42, y=36.58, z=1669.34], dimensionLocationPath overworld
+[04Jan2025 23:04:25.408] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/95693, l='ServerLevel[world]', x=-1337.42, y=36.58, z=1669.34] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b6ee]
+[04Jan2025 23:04:25.941] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/95693, l='ServerLevel[world]', x=-1337.67, y=36.33, z=1669.66, removed=DISCARDED]
+[04Jan2025 23:04:27.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3298ms or 65 ticks behind
+[04Jan2025 23:04:37.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 23:04:37.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 23:04:46.726] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1349.68, y=35.43, z=1647.70]
+[04Jan2025 23:04:46.773] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1349.67, y=35.18, z=1647.70], dimensionLocationPath overworld
+[04Jan2025 23:04:46.773] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1349.67, y=35.18, z=1647.70] in list []
+[04Jan2025 23:04:46.976] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1349.69, y=35.00, z=1647.70]
+[04Jan2025 23:04:47.460] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1348.94, y=35.00, z=1647.32], dimensionLocationPath overworld
+[04Jan2025 23:04:47.460] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1348.94, y=35.00, z=1647.32] in list []
+[04Jan2025 23:04:47.514] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1348.85, y=35.00, z=1647.33]
+[04Jan2025 23:04:47.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4731ms or 94 ticks behind
+[04Jan2025 23:04:48.001] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1347.64, y=35.41, z=1648.19], dimensionLocationPath overworld
+[04Jan2025 23:04:48.001] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1347.64, y=35.41, z=1648.19] in list []
+[04Jan2025 23:04:51.083] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[04Jan2025 23:04:51.084] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:04:51.085] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[04Jan2025 23:05:07.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04Jan2025 23:05:09.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved wrongly!
+[04Jan2025 23:05:24.194] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[04Jan2025 23:05:24.194] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:05:24.196] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[04Jan2025 23:05:37.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[04Jan2025 23:05:53.823] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1339.30, y=27.00, z=1623.86]
+[04Jan2025 23:05:55.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved wrongly!
+[04Jan2025 23:05:55.943] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1339.59, y=28.27, z=1625.25], dimensionLocationPath overworld
+[04Jan2025 23:05:55.943] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1339.59, y=28.27, z=1625.25] in list []
+[04Jan2025 23:05:56.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04Jan2025 23:05:56.932] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[04Jan2025 23:05:56.933] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:05:56.935] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[04Jan2025 23:06:17.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[04Jan2025 23:06:27.646] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1336.65, y=28.06, z=1637.64]
+[04Jan2025 23:06:30.722] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[04Jan2025 23:06:30.722] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:06:30.724] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[04Jan2025 23:06:34.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2628ms or 52 ticks behind
+[04Jan2025 23:06:37.194] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1325.72, y=62.70, z=1640.66], dimensionLocationPath overworld
+[04Jan2025 23:06:37.194] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1325.72, y=62.70, z=1640.66] in list []
+[04Jan2025 23:06:40.282] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1325.74, y=61.58, z=1648.59]
+[04Jan2025 23:06:40.356] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1325.77, y=61.46, z=1648.63], dimensionLocationPath overworld
+[04Jan2025 23:06:40.356] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1325.77, y=61.46, z=1648.63] in list []
+[04Jan2025 23:06:40.472] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1325.83, y=61.28, z=1648.75]
+[04Jan2025 23:06:49.744] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1353.24, y=62.68, z=1676.97], dimensionLocationPath overworld
+[04Jan2025 23:06:49.744] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1353.24, y=62.68, z=1676.97] in list []
+[04Jan2025 23:06:52.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3334ms or 66 ticks behind
+[04Jan2025 23:06:58.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/bent_2
+[04Jan2025 23:06:58.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/bent_1
+[04Jan2025 23:06:58.617] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/straight
+[04Jan2025 23:06:58.620] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/med_1
+[04Jan2025 23:06:58.622] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_3
+[04Jan2025 23:06:58.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/well
+[04Jan2025 23:06:58.629] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_1
+[04Jan2025 23:06:58.634] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_4
+[04Jan2025 23:06:58.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/tannery
+[04Jan2025 23:06:58.642] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_3
+[04Jan2025 23:06:58.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_1
+[04Jan2025 23:06:58.651] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/campfire_2
+[04Jan2025 23:06:58.656] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/mason
+[04Jan2025 23:06:58.657] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_1
+[04Jan2025 23:06:58.657] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_2
+[04Jan2025 23:06:58.658] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/armoursmith
+[04Jan2025 23:06:58.658] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/bench
+[04Jan2025 23:06:58.658] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/campfire_1
+[04Jan2025 23:06:58.661] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_4
+[04Jan2025 23:06:58.661] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_5
+[04Jan2025 23:06:58.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/farm
+[04Jan2025 23:06:58.665] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/terminator
+[04Jan2025 23:06:58.668] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/butcher
+[04Jan2025 23:06:58.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/cartography
+[04Jan2025 23:06:58.672] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/flowerbed
+[04Jan2025 23:06:58.673] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_2
+[04Jan2025 23:06:58.676] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/chemist
+[04Jan2025 23:06:58.678] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/inter
+[04Jan2025 23:06:58.678] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/weaponsmith
+[04Jan2025 23:06:58.679] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/fountain
+[04Jan2025 23:07:03.111] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[04Jan2025 23:07:07.418] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[04Jan2025 23:07:07.419] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:07:07.430] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[04Jan2025 23:07:09.379] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Jan2025 23:07:10.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2361ms or 47 ticks behind
+[04Jan2025 23:07:13.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [When in Rome]
+[04Jan2025 23:07:37.285] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 23:07:37.286] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:07:37.287] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 23:07:53.396] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Jan2025 23:07:57.344] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Jan2025 23:08:08.142] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 23:08:08.142] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:08:08.143] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 23:08:38.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[04Jan2025 23:08:39.348] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 23:08:39.348] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:08:39.349] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 23:09:09.442] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 23:09:09.442] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:09:09.443] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 23:09:37.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! -5.7159148226743355,-1.206956491728306E-5,-9.167220653403206
+[04Jan2025 23:09:37.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! -6.279211843357871,-1.3074001401491842E-5,-9.902491025858808
+[04Jan2025 23:09:37.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! -6.8524502755704475,-1.4078299130915184E-5,-10.634512005899978
+[04Jan2025 23:09:37.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! -7.434951795697941,-1.5082468991067799E-5,-11.363610478121359
+[04Jan2025 23:09:37.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! -8.026076107004371,-1.6086521014813115E-5,-12.090105193327304
+[04Jan2025 23:09:37.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! -8.625214296152649,-1.70904644392067E-5,-12.814309719716107
+[04Jan2025 23:09:39.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Jan2025 23:09:40.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[04Jan2025 23:09:40.374] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 23:09:40.374] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:09:40.376] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 23:09:41.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Jan2025 23:09:50.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Jan2025 23:09:58.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 23:09:58.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 23:10:09.562] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 23:10:09.563] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:10:09.564] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 23:10:20.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! -9.530205070582781,2.3639266299493613,-3.8407838482353327
+[04Jan2025 23:10:20.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! -10.453143049760541,2.6243596878501876,-4.291412813654347
+[04Jan2025 23:10:20.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! -11.371426354364871,2.8839809809770287,-4.751547990244092
+[04Jan2025 23:10:20.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! -12.28538033469215,3.140891789770393,-5.220445489114468
+[04Jan2025 23:10:20.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! -13.195335144156388,3.3935386256870856,-5.697385459758976
+[04Jan2025 23:10:20.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! -14.101620359988345,3.6406665183829574,-6.181677243760959
+[04Jan2025 23:10:20.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! -15.004563265448496,3.881277929757985,-6.6726584463247605
+[04Jan2025 23:10:20.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! -15.904480635142704,4.114596657752983,-7.169705074965748
+[04Jan2025 23:10:23.142] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mesa/roads/straight
+[04Jan2025 23:10:23.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mesa/house/small_3
+[04Jan2025 23:10:23.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mesa/house/small_1
+[04Jan2025 23:10:23.145] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mesa/house/small_2
+[04Jan2025 23:10:23.145] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mesa/jobsite/pen
+[04Jan2025 23:10:23.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mesa/house/small_4
+[04Jan2025 23:10:23.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mesa/jobsite/animal_shop
+[04Jan2025 23:10:23.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mesa/deco/lamp_1
+[04Jan2025 23:10:23.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/chicken
+[04Jan2025 23:10:23.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mesa/jobsite/farm
+[04Jan2025 23:10:23.149] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mesa/jobsite/fishing_hut
+[04Jan2025 23:10:23.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mesa/house/big_1
+[04Jan2025 23:10:23.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mesa/deco/well
+[04Jan2025 23:10:23.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mesa/roads/terminator
+[04Jan2025 23:10:23.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mesa/deco/lamp_5
+[04Jan2025 23:10:23.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/mesa/deco/lamp_3
+[04Jan2025 23:10:23.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Jan2025 23:10:27.349] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/104540, l='ServerLevel[world]', x=-1401.69, y=28.35, z=1675.37], dimensionLocationPath overworld
+[04Jan2025 23:10:27.349] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/104540, l='ServerLevel[world]', x=-1401.69, y=28.35, z=1675.37] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b6ee]
+[04Jan2025 23:10:27.752] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/104540, l='ServerLevel[world]', x=-1401.61, y=28.11, z=1675.06, removed=DISCARDED]
+[04Jan2025 23:10:39.635] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 23:10:39.636] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:10:39.638] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 23:10:52.284] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/taiga/base_plate
+[04Jan2025 23:10:52.287] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/beach/base_plate
+[04Jan2025 23:10:52.291] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/plains/base_plate
+[04Jan2025 23:10:52.294] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/badlands/base_plate
+[04Jan2025 23:10:52.297] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/jungle/base_plate
+[04Jan2025 23:10:52.302] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/swamp/base_plate
+[04Jan2025 23:10:52.308] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/dark_forest/base_plate
+[04Jan2025 23:11:00.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved wrongly!
+[04Jan2025 23:11:10.080] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Jan2025 23:11:10.080] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:11:10.080] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Jan2025 23:11:32.111] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1398.75, y=35.75, z=1676.98]
+[04Jan2025 23:11:32.434] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1398.70, y=36.22, z=1677.28], dimensionLocationPath overworld
+[04Jan2025 23:11:32.435] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1398.70, y=36.22, z=1677.28] in list []
+[04Jan2025 23:11:33.205] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1398.59, y=37.00, z=1678.00]
+[04Jan2025 23:11:39.890] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1377.65, y=62.62, z=1677.62], dimensionLocationPath overworld
+[04Jan2025 23:11:39.890] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1377.65, y=62.62, z=1677.62] in list []
+[04Jan2025 23:11:41.578] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Jan2025 23:11:41.578] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:11:41.578] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Jan2025 23:11:42.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04Jan2025 23:11:45.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of iDunk3d_ON) moved wrongly! 0.3352798159965005
+[04Jan2025 23:11:45.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of iDunk3d_ON) moved wrongly! 0.5799504334186167
+[04Jan2025 23:11:45.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of iDunk3d_ON) moved wrongly! 0.793632639280986
+[04Jan2025 23:11:45.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of iDunk3d_ON) moved wrongly! 1.0293181857593936
+[04Jan2025 23:11:46.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of iDunk3d_ON) moved wrongly! 0.2841060171560912
+[04Jan2025 23:11:46.438] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Jan2025 23:11:46.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of iDunk3d_ON) moved wrongly! 0.3043348167370823
+[04Jan2025 23:11:47.746] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1372.52, y=61.22, z=1677.59]
+[04Jan2025 23:11:49.688] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1373.71, y=61.40, z=1676.66], dimensionLocationPath overworld
+[04Jan2025 23:11:49.688] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1373.71, y=61.40, z=1676.66] in list []
+[04Jan2025 23:11:49.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1373.70, y=61.40, z=1676.60]
+[04Jan2025 23:11:52.650] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1375.34, y=61.76, z=1671.22], dimensionLocationPath overworld
+[04Jan2025 23:11:52.650] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1375.34, y=61.76, z=1671.22] in list []
+[04Jan2025 23:11:53.624] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1374.37, y=61.34, z=1670.44]
+[04Jan2025 23:11:55.935] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1371.78, y=61.54, z=1670.42], dimensionLocationPath overworld
+[04Jan2025 23:11:55.935] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1371.78, y=61.54, z=1670.42] in list []
+[04Jan2025 23:11:56.425] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1371.36, y=61.34, z=1670.90]
+[04Jan2025 23:12:01.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04Jan2025 23:12:02.484] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1371.96, y=62.63, z=1661.29], dimensionLocationPath overworld
+[04Jan2025 23:12:02.484] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1371.96, y=62.63, z=1661.29] in list []
+[04Jan2025 23:12:06.258] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1369.31, y=61.31, z=1659.20]
+[04Jan2025 23:12:08.445] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1365.45, y=62.51, z=1660.22], dimensionLocationPath overworld
+[04Jan2025 23:12:08.446] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1365.45, y=62.51, z=1660.22] in list []
+[04Jan2025 23:12:12.400] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1359.25, y=61.26, z=1661.24]
+[04Jan2025 23:12:12.675] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1357.67, y=62.04, z=1661.72], dimensionLocationPath overworld
+[04Jan2025 23:12:12.675] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1357.67, y=62.04, z=1661.72] in list []
+[04Jan2025 23:12:15.191] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Jan2025 23:12:15.191] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:12:15.192] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Jan2025 23:12:27.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04Jan2025 23:12:46.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4077ms or 81 ticks behind
+[04Jan2025 23:12:50.631] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Jan2025 23:12:50.631] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:12:50.632] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Jan2025 23:13:05.058] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-1060.29, y=62.07, z=1498.82]
+[04Jan2025 23:13:06.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4666ms or 93 ticks behind
+[04Jan2025 23:13:25.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4039ms or 80 ticks behind
+[04Jan2025 23:13:29.261] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[04Jan2025 23:13:29.261] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:13:29.262] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[04Jan2025 23:13:44.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4334ms or 86 ticks behind
+[04Jan2025 23:13:45.271] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[04Jan2025 23:13:47.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Jan2025 23:13:48.173] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-976.71, y=62.07, z=1455.78], dimensionLocationPath overworld
+[04Jan2025 23:13:48.173] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-976.71, y=62.07, z=1455.78] in list []
+[04Jan2025 23:13:48.365] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/46830, l='ServerLevel[world]', x=-976.18, y=62.07, z=1455.41]
+[04Jan2025 23:13:49.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Jan2025 23:14:03.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3465ms or 69 ticks behind
+[04Jan2025 23:14:06.963] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[04Jan2025 23:14:06.963] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[04Jan2025 23:14:06.963] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[04Jan2025 23:14:10.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/bent_2
+[04Jan2025 23:14:10.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/bent_1
+[04Jan2025 23:14:10.006] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/straight
+[04Jan2025 23:14:10.007] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/med_1
+[04Jan2025 23:14:10.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_3
+[04Jan2025 23:14:10.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/well
+[04Jan2025 23:14:10.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_1
+[04Jan2025 23:14:10.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_4
+[04Jan2025 23:14:10.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/tannery
+[04Jan2025 23:14:10.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_3
+[04Jan2025 23:14:10.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_1
+[04Jan2025 23:14:10.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/campfire_2
+[04Jan2025 23:14:10.016] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/mason
+[04Jan2025 23:14:10.016] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_1
+[04Jan2025 23:14:10.017] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_2
+[04Jan2025 23:14:10.017] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/armoursmith
+[04Jan2025 23:14:10.017] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/bench
+[04Jan2025 23:14:10.017] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/campfire_1
+[04Jan2025 23:14:10.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_4
+[04Jan2025 23:14:10.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_5
+[04Jan2025 23:14:10.022] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/farm
+[04Jan2025 23:14:10.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/cow
+[04Jan2025 23:14:10.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/terminator
+[04Jan2025 23:14:10.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/butcher
+[04Jan2025 23:14:10.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/cartography
+[04Jan2025 23:14:10.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/flowerbed
+[04Jan2025 23:14:10.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/chicken
+[04Jan2025 23:14:10.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_2
+[04Jan2025 23:14:10.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/chemist
+[04Jan2025 23:14:10.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/inter
+[04Jan2025 23:14:10.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/weaponsmith
+[04Jan2025 23:14:10.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/fountain
