@@ -35,6 +35,7 @@
       "shrubland": "2025-01-03 21:54:37 +0000",
       "rocky_shrubland": "2025-01-03 23:22:24 +0000",
       "scrubland": "2025-01-03 20:47:08 +0000",
+      "bayou": "2025-01-05 01:18:07 +0000",
       "erupting_inferno": "2025-01-03 23:27:13 +0000",
       "highland": "2025-01-03 22:01:29 +0000",
       "marsh": "2025-01-03 23:41:09 +0000",
@@ -424,14 +425,17 @@
       "minecraft:old_growth_pine_taiga": "2025-01-03 22:00:46 +0000",
       "minecraft:taiga": "2025-01-03 21:59:20 +0000",
       "minecraft:birch_forest": "2025-01-03 21:57:08 +0000",
+      "minecraft:windswept_hills": "2025-01-05 01:16:03 +0000",
       "minecraft:wooded_badlands": "2025-01-04 23:04:01 +0000",
       "minecraft:savanna_plateau": "2025-01-03 22:47:00 +0000",
       "minecraft:beach": "2025-01-03 21:11:52 +0000",
       "minecraft:dark_forest": "2025-01-03 22:04:41 +0000",
+      "minecraft:mangrove_swamp": "2025-01-05 01:17:48 +0000",
       "minecraft:sparse_jungle": "2025-01-03 23:13:07 +0000",
       "minecraft:river": "2025-01-03 19:56:48 +0000",
       "minecraft:lukewarm_ocean": "2025-01-04 22:27:48 +0000",
       "minecraft:stony_shore": "2025-01-03 22:13:54 +0000",
+      "minecraft:dripstone_caves": "2025-01-05 01:34:36 +0000",
       "minecraft:swamp": "2025-01-04 21:41:19 +0000",
       "minecraft:cold_ocean": "2025-01-03 22:02:50 +0000",
       "minecraft:forest": "2025-01-03 22:05:48 +0000",
@@ -1693,6 +1697,7 @@
       "minecraft:magma_cube": "2025-01-03 23:32:00 +0000",
       "minecraft:spider": "2025-01-03 20:15:44 +0000",
       "minecraft:creeper": "2025-01-03 20:15:40 +0000",
+      "minecraft:slime": "2025-01-05 01:18:31 +0000",
       "minecraft:zombie": "2025-01-03 20:16:32 +0000",
       "minecraft:drowned": "2025-01-03 23:18:34 +0000",
       "minecraft:zombie_villager": "2025-01-03 20:16:06 +0000"
@@ -5063,6 +5068,30 @@
   "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
       "discover": "2025-01-05 00:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-05 01:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 01:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 01:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 01:18:36 +0000"
     },
     "done": true
   },

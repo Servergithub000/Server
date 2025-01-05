@@ -52,6 +52,7 @@
       "shrubland": "2025-01-03 20:45:41 +0000",
       "rocky_shrubland": "2025-01-03 21:46:17 +0000",
       "scrubland": "2025-01-03 21:14:55 +0000",
+      "bayou": "2025-01-05 01:20:44 +0000",
       "highland": "2025-01-03 21:44:09 +0000",
       "marsh": "2025-01-03 21:43:56 +0000",
       "clover_patch": "2025-01-03 21:43:54 +0000",
@@ -970,6 +971,7 @@
       "minecraft:windswept_hills": "2025-01-05 00:50:11 +0000",
       "minecraft:beach": "2025-01-03 21:21:21 +0000",
       "minecraft:dark_forest": "2025-01-03 21:45:23 +0000",
+      "minecraft:mangrove_swamp": "2025-01-05 01:24:01 +0000",
       "minecraft:river": "2025-01-03 20:06:30 +0000",
       "minecraft:stony_shore": "2025-01-03 22:36:09 +0000",
       "minecraft:dripstone_caves": "2025-01-05 00:50:12 +0000",
@@ -3493,6 +3495,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-05 01:02:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 00:50:31 +0000"
@@ -3547,6 +3555,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-01-05 01:34:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 00:50:31 +0000"
@@ -3595,9 +3609,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-05 01:02:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-05 01:11:02 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/golden_hammer_head": {
     "criteria": {
       "criterion0": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-01-05 01:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-05 01:02:42 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-01-05 01:34:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-05 01:30:03 +0000"
     },
     "done": true
   },
@@ -3610,6 +3660,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-05 01:02:42 +0000"
     },
     "done": true
   },
