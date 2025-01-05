@@ -7034,3 +7034,126 @@ java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.Cli
 [05Jan2025 19:34:28.283] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
 [05Jan2025 19:34:28.283] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [05Jan2025 19:34:28.283] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:34:58.332] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:34:58.332] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:34:58.332] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:35:28.382] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:35:28.383] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:35:28.383] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:35:58.433] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:35:58.433] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:35:58.433] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:36:02.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=403, y=65, z=1955} BlockPos{x=403, y=64, z=1956}
+[05Jan2025 19:36:05.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus moved wrongly!
+[05Jan2025 19:36:28.482] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:36:28.482] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:36:28.482] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:36:58.533] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:36:58.533] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:36:58.533] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:37:28.581] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:37:28.582] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:37:28.582] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:37:58.632] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:37:58.632] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:37:58.632] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:38:11.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set the weather to clear]
+[05Jan2025 19:38:28.682] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:38:28.682] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:38:28.682] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:38:58.732] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:38:58.732] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:38:58.732] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:39:25.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 19:39:25.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 19:39:28.783] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:39:28.783] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:39:28.783] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:39:55.583] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/25992, l='ServerLevel[world]', x=254.37, y=64.19, z=1700.36], dimensionLocationPath overworld
+[05Jan2025 19:39:55.584] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/25992, l='ServerLevel[world]', x=254.37, y=64.19, z=1700.36] in list []
+[05Jan2025 19:39:56.732] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/25992, l='ServerLevel[world]', x=254.69, y=63.00, z=1700.20, removed=DISCARDED]
+[05Jan2025 19:39:58.132] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/26024, l='ServerLevel[world]', x=256.68, y=64.34, z=1696.72], dimensionLocationPath overworld
+[05Jan2025 19:39:58.133] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/26024, l='ServerLevel[world]', x=256.68, y=64.34, z=1696.72] in list []
+[05Jan2025 19:39:58.732] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/26024, l='ServerLevel[world]', x=255.81, y=63.59, z=1696.71, removed=DISCARDED]
+[05Jan2025 19:39:58.833] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:39:58.833] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:39:58.833] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:40:01.309] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ImSensei_'/75, l='ServerLevel[world]', x=263.66, y=63.00, z=1694.46], dimensionLocationPath overworld
+[05Jan2025 19:40:01.310] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ImSensei_'/75, l='ServerLevel[world]', x=263.66, y=63.00, z=1694.46] in list []
+[05Jan2025 19:40:01.555] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ImSensei_'/75, l='ServerLevel[world]', x=264.98, y=63.00, z=1694.63]
+[05Jan2025 19:40:15.031] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/26271, l='ServerLevel[world]', x=279.57, y=64.44, z=1696.28], dimensionLocationPath overworld
+[05Jan2025 19:40:15.032] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/26271, l='ServerLevel[world]', x=279.57, y=64.44, z=1696.28] in list []
+[05Jan2025 19:40:15.532] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/26271, l='ServerLevel[world]', x=279.88, y=64.20, z=1695.72, removed=DISCARDED]
+[05Jan2025 19:40:17.260] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ImSensei_'/75, l='ServerLevel[world]', x=275.61, y=63.00, z=1694.96], dimensionLocationPath overworld
+[05Jan2025 19:40:17.260] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ImSensei_'/75, l='ServerLevel[world]', x=275.61, y=63.00, z=1694.96] in list []
+[05Jan2025 19:40:21.928] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ImSensei_'/75, l='ServerLevel[world]', x=256.18, y=63.00, z=1697.31]
+[05Jan2025 19:40:28.882] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:40:28.882] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:40:28.882] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:40:58.931] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:40:58.931] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:40:58.931] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:41:20.529] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/straight
+[05Jan2025 19:41:20.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/inter
+[05Jan2025 19:41:20.534] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/med_2
+[05Jan2025 19:41:20.535] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/library
+[05Jan2025 19:41:20.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/small_2
+[05Jan2025 19:41:20.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/fishing_hut
+[05Jan2025 19:41:20.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/cartographer
+[05Jan2025 19:41:20.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_1
+[05Jan2025 19:41:20.544] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/big_1
+[05Jan2025 19:41:20.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/bent_1
+[05Jan2025 19:41:20.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/small_1
+[05Jan2025 19:41:20.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/bent_2
+[05Jan2025 19:41:20.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/bench
+[05Jan2025 19:41:20.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/flower_pot
+[05Jan2025 19:41:20.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_3
+[05Jan2025 19:41:20.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/small_3
+[05Jan2025 19:41:20.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/t_3
+[05Jan2025 19:41:20.556] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_5
+[05Jan2025 19:41:20.558] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/butcher
+[05Jan2025 19:41:20.559] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/campfire
+[05Jan2025 19:41:20.561] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/t_1
+[05Jan2025 19:41:20.563] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/t_2
+[05Jan2025 19:41:20.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/smith
+[05Jan2025 19:41:20.567] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/med_1
+[05Jan2025 19:41:20.570] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/farm
+[05Jan2025 19:41:20.572] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/mason
+[05Jan2025 19:41:20.573] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/fountain
+[05Jan2025 19:41:20.574] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/tannery
+[05Jan2025 19:41:20.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_4
+[05Jan2025 19:41:20.576] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_2
+[05Jan2025 19:41:20.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/big_2
+[05Jan2025 19:41:20.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/terminator
+[05Jan2025 19:41:20.584] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/chemist
+[05Jan2025 19:41:20.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/well
+[05Jan2025 19:41:28.982] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:41:28.983] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:41:28.983] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:41:59.031] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 19:41:59.031] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:41:59.032] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 19:42:07.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [A New Friend!]
+[05Jan2025 19:42:29.082] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 19:42:29.082] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:42:29.083] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 19:42:35.783] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/28017, l='ServerLevel[world]', x=255.51, y=63.58, z=1699.69], dimensionLocationPath overworld
+[05Jan2025 19:42:35.783] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/28017, l='ServerLevel[world]', x=255.51, y=63.58, z=1699.69] in list []
+[05Jan2025 19:42:36.282] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/28017, l='ServerLevel[world]', x=255.93, y=63.34, z=1699.78, removed=DISCARDED]
+[05Jan2025 19:42:37.266] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ImSensei_'/75, l='ServerLevel[world]', x=255.65, y=63.00, z=1699.56], dimensionLocationPath overworld
+[05Jan2025 19:42:37.266] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ImSensei_'/75, l='ServerLevel[world]', x=255.65, y=63.00, z=1699.56] in list []
+[05Jan2025 19:42:37.517] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ImSensei_'/75, l='ServerLevel[world]', x=255.65, y=63.00, z=1699.56]
+[05Jan2025 19:42:59.131] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 19:42:59.132] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:42:59.133] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 19:43:29.183] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:43:29.183] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:43:29.183] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:43:59.231] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:43:59.232] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:43:59.232] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 19:44:25.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 19:44:25.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 19:44:29.282] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 19:44:29.283] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 19:44:29.283] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.

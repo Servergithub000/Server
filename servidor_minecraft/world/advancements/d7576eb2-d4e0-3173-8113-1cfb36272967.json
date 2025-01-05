@@ -3239,13 +3239,15 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
+      "premier_ball": "2025-01-05 19:41:14 +0000",
       "citrine_ball": "2025-01-04 23:35:19 +0000"
     },
     "done": false
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
-      "citrine_ball": "2025-01-04 23:35:19 +0000"
+      "citrine_ball": "2025-01-04 23:35:19 +0000",
+      "premier_ball": "2025-01-05 19:41:14 +0000"
     },
     "done": false
   },
@@ -5201,6 +5203,30 @@
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-01-05 19:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-05 19:36:17 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/iron_ball": {
+    "criteria": {
+      "has_iron": "2025-01-05 19:36:17 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_catch": {
+    "criteria": {
+      "catch": "2025-01-05 19:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-05 19:36:17 +0000"
     },
     "done": true
   },

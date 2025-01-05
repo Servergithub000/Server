@@ -1247,3 +1247,7 @@ java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.Cli
 [05Jan2025 19:27:35.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> no
 [05Jan2025 19:30:36.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> zz
 [05Jan2025 19:31:18.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nextraid> zzz
+[05Jan2025 19:36:02.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=403, y=65, z=1955} BlockPos{x=403, y=64, z=1956}
+[05Jan2025 19:36:05.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus moved wrongly!
+[05Jan2025 19:38:11.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set the weather to clear]
+[05Jan2025 19:42:07.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [A New Friend!]
