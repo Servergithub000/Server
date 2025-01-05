@@ -1268,3 +1268,16 @@ java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.Cli
 [05Jan2025 19:52:48.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus lost connection: Disconnected
 [05Jan2025 19:52:48.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus left the game
 [05Jan2025 19:52:48.506] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was unloaded
+[05Jan2025 19:55:22.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElKingus[/127.107.176.211:59509] logged in with entity id 34145 at (259.008691811376, 63.0, 1710.3037868584756)
+[05Jan2025 19:55:22.963] [Server thread/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Pokémon save file for PlayerPartyStore (d7576eb2-d4e0-3173-8113-1cfb36272967) was corrupted. A fresh file will be created.
+[05Jan2025 19:55:22.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus joined the game
+[05Jan2025 19:55:23.077] [Server thread/INFO] [Jade/]: Syncing config to ElKingus (d7576eb2-d4e0-3173-8113-1cfb36272967)
+[05Jan2025 19:55:23.980] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was loaded
+[05Jan2025 19:57:19.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus lost connection: Disconnected
+[05Jan2025 19:57:19.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus left the game
+[05Jan2025 19:57:19.806] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was unloaded
+[05Jan2025 19:59:16.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElKingus[/127.107.176.211:37951] logged in with entity id 35480 at (264.35603019772617, 75.0, 1723.8456949563736)
+[05Jan2025 19:59:16.936] [Server thread/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Pokémon save file for PlayerPartyStore (d7576eb2-d4e0-3173-8113-1cfb36272967) was corrupted. A fresh file will be created.
+[05Jan2025 19:59:16.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus joined the game
+[05Jan2025 19:59:17.035] [Server thread/INFO] [Jade/]: Syncing config to ElKingus (d7576eb2-d4e0-3173-8113-1cfb36272967)
+[05Jan2025 19:59:18.064] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was loaded
