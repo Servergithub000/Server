@@ -1295,3 +1295,32 @@ java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.Cli
 [05Jan2025 05:01:13.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2833ms or 56 ticks behind
 [05Jan2025 05:01:57.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Spectator Mode]
 [05Jan2025 05:02:11.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Survival Mode]
+[05Jan2025 05:03:05.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has completed the challenge [Just a Flesh Wound]
+[05Jan2025 05:04:49.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Sweet Dreams]
+[05Jan2025 05:05:50.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus moved wrongly!
+[05Jan2025 05:06:30.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05Jan2025 05:06:38.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 10.18212209674033,-1.002668128080586E-5,-2.011776574077203
+[05Jan2025 05:06:38.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 11.200353426564675,-1.1029349408886446E-5,-2.2137684487495335
+[05Jan2025 05:06:38.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 12.218587463205154,-1.2032017536967032E-5,-2.415911985831599
+[05Jan2025 05:06:38.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 13.236824777948982,-1.3034685665047618E-5,-2.6182041597583066
+[05Jan2025 05:06:38.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 14.255064633286906,-1.4037353793128204E-5,-2.82064846908861
+[05Jan2025 05:06:38.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 15.27330760114549,-1.504002192120879E-5,-3.0232418113930635
+[05Jan2025 05:06:47.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2329ms or 46 ticks behind
+[05Jan2025 05:07:25.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> bph
+[05Jan2025 05:07:26.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> vph
+[05Jan2025 05:07:32.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Magnum_EXT> sida
+[05Jan2025 05:07:39.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 10.006551665329084,-1.002668128080586E-5,-2.4809695144090256
+[05Jan2025 05:07:39.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 11.007675996257717,-1.1029349408886446E-5,-2.727983234631438
+[05Jan2025 05:07:39.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 12.008889587557974,-1.2032017536967032E-5,-2.974796144795846
+[05Jan2025 05:07:39.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 13.0101949924167,-1.3034685665047618E-5,-3.2214010022191815
+[05Jan2025 05:07:39.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 14.011592247419117,-1.4037353793128204E-5,-3.46780080626786
+[05Jan2025 05:07:40.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Magnum_EXT> sindrome de inmunodeficiencia adquirido
+[05Jan2025 05:07:43.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> SIDA
+[05Jan2025 05:08:42.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 10.141258805950656,-1.652626127898472,1.8595268429903626
+[05Jan2025 05:08:42.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 11.142072578600164,-1.8627461752362677,2.105408143660952
+[05Jan2025 05:08:42.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 12.140831574652566,-2.0795836507092105,2.3595452789895717
+[05Jan2025 05:08:42.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 13.137670597565375,-2.302790921218488,2.6212917666343856
+[05Jan2025 05:08:48.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved wrongly!
+[05Jan2025 05:08:53.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus moved wrongly!
+[05Jan2025 05:09:33.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has reached the goal [Radiation Vibe]
+[05Jan2025 05:11:39.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has completed the challenge [Just a Flesh Wound]

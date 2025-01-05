@@ -7737,3 +7737,181 @@ java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.Cli
 [05Jan2025 05:02:51.048] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
 [05Jan2025 05:02:57.043] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=220.01, y=82.50, z=1758.72], dimensionLocationPath overworld
 [05Jan2025 05:02:57.043] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=220.01, y=82.50, z=1758.72] in list []
+[05Jan2025 05:03:00.602] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=220.24, y=80.50, z=1756.96]
+[05Jan2025 05:03:05.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has completed the challenge [Just a Flesh Wound]
+[05Jan2025 05:03:22.161] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[05Jan2025 05:03:22.162] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:03:22.163] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[05Jan2025 05:03:48.396] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=219.30, y=71.27, z=1747.25], dimensionLocationPath overworld
+[05Jan2025 05:03:48.397] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=219.30, y=71.27, z=1747.25] in list []
+[05Jan2025 05:03:48.905] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=217.97, y=70.23, z=1746.40]
+[05Jan2025 05:03:51.191] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[05Jan2025 05:03:51.192] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:03:51.193] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[05Jan2025 05:04:21.094] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[05Jan2025 05:04:21.095] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:04:21.097] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[05Jan2025 05:04:49.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Sweet Dreams]
+[05Jan2025 05:04:51.213] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[05Jan2025 05:04:51.213] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:04:51.215] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[05Jan2025 05:05:21.408] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 5 Pokémon stores.
+[05Jan2025 05:05:21.408] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:05:21.412] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 5 Pokémon stores.
+[05Jan2025 05:05:50.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus moved wrongly!
+[05Jan2025 05:05:51.856] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[05Jan2025 05:05:51.856] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:05:51.858] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[05Jan2025 05:06:22.682] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[05Jan2025 05:06:22.683] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:06:22.685] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[05Jan2025 05:06:27.268] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/straight
+[05Jan2025 05:06:27.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/inter
+[05Jan2025 05:06:27.271] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/med_2
+[05Jan2025 05:06:27.271] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/library
+[05Jan2025 05:06:27.272] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/small_2
+[05Jan2025 05:06:27.273] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/fishing_hut
+[05Jan2025 05:06:27.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/cartographer
+[05Jan2025 05:06:27.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_1
+[05Jan2025 05:06:27.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/big_1
+[05Jan2025 05:06:27.276] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/bent_1
+[05Jan2025 05:06:27.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/small_1
+[05Jan2025 05:06:27.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/bent_2
+[05Jan2025 05:06:27.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/bench
+[05Jan2025 05:06:27.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/flower_pot
+[05Jan2025 05:06:27.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_3
+[05Jan2025 05:06:27.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/small_3
+[05Jan2025 05:06:27.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/t_3
+[05Jan2025 05:06:27.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_5
+[05Jan2025 05:06:27.282] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/butcher
+[05Jan2025 05:06:27.282] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/campfire
+[05Jan2025 05:06:27.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/t_1
+[05Jan2025 05:06:27.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/t_2
+[05Jan2025 05:06:27.343] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/smith
+[05Jan2025 05:06:27.344] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/med_1
+[05Jan2025 05:06:27.345] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/mason
+[05Jan2025 05:06:27.345] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/fountain
+[05Jan2025 05:06:27.346] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/tannery
+[05Jan2025 05:06:27.346] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_4
+[05Jan2025 05:06:27.346] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/lamp_2
+[05Jan2025 05:06:27.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/house/big_2
+[05Jan2025 05:06:27.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/roads/terminator
+[05Jan2025 05:06:27.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/jobsite/chemist
+[05Jan2025 05:06:27.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/savanna/deco/well
+[05Jan2025 05:06:30.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05Jan2025 05:06:32.163] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[05Jan2025 05:06:32.910] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ElKingus'/4285, l='ServerLevel[world]', x=-315.46, y=104.32, z=1984.30], dimensionLocationPath overworld
+[05Jan2025 05:06:32.910] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ElKingus'/4285, l='ServerLevel[world]', x=-315.46, y=104.32, z=1984.30] in list []
+[05Jan2025 05:06:35.483] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ElKingus'/4285, l='ServerLevel[world]', x=-263.55, y=104.32, z=1974.46]
+[05Jan2025 05:06:38.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 10.18212209674033,-1.002668128080586E-5,-2.011776574077203
+[05Jan2025 05:06:38.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 11.200353426564675,-1.1029349408886446E-5,-2.2137684487495335
+[05Jan2025 05:06:38.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 12.218587463205154,-1.2032017536967032E-5,-2.415911985831599
+[05Jan2025 05:06:38.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 13.236824777948982,-1.3034685665047618E-5,-2.6182041597583066
+[05Jan2025 05:06:38.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 14.255064633286906,-1.4037353793128204E-5,-2.82064846908861
+[05Jan2025 05:06:38.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 15.27330760114549,-1.504002192120879E-5,-3.0232418113930635
+[05Jan2025 05:06:47.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2329ms or 46 ticks behind
+[05Jan2025 05:06:56.104] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[05Jan2025 05:06:56.104] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:06:56.106] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[05Jan2025 05:07:16.922] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[05Jan2025 05:07:25.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> bph
+[05Jan2025 05:07:25.869] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[05Jan2025 05:07:25.870] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:07:25.871] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[05Jan2025 05:07:26.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> vph
+[05Jan2025 05:07:29.319] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[05Jan2025 05:07:32.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Magnum_EXT> sida
+[05Jan2025 05:07:39.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 10.006551665329084,-1.002668128080586E-5,-2.4809695144090256
+[05Jan2025 05:07:39.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 11.007675996257717,-1.1029349408886446E-5,-2.727983234631438
+[05Jan2025 05:07:39.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 12.008889587557974,-1.2032017536967032E-5,-2.974796144795846
+[05Jan2025 05:07:39.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 13.0101949924167,-1.3034685665047618E-5,-3.2214010022191815
+[05Jan2025 05:07:39.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 14.011592247419117,-1.4037353793128204E-5,-3.46780080626786
+[05Jan2025 05:07:40.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Magnum_EXT> sindrome de inmunodeficiencia adquirido
+[05Jan2025 05:07:43.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> SIDA
+[05Jan2025 05:07:44.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[05Jan2025 05:07:49.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[05Jan2025 05:07:52.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 05:07:52.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 05:07:52.991] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=220.04, y=81.50, z=1757.93], dimensionLocationPath overworld
+[05Jan2025 05:07:52.992] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=220.04, y=81.50, z=1757.93] in list []
+[05Jan2025 05:07:53.111] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=220.17, y=82.00, z=1758.32]
+[05Jan2025 05:07:56.000] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 05:07:56.000] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:07:56.001] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 05:08:00.343] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[05Jan2025 05:08:00.422] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=231.90, y=83.00, z=1761.03], dimensionLocationPath overworld
+[05Jan2025 05:08:00.422] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=231.90, y=83.00, z=1761.03] in list []
+[05Jan2025 05:08:00.472] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=231.90, y=83.00, z=1761.03]
+[05Jan2025 05:08:02.780] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=231.57, y=83.00, z=1762.02], dimensionLocationPath overworld
+[05Jan2025 05:08:02.780] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=231.57, y=83.00, z=1762.02] in list []
+[05Jan2025 05:08:02.878] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=231.62, y=83.00, z=1761.69]
+[05Jan2025 05:08:11.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[05Jan2025 05:08:23.442] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=225.39, y=83.00, z=1774.88], dimensionLocationPath overworld
+[05Jan2025 05:08:23.442] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=225.39, y=83.00, z=1774.88] in list []
+[05Jan2025 05:08:23.575] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=225.15, y=83.00, z=1774.90]
+[05Jan2025 05:08:24.068] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=225.23, y=83.00, z=1775.42], dimensionLocationPath overworld
+[05Jan2025 05:08:24.068] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=225.23, y=83.00, z=1775.42] in list []
+[05Jan2025 05:08:24.330] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=225.43, y=83.00, z=1775.71]
+[05Jan2025 05:08:26.111] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 05:08:26.112] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:08:26.113] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 05:08:29.756] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=219.59, y=83.00, z=1775.57], dimensionLocationPath overworld
+[05Jan2025 05:08:29.756] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=219.59, y=83.00, z=1775.57] in list []
+[05Jan2025 05:08:30.222] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=219.64, y=83.00, z=1775.58]
+[05Jan2025 05:08:34.925] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=210.66, y=83.00, z=1775.63], dimensionLocationPath overworld
+[05Jan2025 05:08:34.926] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=210.66, y=83.00, z=1775.63] in list []
+[05Jan2025 05:08:34.964] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=210.76, y=83.00, z=1775.72]
+[05Jan2025 05:08:42.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 10.141258805950656,-1.652626127898472,1.8595268429903626
+[05Jan2025 05:08:42.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 11.142072578600164,-1.8627461752362677,2.105408143660952
+[05Jan2025 05:08:42.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 12.140831574652566,-2.0795836507092105,2.3595452789895717
+[05Jan2025 05:08:42.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 13.137670597565375,-2.302790921218488,2.6212917666343856
+[05Jan2025 05:08:42.724] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=211.42, y=83.00, z=1776.08], dimensionLocationPath overworld
+[05Jan2025 05:08:42.724] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=211.42, y=83.00, z=1776.08] in list []
+[05Jan2025 05:08:42.875] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=211.55, y=83.00, z=1776.08]
+[05Jan2025 05:08:44.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[05Jan2025 05:08:45.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[05Jan2025 05:08:48.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved wrongly!
+[05Jan2025 05:08:53.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus moved wrongly!
+[05Jan2025 05:08:54.660] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=207.72, y=83.00, z=1774.23], dimensionLocationPath overworld
+[05Jan2025 05:08:54.660] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=207.72, y=83.00, z=1774.23] in list []
+[05Jan2025 05:08:54.699] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=207.72, y=83.00, z=1774.26]
+[05Jan2025 05:08:56.013] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[05Jan2025 05:08:56.013] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:08:56.014] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[05Jan2025 05:08:56.943] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=208.22, y=83.00, z=1774.15], dimensionLocationPath overworld
+[05Jan2025 05:08:56.943] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=208.22, y=83.00, z=1774.15] in list []
+[05Jan2025 05:08:57.264] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['iDunk3d_ON'/303, l='ServerLevel[world]', x=208.19, y=83.00, z=1773.94]
+[05Jan2025 05:09:05.783] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ImSensei_'/76, l='ServerLevel[world]', x=2256.70, y=77.00, z=1518.70], dimensionLocationPath overworld
+[05Jan2025 05:09:05.784] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ImSensei_'/76, l='ServerLevel[world]', x=2256.70, y=77.00, z=1518.70] in list []
+[05Jan2025 05:09:06.784] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ImSensei_'/76, l='ServerLevel[world]', x=2258.38, y=76.00, z=1518.60]
+[05Jan2025 05:09:13.170] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ElKingus'/4285, l='ServerLevel[world]', x=2258.36, y=67.00, z=1518.32], dimensionLocationPath overworld
+[05Jan2025 05:09:13.171] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ElKingus'/4285, l='ServerLevel[world]', x=2258.36, y=67.00, z=1518.32] in list []
+[05Jan2025 05:09:21.746] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ElKingus'/4285, l='ServerLevel[world]', x=2258.60, y=51.00, z=1517.67]
+[05Jan2025 05:09:25.893] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 05:09:25.894] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:09:25.894] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 05:09:33.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has reached the goal [Radiation Vibe]
+[05Jan2025 05:09:55.943] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[05Jan2025 05:09:55.944] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:09:55.945] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[05Jan2025 05:10:26.032] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[05Jan2025 05:10:26.032] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:10:26.034] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[05Jan2025 05:10:56.044] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 05:10:56.045] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:10:56.046] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 05:11:26.354] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 05:11:26.354] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:11:26.355] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 05:11:39.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has completed the challenge [Just a Flesh Wound]
+[05Jan2025 05:11:56.144] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 05:11:56.144] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:11:56.145] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 05:12:26.194] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 05:12:26.194] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:12:26.196] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 05:12:52.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 05:12:52.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 05:12:56.243] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 05:12:56.244] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 05:12:56.245] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.

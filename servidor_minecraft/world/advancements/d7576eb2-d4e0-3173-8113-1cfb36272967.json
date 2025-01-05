@@ -54,6 +54,7 @@
       "rocky_shrubland": "2025-01-04 21:33:16 +0000",
       "scrubland": "2025-01-04 21:23:42 +0000",
       "bayou": "2025-01-05 01:15:40 +0000",
+      "lush_savanna": "2025-01-05 05:06:07 +0000",
       "highland": "2025-01-04 21:31:56 +0000",
       "marsh": "2025-01-04 22:32:27 +0000",
       "clover_patch": "2025-01-04 21:25:05 +0000",
@@ -4587,6 +4588,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-01-05 05:11:39 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-01-05 05:00:26 +0000"
@@ -4611,6 +4618,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-05 05:04:49 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/sandstone_corner_trim": {
     "criteria": {
       "has_sandstone_corner_trim": "2025-01-05 04:57:29 +0000"
@@ -4626,6 +4639,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-01-05 04:44:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-01-05 05:09:33 +0000"
     },
     "done": true
   },
