@@ -7371,3 +7371,190 @@ java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.Cli
 [05Jan2025 04:40:21.955] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
 [05Jan2025 04:40:21.955] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [05Jan2025 04:40:21.957] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 04:40:42.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Jan2025 04:40:47.075] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[05Jan2025 04:40:54.590] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 04:40:54.590] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:40:54.592] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 04:40:54.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> nonchalant
+[05Jan2025 04:41:00.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3017ms or 60 ticks behind
+[05Jan2025 04:41:11.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved wrongly!
+[05Jan2025 04:41:17.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
+[05Jan2025 04:41:31.912] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 04:41:31.913] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:41:31.914] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 04:41:39.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6852ms or 137 ticks behind
+[05Jan2025 04:42:05.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 04:42:05.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 04:42:06.749] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 04:42:06.749] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:42:06.751] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 04:42:23.209] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/16924, l='ServerLevel[world]', x=-1180.50, y=50.00, z=2354.50]
+[05Jan2025 04:42:35.885] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 04:42:35.885] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:42:35.886] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 04:43:05.294] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 04:43:05.294] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:43:05.295] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 04:43:35.343] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 04:43:35.343] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:43:35.344] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 04:44:05.393] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[05Jan2025 04:44:05.394] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:44:05.395] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[05Jan2025 04:44:29.871] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/t_3
+[05Jan2025 04:44:29.874] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/small_1
+[05Jan2025 04:44:29.876] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/small_2
+[05Jan2025 04:44:29.878] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/small_3
+[05Jan2025 04:44:29.879] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/small_4
+[05Jan2025 04:44:29.881] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/big_3
+[05Jan2025 04:44:29.912] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/mid_1
+[05Jan2025 04:44:29.914] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/mid_2
+[05Jan2025 04:44:29.915] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/big_1
+[05Jan2025 04:44:29.916] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/big_2
+[05Jan2025 04:44:29.917] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/butcher
+[05Jan2025 04:44:29.918] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/cartographer
+[05Jan2025 04:44:29.918] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/chemist
+[05Jan2025 04:44:29.919] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/fishing_hut
+[05Jan2025 04:44:29.920] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/library
+[05Jan2025 04:44:29.921] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/shepherd
+[05Jan2025 04:44:29.921] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/mason
+[05Jan2025 04:44:29.922] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/pen
+[05Jan2025 04:44:29.923] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/farm
+[05Jan2025 04:44:29.924] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/smith
+[05Jan2025 04:44:29.925] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/fd_farm
+[05Jan2025 04:44:29.926] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_1
+[05Jan2025 04:44:29.927] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_2
+[05Jan2025 04:44:29.927] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_3
+[05Jan2025 04:44:29.927] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_4
+[05Jan2025 04:44:29.928] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/well
+[05Jan2025 04:44:29.928] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/bench
+[05Jan2025 04:44:29.929] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/boat
+[05Jan2025 04:44:29.929] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_0
+[05Jan2025 04:44:29.943] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/straight
+[05Jan2025 04:44:29.954] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/inter
+[05Jan2025 04:44:29.972] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/chicken
+[05Jan2025 04:44:29.973] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/cow
+[05Jan2025 04:44:29.973] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/sheep
+[05Jan2025 04:44:30.227] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/t_1
+[05Jan2025 04:44:30.414] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/bent_1
+[05Jan2025 04:44:30.474] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/t_2
+[05Jan2025 04:44:30.708] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/bent_2
+[05Jan2025 04:44:30.709] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/terminator
+[05Jan2025 04:44:36.095] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 04:44:36.096] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:44:36.097] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 04:44:52.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[05Jan2025 04:44:53.951] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ElKingus'/4285, l='ServerLevel[world]', x=207.88, y=31.00, z=1794.41], dimensionLocationPath overworld
+[05Jan2025 04:44:53.952] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ElKingus'/4285, l='ServerLevel[world]', x=207.88, y=31.00, z=1794.41] in list []
+[05Jan2025 04:44:54.003] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ElKingus'/4285, l='ServerLevel[world]', x=207.82, y=31.00, z=1794.42]
+[05Jan2025 04:45:09.180] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 04:45:09.180] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:45:09.180] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 04:45:11.416] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[05Jan2025 04:45:11.421] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[05Jan2025 04:45:11.422] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[05Jan2025 04:45:12.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[05Jan2025 04:45:28.989] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ElKingus'/4285, l='ServerLevel[world]', x=198.24, y=23.00, z=1776.44], dimensionLocationPath overworld
+[05Jan2025 04:45:28.990] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ElKingus'/4285, l='ServerLevel[world]', x=198.24, y=23.00, z=1776.44] in list []
+[05Jan2025 04:45:29.085] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ElKingus'/4285, l='ServerLevel[world]', x=198.50, y=23.00, z=1776.44]
+[05Jan2025 04:45:32.971] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/20456, l='ServerLevel[world]', x=197.59, y=24.51, z=1777.42], dimensionLocationPath overworld
+[05Jan2025 04:45:32.971] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/20456, l='ServerLevel[world]', x=197.59, y=24.51, z=1777.42] in list []
+[05Jan2025 04:45:35.624] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/20456, l='ServerLevel[world]', x=196.72, y=24.00, z=1777.75, removed=DISCARDED]
+[05Jan2025 04:45:41.261] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 04:45:41.262] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:45:41.262] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 04:45:43.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Jan2025 04:46:02.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3479ms or 69 ticks behind
+[05Jan2025 04:46:17.365] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 04:46:17.365] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:46:17.365] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 04:46:19.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2827ms or 56 ticks behind
+[05Jan2025 04:46:47.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[05Jan2025 04:46:50.243] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 04:46:50.243] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:46:50.243] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 04:46:59.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=270, y=79, z=1936} BlockPos{x=271, y=77, z=1938}
+[05Jan2025 04:47:08.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[05Jan2025 04:47:23.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 04:47:23.271] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 04:47:23.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid moved too quickly! 8.26291321953829,5.812952266277904,-1.5794912821374965
+[05Jan2025 04:47:25.231] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 04:47:25.231] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:47:25.231] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 04:47:26.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3280ms or 65 ticks behind
+[05Jan2025 04:47:28.106] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/t_3
+[05Jan2025 04:47:28.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/straight
+[05Jan2025 04:47:28.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/inter
+[05Jan2025 04:47:28.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_2
+[05Jan2025 04:47:28.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/small_3
+[05Jan2025 04:47:28.111] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/big_2
+[05Jan2025 04:47:28.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/shepherd
+[05Jan2025 04:47:28.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_4
+[05Jan2025 04:47:28.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/boat
+[05Jan2025 04:47:28.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/mason
+[05Jan2025 04:47:28.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_0
+[05Jan2025 04:47:28.113] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_3
+[05Jan2025 04:47:28.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_5
+[05Jan2025 04:47:28.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/library
+[05Jan2025 04:47:28.115] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/t_2
+[05Jan2025 04:47:28.116] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/sheep
+[05Jan2025 04:47:28.116] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/bench
+[05Jan2025 04:47:28.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/butcher
+[05Jan2025 04:47:28.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/small_1
+[05Jan2025 04:47:28.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_1
+[05Jan2025 04:47:28.118] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/chemist
+[05Jan2025 04:47:28.119] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/terminator
+[05Jan2025 04:47:28.120] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/small_4
+[05Jan2025 04:47:28.120] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/fishing_hut
+[05Jan2025 04:47:28.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/bent_2
+[05Jan2025 04:47:28.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/smith
+[05Jan2025 04:47:28.123] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/mid_2
+[05Jan2025 04:47:28.124] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/big_3
+[05Jan2025 04:47:28.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/small_2
+[05Jan2025 04:47:28.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/cartographer
+[05Jan2025 04:47:28.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/mid_1
+[05Jan2025 04:47:28.128] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/t_1
+[05Jan2025 04:47:28.129] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/big_1
+[05Jan2025 04:47:28.131] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/well
+[05Jan2025 04:47:31.034] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[05Jan2025 04:47:43.074] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[05Jan2025 04:47:45.841] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[05Jan2025 04:47:55.401] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[05Jan2025 04:47:55.402] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:47:55.403] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[05Jan2025 04:48:25.360] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 04:48:25.360] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:48:25.364] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 04:48:31.344] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/farm
+[05Jan2025 04:48:31.346] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/fd_farm
+[05Jan2025 04:48:31.347] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/pen
+[05Jan2025 04:48:31.635] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/bent_1
+[05Jan2025 04:48:55.413] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 04:48:55.413] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:48:55.413] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 04:49:08.206] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[05Jan2025 04:49:25.514] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 04:49:25.515] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:49:25.515] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 04:49:55.494] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 04:49:55.494] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:49:55.494] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 04:50:25.544] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 04:50:25.545] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:50:25.545] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 04:50:55.595] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 04:50:55.595] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:50:55.595] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 04:51:25.643] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 04:51:25.644] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:51:25.644] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 04:51:45.747] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/28638, l='ServerLevel[world]', x=1183.50, y=53.00, z=3347.50]
+[05Jan2025 04:51:55.725] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 04:51:55.725] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:51:55.725] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[05Jan2025 04:52:23.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 04:52:23.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 04:52:25.744] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[05Jan2025 04:52:25.744] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[05Jan2025 04:52:25.744] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
