@@ -10,17 +10,18 @@
   "advancementData": {
     "totalCaptureCount": 0,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 3,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 4,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 3,
+    "totalPvWBattleVictoryCount": 4,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {},
     "totalDefeatedCounts": {
       "cobblemon:spewpa": 1,
-      "cobblemon:slowpoke": 2
+      "cobblemon:slowpoke": 2,
+      "cobblemon:zigzagoon": 1
     },
     "aspectsCollected": {}
   }
