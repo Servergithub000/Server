@@ -1391,3 +1391,42 @@ java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.Cli
 [05Jan2025 05:39:46.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved wrongly!
 [05Jan2025 05:39:50.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus moved wrongly!
 [05Jan2025 05:41:05.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Smelly Situation]
+[05Jan2025 05:45:25.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has made the advancement [Bath Bomb]
+[05Jan2025 05:45:49.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Uranium Fever]
+[05Jan2025 05:45:51.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has made the advancement [Uranium Fever]
+[05Jan2025 05:45:55.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT has made the advancement [Smelly Situation]
+[05Jan2025 05:46:14.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT has made the advancement [Uranium Fever]
+[05Jan2025 05:52:04.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has made the advancement [Crisis Adverted]
+[05Jan2025 05:52:16.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Bath Bomb]
+[05Jan2025 05:53:10.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has made the advancement [Gassed Up]
+[05Jan2025 05:53:21.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT has made the advancement [Gassed Up]
+[05Jan2025 05:53:59.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [Uranium Fever]
+[05Jan2025 05:54:09.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [Bath Bomb]
+[05Jan2025 05:55:33.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [Hot Rod]
+[05Jan2025 05:56:29.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Best Friends Forever]
+[05Jan2025 05:56:29.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has reached the goal [The Ray Cat Solution]
+[05Jan2025 05:58:03.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has made the advancement [Smelly Situation]
+[05Jan2025 05:58:16.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT has made the advancement [Bath Bomb]
+[05Jan2025 05:59:20.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has made the advancement [THE OOOOOOOOZE]
+[05Jan2025 05:59:53.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus was blown up by Creeper
+[05Jan2025 05:59:53.214] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElKingus with unique ID travelersbackpack.wolf_05.01.2025-05.59.53.dat
+[05Jan2025 06:00:16.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Teleported ElKingus to iDunk3d_ON]
+[05Jan2025 06:00:41.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nextraid> t
+[05Jan2025 06:02:32.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [Brains and Brawn]
+[05Jan2025 06:03:11.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT lost connection: Disconnected
+[05Jan2025 06:03:11.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT left the game
+[05Jan2025 06:03:11.119] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e314d69-4cd6-318f-9c04-774e0da88dcf was unloaded
+[05Jan2025 06:04:50.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has made the advancement [Brains and Brawn]
+[05Jan2025 06:06:09.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus fell from a high place
+[05Jan2025 06:06:09.523] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElKingus with unique ID travelersbackpack.wolf_05.01.2025-06.06.09.dat
+[05Jan2025 06:06:24.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> 1285 - 691
+[05Jan2025 06:06:26.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has made the advancement [Take Aim]
+[05Jan2025 06:06:47.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Teleported ElKingus to iDunk3d_ON]
+[05Jan2025 06:07:31.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Magnum_EXT[/127.58.220.107:46027] logged in with entity id 96096 at (2255.257041041567, -10.747796659746275, 1531.1469685531747)
+[05Jan2025 06:07:31.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT joined the game
+[05Jan2025 06:07:31.675] [Server thread/INFO] [Jade/]: Syncing config to Magnum_EXT (0e314d69-4cd6-318f-9c04-774e0da88dcf)
+[05Jan2025 06:07:32.723] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e314d69-4cd6-318f-9c04-774e0da88dcf was loaded
+[05Jan2025 06:09:23.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [THE OOOOOOOOZE]
+[05Jan2025 06:11:22.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Crisis Adverted]
+[05Jan2025 06:12:56.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has made the advancement [Best Friends Forever]
+[05Jan2025 06:12:56.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has reached the goal [The Ray Cat Solution]

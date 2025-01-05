@@ -5466,6 +5466,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-05 06:06:26 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 04:37:18 +0000"
@@ -5484,9 +5490,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-01-05 05:45:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-05 04:54:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_raycat": {
+    "criteria": {
+      "killed": "2025-01-05 06:12:56 +0000"
     },
     "done": true
   },
@@ -5544,9 +5562,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2025-01-05 05:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2025-01-05 04:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-05 06:12:56 +0000"
     },
     "done": true
   },
@@ -5568,9 +5598,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-01-05 05:48:36 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 04:54:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-01-05 05:45:25 +0000"
     },
     "done": true
   },
@@ -5583,6 +5625,12 @@
   "cobblemon:recipes/balls/azure_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-01-05 05:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-05 06:01:37 +0000"
     },
     "done": true
   },
@@ -5637,6 +5685,12 @@
   "cobblemon:recipes/held/life_orb": {
     "criteria": {
       "has_orb": "2025-01-05 04:32:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-01-05 05:48:36 +0000"
     },
     "done": true
   },
@@ -5718,6 +5772,13 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "slam": "2025-01-05 05:49:29 +0000",
+      "green_soylent": "2025-01-05 06:05:01 +0000"
+    },
+    "done": false
+  },
   "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 04:54:32 +0000"
@@ -5736,6 +5797,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-01-05 05:58:03 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-01-05 04:32:03 +0000"
@@ -5745,6 +5812,12 @@
   "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 04:54:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-01-05 05:52:04 +0000"
     },
     "done": true
   },
@@ -5763,6 +5836,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 04:37:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-01-05 06:04:50 +0000"
     },
     "done": true
   },
@@ -5793,6 +5872,12 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-01-05 04:37:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-01-05 05:59:20 +0000"
     },
     "done": true
   },

@@ -5434,6 +5434,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-01-05 05:53:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-01-05 05:07:28 +0000"
@@ -5461,6 +5467,12 @@
   "handcrafted:recipes/misc/jungle_drawer": {
     "criteria": {
       "has_jungle_drawer": "2025-01-05 05:07:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-01-05 05:54:09 +0000"
     },
     "done": true
   },
@@ -5566,9 +5578,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2025-01-05 05:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-05 05:07:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-01-05 06:02:32 +0000"
     },
     "done": true
   },
