@@ -4211,5 +4211,17 @@
     },
     "done": true
   },
+  "cobblemon:use_candy": {
+    "criteria": {
+      "use_xs_candy": "2025-01-05 20:53:04 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2025-01-05 20:53:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

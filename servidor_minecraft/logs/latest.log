@@ -1332,3 +1332,10 @@ java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.Cli
 [05Jan2025 20:45:21.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set the time to 13000]
 [05Jan2025 20:45:35.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set the time to 1000]
 [05Jan2025 20:45:37.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> ./soygay
+[05Jan2025 20:45:46.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> 41
+[05Jan2025 20:46:12.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus lost connection: Disconnected
+[05Jan2025 20:46:12.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus left the game
+[05Jan2025 20:46:12.677] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was unloaded
+[05Jan2025 20:53:04.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT has made the advancement [Sweet Tooth]
+[05Jan2025 20:53:15.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Teleported iDunk3d_ON to ImSensei_]
+[05Jan2025 20:53:39.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT has made the advancement [Hard Work and Dedication]
