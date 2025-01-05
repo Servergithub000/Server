@@ -5440,6 +5440,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_raycat": {
+    "criteria": {
+      "killed": "2025-01-05 06:23:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-01-05 05:07:28 +0000"
@@ -5554,6 +5560,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "pants": "2025-01-05 06:16:48 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-05 05:07:28 +0000"
@@ -5563,6 +5575,12 @@
   "handcrafted:recipes/misc/jungle_bench": {
     "criteria": {
       "has_jungle_bench": "2025-01-05 05:07:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-01-05 06:15:13 +0000"
     },
     "done": true
   },
