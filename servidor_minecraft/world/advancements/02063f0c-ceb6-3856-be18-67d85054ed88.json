@@ -319,11 +319,15 @@
       "scrubland": "2025-01-03 20:30:00 +0000",
       "lush_savanna": "2025-01-03 21:50:44 +0000",
       "highland": "2025-01-03 22:55:38 +0000",
+      "marsh": "2025-01-05 00:16:45 +0000",
       "clover_patch": "2025-01-03 22:47:26 +0000",
+      "mystic_grove": "2025-01-05 00:23:13 +0000",
       "old_growth_woodland": "2025-01-03 20:22:19 +0000",
+      "maple_woods": "2025-01-05 00:04:14 +0000",
       "field": "2025-01-03 22:51:12 +0000",
       "orchard": "2025-01-03 22:53:41 +0000",
       "mediterranean_forest": "2025-01-03 20:19:14 +0000",
+      "coniferous_forest": "2025-01-05 00:04:10 +0000",
       "wasteland": "2025-01-03 21:49:55 +0000",
       "lush_desert": "2025-01-03 21:57:17 +0000",
       "redwood_forest": "2025-01-03 20:42:04 +0000",
@@ -331,6 +335,7 @@
       "volcano": "2025-01-03 22:55:46 +0000",
       "volcanic_plains": "2025-01-03 22:27:04 +0000",
       "lavender_field": "2025-01-03 20:31:54 +0000",
+      "pumpkin_patch": "2025-01-05 00:04:13 +0000",
       "prairie": "2025-01-03 20:31:45 +0000",
       "grassland": "2025-01-03 22:51:56 +0000",
       "glowing_grotto": "2025-01-03 22:24:02 +0000",
@@ -896,12 +901,16 @@
       "minecraft:old_growth_pine_taiga": "2025-01-03 22:50:49 +0000",
       "minecraft:taiga": "2025-01-03 22:49:51 +0000",
       "minecraft:birch_forest": "2025-01-03 22:47:32 +0000",
+      "minecraft:savanna_plateau": "2025-01-05 00:01:20 +0000",
       "minecraft:beach": "2025-01-03 20:57:55 +0000",
+      "minecraft:dark_forest": "2025-01-05 00:04:49 +0000",
       "minecraft:sparse_jungle": "2025-01-03 22:26:11 +0000",
       "minecraft:lukewarm_ocean": "2025-01-03 20:53:13 +0000",
       "minecraft:river": "2025-01-03 20:28:22 +0000",
+      "minecraft:swamp": "2025-01-05 00:04:30 +0000",
       "minecraft:forest": "2025-01-03 22:57:19 +0000",
       "minecraft:desert": "2025-01-03 21:50:35 +0000",
+      "minecraft:windswept_forest": "2025-01-05 00:05:05 +0000",
       "minecraft:ocean": "2025-01-03 20:50:48 +0000",
       "minecraft:jungle": "2025-01-04 23:52:27 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-03 22:51:00 +0000",
@@ -1074,6 +1083,7 @@
       "minecraft:skeleton": "2025-01-03 21:16:58 +0000",
       "minecraft:spider": "2025-01-03 21:37:21 +0000",
       "minecraft:creeper": "2025-01-03 21:03:10 +0000",
+      "minecraft:slime": "2025-01-05 00:18:03 +0000",
       "minecraft:zombie": "2025-01-03 20:30:58 +0000"
     },
     "done": false
@@ -4181,6 +4191,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-04 23:55:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-01-04 23:50:38 +0000"
@@ -4199,9 +4215,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-05 00:08:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_side_table": {
     "criteria": {
       "has_jungle_side_table": "2025-01-04 23:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 00:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-05 00:08:21 +0000"
     },
     "done": true
   },
@@ -4247,6 +4281,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-04 23:59:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-01-04 23:50:38 +0000"
@@ -4256,6 +4296,24 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-01-04 23:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-05 00:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 00:18:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-01-05 00:08:21 +0000"
     },
     "done": true
   },
@@ -4283,6 +4341,30 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-04 23:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-05 00:08:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-04 23:55:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf_smithing": {
+    "criteria": {
+      "has_wolf": "2025-01-05 00:16:52 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_table": {
     "criteria": {
       "has_jungle_table": "2025-01-04 23:50:38 +0000"
@@ -4295,15 +4377,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-05 00:08:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_chair": {
     "criteria": {
       "has_jungle_chair": "2025-01-04 23:50:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-04 23:55:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-01-04 23:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-04 23:55:22 +0000"
     },
     "done": true
   },
@@ -4331,15 +4431,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 00:18:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-04 23:50:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 00:18:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_bench": {
     "criteria": {
       "has_jungle_bench": "2025-01-04 23:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-04 23:59:23 +0000"
     },
     "done": true
   },
@@ -4376,6 +4494,18 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-01-04 23:50:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-05 00:08:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-04 23:59:23 +0000"
     },
     "done": true
   },

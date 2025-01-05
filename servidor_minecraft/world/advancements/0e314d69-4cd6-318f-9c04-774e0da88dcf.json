@@ -55,15 +55,20 @@
       "highland": "2025-01-03 21:44:09 +0000",
       "marsh": "2025-01-03 21:43:56 +0000",
       "clover_patch": "2025-01-03 21:43:54 +0000",
+      "mystic_grove": "2025-01-05 00:23:13 +0000",
       "old_growth_woodland": "2025-01-03 19:59:34 +0000",
       "orchard": "2025-01-03 21:43:52 +0000",
       "field": "2025-01-03 22:35:23 +0000",
       "mediterranean_forest": "2025-01-03 20:03:46 +0000",
+      "spider_nest": "2025-01-05 00:18:42 +0000",
+      "redwood_forest": "2025-01-05 00:18:23 +0000",
       "dune_beach": "2025-01-03 21:42:55 +0000",
       "pasture": "2025-01-03 22:09:22 +0000",
+      "volcanic_plains": "2025-01-05 00:17:39 +0000",
       "lavender_field": "2025-01-03 20:06:54 +0000",
       "prairie": "2025-01-03 20:26:38 +0000",
-      "grassland": "2025-01-03 21:46:14 +0000"
+      "grassland": "2025-01-03 21:46:14 +0000",
+      "rainforest": "2025-01-05 00:17:24 +0000"
     },
     "done": false
   },
@@ -961,14 +966,18 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-01-03 22:35:37 +0000",
+      "minecraft:birch_forest": "2025-01-05 00:20:11 +0000",
       "minecraft:beach": "2025-01-03 21:21:21 +0000",
       "minecraft:dark_forest": "2025-01-03 21:45:23 +0000",
       "minecraft:river": "2025-01-03 20:06:30 +0000",
       "minecraft:stony_shore": "2025-01-03 22:36:09 +0000",
+      "minecraft:swamp": "2025-01-05 00:20:07 +0000",
       "minecraft:cold_ocean": "2025-01-03 22:34:10 +0000",
       "minecraft:forest": "2025-01-03 22:35:42 +0000",
       "minecraft:deep_cold_ocean": "2025-01-03 22:34:34 +0000",
+      "minecraft:windswept_forest": "2025-01-05 00:24:18 +0000",
       "minecraft:ocean": "2025-01-03 21:43:01 +0000",
+      "minecraft:jungle": "2025-01-05 00:17:01 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-03 21:46:11 +0000",
       "minecraft:savanna": "2025-01-03 22:53:33 +0000",
       "minecraft:plains": "2025-01-03 22:35:55 +0000"
@@ -3407,6 +3416,78 @@
   "mowziesmobs:sneak_grove": {
     "criteria": {
       "steal_crystal": "2025-01-03 22:53:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-01-05 00:21:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-01-05 00:21:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-01-05 00:21:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-05 00:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-01-05 00:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-05 00:21:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-05 00:21:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-01-05 00:21:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-01-05 00:21:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-01-05 00:21:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-01-05 00:21:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-01-05 00:21:49 +0000"
     },
     "done": true
   },
