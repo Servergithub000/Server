@@ -5552,9 +5552,21 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-05 22:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-05 22:27:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2025-01-05 22:57:46 +0000"
     },
     "done": true
   },
@@ -5579,6 +5591,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-05 22:27:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-05 22:57:46 +0000"
     },
     "done": true
   },
@@ -5690,9 +5708,27 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tame_mantis_shrimp": {
+    "criteria": {
+      "tame": "2025-01-05 22:56:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-01-05 22:57:46 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
     "criteria": {
       "has_rose_quartz_chunk": "2025-01-05 22:18:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-01-05 22:57:46 +0000"
     },
     "done": true
   },
@@ -5702,15 +5738,39 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-01-05 22:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-01-05 22:03:36 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-01-05 22:57:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-01-05 22:02:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-05 22:57:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-05 22:57:46 +0000"
     },
     "done": true
   },
@@ -5741,6 +5801,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-01-05 22:03:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/mantis_shrimp_bucket": {
+    "criteria": {
+      "tame": "2025-01-05 22:59:32 +0000"
     },
     "done": true
   },
