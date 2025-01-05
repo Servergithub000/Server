@@ -5439,15 +5439,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_the_recipe": "2025-01-05 04:54:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 04:54:32 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 04:37:18 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 04:54:32 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 04:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 04:54:06 +0000"
     },
     "done": true
   },
@@ -5463,9 +5487,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_plate": {
+    "criteria": {
+      "has_white_plate": "2025-01-05 04:54:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 04:54:32 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 04:54:32 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 04:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-05 04:54:06 +0000"
     },
     "done": true
   },
@@ -5481,9 +5529,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-05 04:54:06 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 04:37:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 04:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-05 04:54:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 04:54:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cup": {
+    "criteria": {
+      "has_white_cup": "2025-01-05 04:54:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 04:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-05 04:54:06 +0000"
     },
     "done": true
   },
@@ -5493,15 +5583,33 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 04:54:32 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 04:37:18 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 04:54:32 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-01-05 04:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 04:54:32 +0000"
     },
     "done": true
   },
@@ -5517,9 +5625,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_crockery_combo": {
+    "criteria": {
+      "has_white_crockery_combo": "2025-01-05 04:54:06 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 04:37:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 04:54:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_bowl": {
+    "criteria": {
+      "has_white_bowl": "2025-01-05 04:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-01-05 04:54:06 +0000"
     },
     "done": true
   },
@@ -5529,9 +5661,27 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_classic": {
+    "criteria": {
+      "has_logs": "2025-01-05 04:54:32 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
     "criteria": {
       "ex": "2025-01-05 04:38:18 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 04:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-01-05 04:54:06 +0000"
     },
     "done": true
   },
@@ -5541,9 +5691,45 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 04:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 04:54:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 04:54:32 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-01-05 04:32:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 04:54:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_white_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 04:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-05 04:54:06 +0000"
     },
     "done": true
   },
@@ -5556,6 +5742,18 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-01-05 04:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-05 04:54:06 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-01-05 04:54:32 +0000"
     },
     "done": true
   },

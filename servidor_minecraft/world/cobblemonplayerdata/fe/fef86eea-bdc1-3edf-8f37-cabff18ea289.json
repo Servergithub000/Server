@@ -11,9 +11,9 @@
     "totalCaptureCount": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 4,
+    "totalBattleVictoryCount": 5,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 5,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -22,7 +22,7 @@
       "cobblemon:lickitung": 1,
       "cobblemon:pineco": 1,
       "cobblemon:hoothoot": 1,
-      "cobblemon:ekans": 1
+      "cobblemon:ekans": 2
     },
     "aspectsCollected": {}
   }
