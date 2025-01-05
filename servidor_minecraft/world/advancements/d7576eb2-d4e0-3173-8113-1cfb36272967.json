@@ -79,7 +79,8 @@
       "pumpkin_patch": "2025-01-05 00:04:13 +0000",
       "grassland": "2025-01-04 22:38:26 +0000",
       "prairie": "2025-01-04 22:39:17 +0000",
-      "rainforest": "2025-01-04 23:24:26 +0000"
+      "rainforest": "2025-01-04 23:24:26 +0000",
+      "crag": "2025-01-05 23:20:31 +0000"
     },
     "done": false
   },
@@ -1774,6 +1775,7 @@
       "minecraft:spider": "2025-01-04 23:35:24 +0000",
       "minecraft:piglin_brute": "2025-01-05 22:25:34 +0000",
       "minecraft:creeper": "2025-01-05 05:31:57 +0000",
+      "minecraft:slime": "2025-01-05 23:15:24 +0000",
       "minecraft:cave_spider": "2025-01-05 01:27:58 +0000",
       "minecraft:piglin": "2025-01-05 22:05:05 +0000",
       "minecraft:enderman": "2025-01-05 00:10:20 +0000",
@@ -5660,6 +5662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 23:15:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-05 22:27:43 +0000"
@@ -5750,6 +5758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 23:15:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-01-05 22:03:36 +0000"
@@ -5777,6 +5791,12 @@
   "biomesoplenty:recipes/building_blocks/redwood_slab": {
     "criteria": {
       "has_planks": "2025-01-05 22:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 23:15:26 +0000"
     },
     "done": true
   },
