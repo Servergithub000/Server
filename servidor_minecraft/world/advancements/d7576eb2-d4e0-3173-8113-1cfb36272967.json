@@ -429,6 +429,7 @@
       "minecraft:old_growth_pine_taiga": "2025-01-04 21:49:36 +0000",
       "minecraft:taiga": "2025-01-04 21:53:51 +0000",
       "minecraft:birch_forest": "2025-01-04 21:31:26 +0000",
+      "minecraft:windswept_hills": "2025-01-05 06:35:51 +0000",
       "minecraft:bamboo_jungle": "2025-01-05 01:19:01 +0000",
       "minecraft:savanna_plateau": "2025-01-05 00:01:20 +0000",
       "minecraft:beach": "2025-01-04 21:44:52 +0000",
@@ -5188,6 +5189,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-01-05 06:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-01-05 06:36:28 +0000"
     },
     "done": true
   },
