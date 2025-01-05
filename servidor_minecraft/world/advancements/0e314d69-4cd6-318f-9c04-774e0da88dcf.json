@@ -967,10 +967,12 @@
     "criteria": {
       "minecraft:taiga": "2025-01-03 22:35:37 +0000",
       "minecraft:birch_forest": "2025-01-05 00:20:11 +0000",
+      "minecraft:windswept_hills": "2025-01-05 00:50:11 +0000",
       "minecraft:beach": "2025-01-03 21:21:21 +0000",
       "minecraft:dark_forest": "2025-01-03 21:45:23 +0000",
       "minecraft:river": "2025-01-03 20:06:30 +0000",
       "minecraft:stony_shore": "2025-01-03 22:36:09 +0000",
+      "minecraft:dripstone_caves": "2025-01-05 00:50:12 +0000",
       "minecraft:swamp": "2025-01-05 00:20:07 +0000",
       "minecraft:cold_ocean": "2025-01-03 22:34:10 +0000",
       "minecraft:forest": "2025-01-03 22:35:42 +0000",
@@ -3488,6 +3490,132 @@
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2025-01-05 00:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/golden_excavator_head": {
+    "criteria": {
+      "criterion0": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-01-05 00:52:35 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/gilded_chests": {
+    "criteria": {
+      "has_gold": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/golden_hammer_head": {
+    "criteria": {
+      "criterion0": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-05 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-05 00:50:31 +0000"
     },
     "done": true
   },

@@ -3748,6 +3748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-01-05 00:49:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_side_table": {
     "criteria": {
       "has_dark_oak_side_table": "2025-01-05 00:08:41 +0000"
@@ -3769,6 +3775,18 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2025-01-05 00:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-05 00:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-05 00:51:16 +0000"
     },
     "done": true
   },
@@ -3814,6 +3832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-05 00:46:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-01-05 00:09:46 +0000"
@@ -3832,9 +3856,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-01-05 00:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-01-05 00:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-05 00:46:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-01-05 00:41:00 +0000"
     },
     "done": true
   },
@@ -3850,15 +3892,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-01-05 00:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-05 00:49:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-01-05 00:41:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_nightstand": {
     "criteria": {
       "has_dark_oak_nightstand": "2025-01-05 00:08:41 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-01-05 00:41:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_shelf": {
     "criteria": {
       "has_dark_oak_shelf": "2025-01-05 00:08:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-05 00:41:00 +0000"
     },
     "done": true
   },
@@ -3892,9 +3964,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-01-05 00:46:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2025-01-04 23:43:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_granite_pillar_trim": "2025-01-05 00:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-05 00:49:00 +0000"
     },
     "done": true
   },
@@ -3904,9 +3994,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-05 00:46:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-01-05 00:46:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_corner_trim": {
+    "criteria": {
+      "has_granite_corner_trim": "2025-01-05 00:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-05 00:46:53 +0000"
     },
     "done": true
   },
@@ -3928,6 +4042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-01-05 00:49:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-01-04 23:55:20 +0000"
@@ -3943,6 +4063,12 @@
   "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
     "criteria": {
       "has_brown_wool": "2025-01-05 00:06:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 00:39:01 +0000"
     },
     "done": true
   },
@@ -3976,9 +4102,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/diorite_corner_trim": {
+    "criteria": {
+      "has_diorite_corner_trim": "2025-01-05 00:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-05 00:49:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-01-05 00:39:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-01-05 00:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-01-05 00:46:53 +0000"
     },
     "done": true
   },
@@ -4084,9 +4234,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-01-05 00:49:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-01-05 00:00:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-01-05 00:41:00 +0000"
     },
     "done": true
   },
@@ -4102,9 +4264,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/diorite_pillar_trim": {
+    "criteria": {
+      "has_diorite_pillar_trim": "2025-01-05 00:49:00 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wolf_smithing": {
     "criteria": {
       "has_wolf": "2025-01-05 00:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-01-05 00:54:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-05 00:41:00 +0000"
     },
     "done": true
   },
@@ -4147,6 +4327,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-01-05 00:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-01-05 00:49:00 +0000"
     },
     "done": true
   },
@@ -4195,6 +4381,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-01-05 00:41:00 +0000"
     },
     "done": true
   },
@@ -4324,6 +4516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-05 00:49:00 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-01-04 22:34:43 +0000"
@@ -4333,6 +4531,18 @@
   "handcrafted:recipes/misc/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_desk": "2025-01-05 00:08:41 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2025-01-05 00:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-01-05 00:46:53 +0000"
     },
     "done": true
   },
@@ -4354,6 +4564,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-05 00:41:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-05 00:41:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-01-05 00:07:23 +0000"
@@ -4366,9 +4588,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-05 00:49:00 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2025-01-05 00:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-05 00:49:00 +0000"
     },
     "done": true
   },
@@ -4387,6 +4621,12 @@
   "cobblemon:recipes/held/blunder_policy": {
     "criteria": {
       "has_paper": "2025-01-04 22:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-01-05 00:49:00 +0000"
     },
     "done": true
   },
