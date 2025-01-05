@@ -5644,7 +5644,31 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-05 19:12:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-05 19:12:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-05 19:12:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-01-05 19:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-01-05 19:52:18 +0000"
     },
@@ -5665,12 +5689,6 @@
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-05 19:59:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-01-05 19:12:23 +0000"
     },
     "done": true
   },
@@ -5707,12 +5725,6 @@
   "handcrafted:recipes/misc/warped_fancy_bed": {
     "criteria": {
       "has_warped_fancy_bed": "2025-01-05 19:59:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-01-05 19:12:23 +0000"
     },
     "done": true
   },
@@ -5755,12 +5767,6 @@
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-01-05 19:59:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-01-05 19:12:23 +0000"
     },
     "done": true
   },
@@ -5809,12 +5815,6 @@
   "handcrafted:recipes/misc/warped_couch": {
     "criteria": {
       "has_warped_couch": "2025-01-05 19:59:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2025-01-05 19:52:18 +0000"
     },
     "done": true
   },

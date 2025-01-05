@@ -1281,3 +1281,39 @@ java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.Cli
 [05Jan2025 19:59:16.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus joined the game
 [05Jan2025 19:59:17.035] [Server thread/INFO] [Jade/]: Syncing config to ElKingus (d7576eb2-d4e0-3173-8113-1cfb36272967)
 [05Jan2025 19:59:18.064] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was loaded
+[05Jan2025 20:06:52.789] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Carpenter'/1644, l='ServerLevel[world]', x=101.30, y=73.00, z=1834.40] died, message: 'Carpenter was slain by Anaconda'
+[05Jan2025 20:06:57.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus moved wrongly!
+[05Jan2025 20:11:25.056] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67b7a1f5[id=<null>,name=iDunk3d_ON,properties={},legacy=false] (/127.96.238.132:46491) lost connection: Disconnected
+[05Jan2025 20:11:29.459] [ForkJoinPool.commonPool-worker-19/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[05Jan2025 20:11:29.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iDunk3d_ON[/127.96.238.132:49319] logged in with entity id 42745 at (214.23750001192093, 70.0, 1746.57419940261)
+[05Jan2025 20:11:29.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON joined the game
+[05Jan2025 20:11:29.574] [Server thread/INFO] [Jade/]: Syncing config to iDunk3d_ON (fef86eea-bdc1-3edf-8f37-cabff18ea289)
+[05Jan2025 20:11:31.530] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fef86eea-bdc1-3edf-8f37-cabff18ea289 was loaded
+[05Jan2025 20:16:35.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[05Jan2025 20:16:55.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5314ms or 106 ticks behind
+[05Jan2025 20:17:16.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6415ms or 128 ticks behind
+[05Jan2025 20:17:17.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> tt
+[05Jan2025 20:17:19.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iDunk3d_ON> ola
+[05Jan2025 20:17:20.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> :V
+[05Jan2025 20:17:26.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid lost connection: Disconnected
+[05Jan2025 20:17:26.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid left the game
+[05Jan2025 20:17:26.746] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was unloaded
+[05Jan2025 20:17:33.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[05Jan2025 20:18:03.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nextraid[/127.249.127.78:39863] logged in with entity id 49895 at (43.30000001192093, 64.0, 1788.300000011921)
+[05Jan2025 20:18:03.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid joined the game
+[05Jan2025 20:18:03.458] [Server thread/INFO] [Jade/]: Syncing config to Nextraid (a9b403a4-c249-36d0-83b0-2189eacad68c)
+[05Jan2025 20:18:03.667] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was loaded
+[05Jan2025 20:22:05.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved wrongly!
+[05Jan2025 20:28:32.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Spectator Mode]
+[05Jan2025 20:28:49.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Survival Mode]
+[05Jan2025 20:32:11.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus lost connection: Disconnected
+[05Jan2025 20:32:11.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus left the game
+[05Jan2025 20:32:11.623] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was unloaded
+[05Jan2025 20:32:17.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElKingus[/127.107.176.211:42349] logged in with entity id 59101 at (222.18532825052685, -39.0, 1777.4247949622024)
+[05Jan2025 20:32:17.206] [Server thread/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Pokémon save file for PlayerPartyStore (d7576eb2-d4e0-3173-8113-1cfb36272967) was corrupted. A fresh file will be created.
+[05Jan2025 20:32:17.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus joined the game
+[05Jan2025 20:32:17.285] [Server thread/INFO] [Jade/]: Syncing config to ElKingus (d7576eb2-d4e0-3173-8113-1cfb36272967)
+[05Jan2025 20:32:17.973] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was loaded
+[05Jan2025 20:32:38.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON has made the advancement [Quite the Renovation]
+[05Jan2025 20:34:17.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved wrongly!
+[05Jan2025 20:34:59.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON has made the advancement [What a Deal!]
