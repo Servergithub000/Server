@@ -54,6 +54,7 @@
       "wasteland": "2025-01-04 23:16:06 +0000",
       "lush_desert": "2025-01-05 04:11:15 +0000",
       "redwood_forest": "2025-01-03 23:01:33 +0000",
+      "visceral_heap": "2025-01-05 22:09:38 +0000",
       "dune_beach": "2025-01-03 23:01:18 +0000",
       "pasture": "2025-01-04 23:48:09 +0000",
       "volcanic_plains": "2025-01-03 20:44:00 +0000",
@@ -5317,6 +5318,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-01-05 21:58:46 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/shroomlight_slab": {
+    "criteria": {
+      "has_wood": "2025-01-05 22:09:46 +0000"
     },
     "done": true
   },
