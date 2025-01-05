@@ -1339,3 +1339,55 @@ java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.Cli
 [05Jan2025 05:17:03.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iDunk3d_ON> ./kick Nextraid
 [05Jan2025 05:21:41.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> @hand
 [05Jan2025 05:21:45.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved too quickly! -122.8661526532515,-5.4375,78.67085115480336
+[05Jan2025 05:24:54.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ was slain by iDunk3d_ON
+[05Jan2025 05:24:54.138] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ImSensei_ with unique ID travelersbackpack.iron_05.01.2025-05.24.54.dat
+[05Jan2025 05:26:37.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved wrongly!
+[05Jan2025 05:28:04.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [What a Deal!]
+[05Jan2025 05:28:28.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT moved wrongly!
+[05Jan2025 05:29:13.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT moved wrongly!
+[05Jan2025 05:29:13.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT moved too quickly! -5.381798836244229,-1.4122986798008128,-13.103123640623835
+[05Jan2025 05:29:14.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT moved wrongly!
+[05Jan2025 05:29:14.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT moved too quickly! -9.491236669477075,4.605241584239025,-20.68746328928364
+[05Jan2025 05:29:14.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT moved too quickly! -6.107492586642138,3.6526207921195066,-10.935719280236299
+[05Jan2025 05:29:14.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT moved too quickly! -9.740987642292794,6.270161056159338,-15.111412400372501
+[05Jan2025 05:29:14.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT moved too quickly! -0.41371709450459093,5.752620792119529,-11.624488181296329
+[05Jan2025 05:29:15.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT moved too quickly! -1.58736015238469,9.07016105615935,-16.531843681000737
+[05Jan2025 05:29:16.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT fell from a high place
+[05Jan2025 05:29:16.236] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Magnum_EXT with unique ID travelersbackpack.iron_05.01.2025-05.29.16.dat
+[05Jan2025 05:29:21.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved wrongly!
+[05Jan2025 05:29:35.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Jan2025 05:29:40.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Teleported Magnum_EXT to ImSensei_]
+[05Jan2025 05:29:44.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved wrongly!
+[05Jan2025 05:30:01.189] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[05Jan2025 05:30:07.429] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[05Jan2025 05:31:01.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved wrongly!
+[05Jan2025 05:31:20.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid moved wrongly!
+[05Jan2025 05:31:41.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus moved wrongly!
+[05Jan2025 05:31:41.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved wrongly!
+[05Jan2025 05:31:48.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT moved wrongly!
+[05Jan2025 05:31:56.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved wrongly!
+[05Jan2025 05:31:59.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved wrongly!
+[05Jan2025 05:32:00.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved wrongly!
+[05Jan2025 05:32:03.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved wrongly!
+[05Jan2025 05:32:41.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iDunk3d_ON) moved wrongly! 0.2608850503111171
+[05Jan2025 05:32:41.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iDunk3d_ON) moved wrongly! 0.32581795258920465
+[05Jan2025 05:32:53.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved wrongly!
+[05Jan2025 05:33:19.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved wrongly!
+[05Jan2025 05:33:19.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved wrongly! 0.513187576656378
+[05Jan2025 05:33:19.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved wrongly! 0.7806286654914629
+[05Jan2025 05:34:18.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved wrongly!
+[05Jan2025 05:34:38.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved wrongly!
+[05Jan2025 05:35:47.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iDunk3d_ON) moved wrongly! 0.35903155820051325
+[05Jan2025 05:35:47.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iDunk3d_ON) moved wrongly! 0.6974401735315041
+[05Jan2025 05:35:47.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iDunk3d_ON) moved wrongly! 1.0220515952441929
+[05Jan2025 05:35:48.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iDunk3d_ON) moved wrongly! 1.3321540660836035
+[05Jan2025 05:35:48.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iDunk3d_ON) moved wrongly! 1.6273487795333494
+[05Jan2025 05:37:13.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of iDunk3d_ON) moved wrongly! 0.258162403200231
+[05Jan2025 05:39:20.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT moved wrongly!
+[05Jan2025 05:39:26.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved wrongly!
+[05Jan2025 05:39:28.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Nextraid) moved wrongly! 1.3499675030557228
+[05Jan2025 05:39:28.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Nextraid) moved wrongly! 0.8735192405711132
+[05Jan2025 05:39:44.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid moved wrongly!
+[05Jan2025 05:39:46.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved wrongly!
+[05Jan2025 05:39:50.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus moved wrongly!
+[05Jan2025 05:41:05.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Smelly Situation]
