@@ -1,26 +1,26 @@
-[05Jan2025 19:03:40.800] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[05Jan2025 19:03:40.803] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[05Jan2025 19:03:45.482] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[05Jan2025 19:03:45.532] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[05Jan2025 19:03:45.854] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[05Jan2025 19:03:45.855] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Jan2025 19:03:45.857] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Jan2025 19:03:45.858] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[05Jan2025 19:03:46.135] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[05Jan2025 19:03:46.137] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
-[05Jan2025 19:03:49.415] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[05Jan2025 19:03:49.612] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.leobeliik.extremesoundmuffler.MixinConnector]
-[05Jan2025 19:03:49.613] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[05Jan2025 19:03:49.617] [main/WARN] [mixin/]: Reference map 'grapplemod.refmap.json' for grapplemod.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Jan2025 19:03:49.697] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.7+mc1.20.1: 84 options available, 0 override(s) found
-[05Jan2025 19:03:49.698] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[05Jan2025 19:03:49.712] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[05Jan2025 19:03:49.784] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 141 options available, 0 override(s) found
-[05Jan2025 19:03:49.791] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Jan2025 19:03:49.809] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Jan2025 19:03:49.847] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[05Jan2025 19:03:49.854] [main/WARN] [mixin/]: Reference map 'immersive_paintings-common-refmap.json' for immersive_paintings.mixin.json could not be read. If this is a development environment you can ignore this message
-[05Jan2025 19:03:49.904] [main/INFO] [Puzzles Lib/]: Loading 96 mods:
+[05Jan2025 21:13:05.110] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[05Jan2025 21:13:05.114] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[05Jan2025 21:13:13.298] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[05Jan2025 21:13:13.364] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[05Jan2025 21:13:13.959] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jan2025 21:13:13.960] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jan2025 21:13:13.961] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jan2025 21:13:13.962] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Jan2025 21:13:14.341] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[05Jan2025 21:13:14.342] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
+[05Jan2025 21:13:18.665] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[05Jan2025 21:13:18.955] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.leobeliik.extremesoundmuffler.MixinConnector]
+[05Jan2025 21:13:18.956] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[05Jan2025 21:13:18.960] [main/WARN] [mixin/]: Reference map 'grapplemod.refmap.json' for grapplemod.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Jan2025 21:13:19.054] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.7+mc1.20.1: 84 options available, 0 override(s) found
+[05Jan2025 21:13:19.055] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[05Jan2025 21:13:19.073] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[05Jan2025 21:13:19.558] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 141 options available, 0 override(s) found
+[05Jan2025 21:13:19.569] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Jan2025 21:13:19.599] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Jan2025 21:13:19.667] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Jan2025 21:13:19.674] [main/WARN] [mixin/]: Reference map 'immersive_paintings-common-refmap.json' for immersive_paintings.mixin.json could not be read. If this is a development environment you can ignore this message
+[05Jan2025 21:13:19.728] [main/INFO] [Puzzles Lib/]: Loading 96 mods:
 	- alexscaves 2.0.2
 	- alexsmobs 1.22.9
 	- animal_feeding_trough 1.1.0+1.20.1-forge
@@ -118,7 +118,7 @@
 	- xpbook 2.2.1
 	- yungsapi 1.20-Forge-4.0.6
 	- yungsbridges 1.20-Forge-4.0.3
-[05Jan2025 19:03:50.572] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
+[05Jan2025 21:13:20.571] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
 java.lang.IllegalStateException: Field f_47437_ is not private and an instance field
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:270) ~[coremods-5.1.6.jar%2354!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$31$292A$\^eval\_.initializeCoreMod#transformer(<eval>:11) ~[?:?]
@@ -177,19 +177,19 @@ java.lang.IllegalStateException: Field f_47437_ is not private and an instance f
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Jan2025 19:03:50.737] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[05Jan2025 19:03:50.738] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[05Jan2025 19:03:50.738] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[05Jan2025 19:03:50.936] [main/WARN] [mixin/]: Error loading class: juuxel/adorn/block/variant/BlockVariantSets (java.lang.ClassNotFoundException: juuxel.adorn.block.variant.BlockVariantSets)
-[05Jan2025 19:03:50.937] [main/WARN] [mixin/]: @Mixin target juuxel.adorn.block.variant.BlockVariantSets was not found mixins.cobblemon-common.json:invoker.AdornRegisterInvoker
-[05Jan2025 19:03:51.572] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[05Jan2025 19:03:52.171] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (13.80 s after launch)
-[05Jan2025 19:03:52.385] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[05Jan2025 19:03:52.386] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[05Jan2025 19:03:55.068] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2893 milliseconds
-[05Jan2025 19:03:58.264] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[05Jan2025 21:13:20.790] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[05Jan2025 21:13:20.793] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[05Jan2025 21:13:20.794] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[05Jan2025 21:13:21.114] [main/WARN] [mixin/]: Error loading class: juuxel/adorn/block/variant/BlockVariantSets (java.lang.ClassNotFoundException: juuxel.adorn.block.variant.BlockVariantSets)
+[05Jan2025 21:13:21.114] [main/WARN] [mixin/]: @Mixin target juuxel.adorn.block.variant.BlockVariantSets was not found mixins.cobblemon-common.json:invoker.AdornRegisterInvoker
+[05Jan2025 21:13:22.124] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[05Jan2025 21:13:22.845] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (22.90 s after launch)
+[05Jan2025 21:13:22.998] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[05Jan2025 21:13:22.999] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[05Jan2025 21:13:25.845] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2996 milliseconds
+[05Jan2025 21:13:29.422] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[05Jan2025 19:03:58.425] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
+[05Jan2025 21:13:29.582] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
 java.lang.IllegalStateException: Field f_47437_ is not private and an instance field
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:270) ~[coremods-5.1.6.jar%2354!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$31$292A$\^eval\_.initializeCoreMod#transformer(<eval>:11) ~[?:?]
@@ -233,124 +233,124 @@ java.lang.IllegalStateException: Field f_47437_ is not private and an instance f
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[05Jan2025 19:03:59.502] [modloading-worker-0/INFO] [Basic Weapons/]: You have my sword.
-[05Jan2025 19:03:59.541] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[05Jan2025 19:03:59.644] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[05Jan2025 19:03:59.742] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
-[05Jan2025 19:04:00.053] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Booting LaxPermissionValidator, permissions will be checked using Minecrafts permission level system, see https://minecraft.fandom.com/wiki/Permission_level
-[05Jan2025 19:04:00.062] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[05Jan2025 19:04:00.064] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[05Jan2025 19:04:00.066] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[05Jan2025 19:04:00.067] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[05Jan2025 19:04:00.068] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[05Jan2025 19:04:00.069] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Launching Cobblemon 1.5.2 
-[05Jan2025 19:04:00.070] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[05Jan2025 19:04:00.071] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Booting ForgePermissionApiPermissionValidator, player permissions will be checked using MinecraftForge' PermissionAPI, non player command sources will use Minecraft' permission level system, see https://docs.minecraftforge.net/en/latest/ and https://minecraft.fandom.com/wiki/Permission_level
-[05Jan2025 19:04:00.076] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[05Jan2025 19:04:00.125] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[05Jan2025 19:04:00.126] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[05Jan2025 19:04:00.572] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting the Best Spawner...
-[05Jan2025 19:04:00.579] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 5 spawning condition types.
-[05Jan2025 19:04:00.592] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 5 spawning context types.
-[05Jan2025 19:04:00.595] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 1 spawn detail types.
-[05Jan2025 19:04:00.737] [modloading-worker-0/INFO] [Animal Feeding Trough/]: [Animal Feeding Trough] Load Complete! Enjoy :D
-[05Jan2025 19:04:00.757] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[05Jan2025 19:04:00.885] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[05Jan2025 19:04:00.915] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[05Jan2025 19:04:02.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@60e6045c has been registered twice for the same name treechop:chop_wood.
-[05Jan2025 19:04:03.449] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:red_maple
-[05Jan2025 19:04:03.450] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:orange_maple
-[05Jan2025 19:04:03.450] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:yellow_maple
-[05Jan2025 19:04:03.456] [main/INFO] [Moonlight/]: Initialized block sets in 15ms
-[05Jan2025 19:04:04.832] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[05Jan2025 19:04:05.436] [modloading-worker-0/INFO] [com.clickadv.ClickAdvancements/]: clickadv mod initialized
-[05Jan2025 19:04:05.532] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Initializing...
-[05Jan2025 19:04:05.579] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[05Jan2025 19:04:05.648] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[05Jan2025 19:04:05.826] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
-[05Jan2025 19:04:05.826] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Starting version check at https://api.modrinth.com/updates/fgmhI8kH/forge_updates.json
-[05Jan2025 19:04:06.053] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Found status: UP_TO_DATE Current: 3.4.10 Target: null
-[05Jan2025 19:04:06.053] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[05Jan2025 19:04:06.076] [Cobblemon Showdown/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting showdown service...
-[05Jan2025 19:04:06.589] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
-[05Jan2025 19:04:06.590] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
-[05Jan2025 19:04:06.601] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.4 Target: null
-[05Jan2025 19:04:06.601] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[05Jan2025 19:04:07.072] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[05Jan2025 19:04:07.073] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
-[05Jan2025 19:04:07.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: UP_TO_DATE Current: 2.0.0-b1.4 Target: null
-[05Jan2025 19:04:07.087] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
-[05Jan2025 19:04:07.098] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
-[05Jan2025 19:04:07.098] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
-[05Jan2025 19:04:07.110] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[05Jan2025 19:04:07.110] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[05Jan2025 19:04:07.460] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
-[05Jan2025 19:04:07.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[05Jan2025 19:04:07.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[05Jan2025 19:04:07.557] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[05Jan2025 19:04:07.610] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
-[05Jan2025 19:04:07.610] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
-[05Jan2025 19:04:07.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Found status: BETA Current: 2.2.3 Target: 2.2.3
-[05Jan2025 19:04:07.966] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [libx] Starting version check at https://assets.melanx.de/updates/libx.json
-[05Jan2025 19:04:08.115] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [libx] Found status: UP_TO_DATE Current: 1.20.1-5.0.12 Target: null
-[05Jan2025 19:04:08.115] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplytools] Starting version check at https://assets.melanx.de/updates/simply-tools.json
-[05Jan2025 19:04:08.137] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplytools] Found status: UP_TO_DATE Current: 1.20.1-2.0.8 Target: null
-[05Jan2025 19:04:08.137] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[05Jan2025 19:04:08.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[05Jan2025 19:04:08.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[05Jan2025 19:04:08.255] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[05Jan2025 19:04:08.255] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[05Jan2025 19:04:08.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.41 Target: null
-[05Jan2025 19:04:08.265] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[05Jan2025 19:04:08.275] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
-[05Jan2025 19:04:08.414] [Cobblemon Showdown/INFO] [com.cobblemon.mod.common.Cobblemon/]: Showdown has been started!
-[05Jan2025 19:04:08.417] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Note: Cobblemon data registries are only loaded once per server instance as Pokémon species are not safe to reload.
-[05Jan2025 19:04:08.417] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species_features registry
-[05Jan2025 19:04:08.418] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:global_species_features registry
-[05Jan2025 19:04:08.419] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species_feature_assignments registry
-[05Jan2025 19:04:08.436] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:action_effects registry
-[05Jan2025 19:04:08.437] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:moves registry
-[05Jan2025 19:04:08.438] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:abilities registry
-[05Jan2025 19:04:08.438] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species registry
-[05Jan2025 19:04:08.438] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species_additions registry
-[05Jan2025 19:04:08.438] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:pokeballs registry
-[05Jan2025 19:04:08.439] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:properties_tab_completion registry
-[05Jan2025 19:04:08.440] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:spawn_detail_presets registry
-[05Jan2025 19:04:08.445] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:spawn_rules registry
-[05Jan2025 19:04:08.455] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:mechanics registry
-[05Jan2025 19:04:08.455] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:bag_items registry
-[05Jan2025 19:04:08.458] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:dialogues registry
-[05Jan2025 19:04:08.459] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:natural_materials registry
-[05Jan2025 19:04:08.461] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:fossils registry
-[05Jan2025 19:04:08.466] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:spawn_pool_world registry
-[05Jan2025 19:04:08.472] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:berries registry
-[05Jan2025 19:04:08.577] [main/INFO] [journeymap/]: Initializing Packet Registries
-[05Jan2025 19:04:08.606] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[05Jan2025 19:04:08.606] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[05Jan2025 19:04:08.606] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[05Jan2025 19:04:08.607] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[05Jan2025 19:04:08.657] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[05Jan2025 19:04:08.658] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[05Jan2025 19:04:08.658] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[05Jan2025 19:04:08.658] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[05Jan2025 19:04:08.658] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[05Jan2025 19:04:08.658] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[05Jan2025 19:04:08.658] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[05Jan2025 19:04:08.736] [main/INFO] [Moonlight/]: Initialized color sets in 65ms
-[05Jan2025 19:04:09.178] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
-[05Jan2025 19:04:09.185] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[05Jan2025 19:04:09.187] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[05Jan2025 19:04:09.197] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[05Jan2025 19:04:09.201] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[05Jan2025 19:04:09.879] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05Jan2025 19:04:09.973] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[05Jan2025 19:04:10.355] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23279!/assets/.mcassetsroot' uses unexpected schema
-[05Jan2025 19:04:10.356] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23279!/data/.mcassetsroot' uses unexpected schema
-[05Jan2025 19:04:10.507] [main/INFO] [Sawmill/]: Generated runtime SERVER_DATA for pack Sawmill Sawmill Recipes (sawmill) in: 0 ms (debug resource dump on)
-[05Jan2025 19:04:13.266] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[05Jan2025 19:04:13.796] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/cardboard_box as it is missing following references: wares:cardboard_box (from [forge]ctov-3.4.10.jar)
-[05Jan2025 19:04:13.825] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/sealed_delivery_agreement as it is missing following references: wares:sealed_delivery_agreement (from [forge]ctov-3.4.10.jar)
-[05Jan2025 19:04:14.194] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_drawer
+[05Jan2025 21:13:30.668] [modloading-worker-0/INFO] [Basic Weapons/]: You have my sword.
+[05Jan2025 21:13:30.698] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[05Jan2025 21:13:30.782] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[05Jan2025 21:13:30.899] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[05Jan2025 21:13:31.163] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[05Jan2025 21:13:31.169] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[05Jan2025 21:13:31.172] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[05Jan2025 21:13:31.174] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[05Jan2025 21:13:31.179] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[05Jan2025 21:13:31.180] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[05Jan2025 21:13:31.182] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[05Jan2025 21:13:31.238] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[05Jan2025 21:13:31.240] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[05Jan2025 21:13:31.327] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Booting LaxPermissionValidator, permissions will be checked using Minecrafts permission level system, see https://minecraft.fandom.com/wiki/Permission_level
+[05Jan2025 21:13:31.337] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Launching Cobblemon 1.5.2 
+[05Jan2025 21:13:31.338] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Booting ForgePermissionApiPermissionValidator, player permissions will be checked using MinecraftForge' PermissionAPI, non player command sources will use Minecraft' permission level system, see https://docs.minecraftforge.net/en/latest/ and https://minecraft.fandom.com/wiki/Permission_level
+[05Jan2025 21:13:31.811] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting the Best Spawner...
+[05Jan2025 21:13:31.825] [modloading-worker-0/INFO] [Animal Feeding Trough/]: [Animal Feeding Trough] Load Complete! Enjoy :D
+[05Jan2025 21:13:31.834] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 5 spawning condition types.
+[05Jan2025 21:13:31.851] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[05Jan2025 21:13:31.865] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 5 spawning context types.
+[05Jan2025 21:13:31.879] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 1 spawn detail types.
+[05Jan2025 21:13:32.032] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[05Jan2025 21:13:32.101] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[05Jan2025 21:13:33.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@60e6045c has been registered twice for the same name treechop:chop_wood.
+[05Jan2025 21:13:34.622] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:red_maple
+[05Jan2025 21:13:34.622] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:orange_maple
+[05Jan2025 21:13:34.622] [main/WARN] [Moonlight/]: Failed to find custom wood type biomesoplenty:yellow_maple
+[05Jan2025 21:13:34.636] [main/INFO] [Moonlight/]: Initialized block sets in 26ms
+[05Jan2025 21:13:35.861] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[05Jan2025 21:13:36.454] [modloading-worker-0/INFO] [com.clickadv.ClickAdvancements/]: clickadv mod initialized
+[05Jan2025 21:13:36.537] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Initializing...
+[05Jan2025 21:13:36.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[05Jan2025 21:13:36.969] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.1 Target: null
+[05Jan2025 21:13:36.969] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Starting version check at https://api.modrinth.com/updates/fgmhI8kH/forge_updates.json
+[05Jan2025 21:13:37.051] [Cobblemon Showdown/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting showdown service...
+[05Jan2025 21:13:37.116] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[05Jan2025 21:13:37.471] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ctov] Found status: UP_TO_DATE Current: 3.4.10 Target: null
+[05Jan2025 21:13:37.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[05Jan2025 21:13:37.977] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
+[05Jan2025 21:13:37.978] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/trapdoors.json
+[05Jan2025 21:13:37.996] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwtrpdoors] Found status: UP_TO_DATE Current: 1.1.4 Target: null
+[05Jan2025 21:13:37.997] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[05Jan2025 21:13:38.495] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[05Jan2025 21:13:38.495] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
+[05Jan2025 21:13:38.508] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: UP_TO_DATE Current: 2.0.0-b1.4 Target: null
+[05Jan2025 21:13:38.508] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[05Jan2025 21:13:38.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
+[05Jan2025 21:13:38.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[05Jan2025 21:13:38.537] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[05Jan2025 21:13:38.538] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[05Jan2025 21:13:38.894] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[05Jan2025 21:13:38.894] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[05Jan2025 21:13:39.034] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[05Jan2025 21:13:39.034] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[05Jan2025 21:13:39.079] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
+[05Jan2025 21:13:39.080] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[05Jan2025 21:13:39.260] [Cobblemon Showdown/INFO] [com.cobblemon.mod.common.Cobblemon/]: Showdown has been started!
+[05Jan2025 21:13:39.264] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Note: Cobblemon data registries are only loaded once per server instance as Pokémon species are not safe to reload.
+[05Jan2025 21:13:39.264] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species_features registry
+[05Jan2025 21:13:39.266] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:global_species_features registry
+[05Jan2025 21:13:39.267] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species_feature_assignments registry
+[05Jan2025 21:13:39.286] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:action_effects registry
+[05Jan2025 21:13:39.287] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:moves registry
+[05Jan2025 21:13:39.289] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:abilities registry
+[05Jan2025 21:13:39.289] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species registry
+[05Jan2025 21:13:39.289] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:species_additions registry
+[05Jan2025 21:13:39.290] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:pokeballs registry
+[05Jan2025 21:13:39.291] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:properties_tab_completion registry
+[05Jan2025 21:13:39.291] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:spawn_detail_presets registry
+[05Jan2025 21:13:39.298] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:spawn_rules registry
+[05Jan2025 21:13:39.314] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:mechanics registry
+[05Jan2025 21:13:39.314] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:bag_items registry
+[05Jan2025 21:13:39.318] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:dialogues registry
+[05Jan2025 21:13:39.320] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:natural_materials registry
+[05Jan2025 21:13:39.322] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:fossils registry
+[05Jan2025 21:13:39.329] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:spawn_pool_world registry
+[05Jan2025 21:13:39.338] [modloading-worker-0/INFO] [com.cobblemon.mod.common.Cobblemon/]: Registered the cobblemon:berries registry
+[05Jan2025 21:13:39.439] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Found status: BETA Current: 2.2.3 Target: 2.2.3
+[05Jan2025 21:13:39.439] [main/INFO] [journeymap/]: Initializing Packet Registries
+[05Jan2025 21:13:39.439] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [libx] Starting version check at https://assets.melanx.de/updates/libx.json
+[05Jan2025 21:13:39.475] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[05Jan2025 21:13:39.476] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[05Jan2025 21:13:39.476] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[05Jan2025 21:13:39.477] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[05Jan2025 21:13:39.510] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[05Jan2025 21:13:39.511] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[05Jan2025 21:13:39.511] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[05Jan2025 21:13:39.511] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[05Jan2025 21:13:39.511] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[05Jan2025 21:13:39.512] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[05Jan2025 21:13:39.512] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[05Jan2025 21:13:39.561] [main/INFO] [Moonlight/]: Initialized color sets in 38ms
+[05Jan2025 21:13:39.602] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [libx] Found status: UP_TO_DATE Current: 1.20.1-5.0.12 Target: null
+[05Jan2025 21:13:39.602] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplytools] Starting version check at https://assets.melanx.de/updates/simply-tools.json
+[05Jan2025 21:13:39.624] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simplytools] Found status: UP_TO_DATE Current: 1.20.1-2.0.8 Target: null
+[05Jan2025 21:13:39.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[05Jan2025 21:13:39.639] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[05Jan2025 21:13:39.639] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Jan2025 21:13:39.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[05Jan2025 21:13:39.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[05Jan2025 21:13:39.751] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.41 Target: null
+[05Jan2025 21:13:39.751] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[05Jan2025 21:13:39.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.25 Target: null
+[05Jan2025 21:13:40.001] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
+[05Jan2025 21:13:40.007] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[05Jan2025 21:13:40.008] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[05Jan2025 21:13:40.016] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[05Jan2025 21:13:40.019] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[05Jan2025 21:13:40.689] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Jan2025 21:13:40.782] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[05Jan2025 21:13:41.075] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23279!/assets/.mcassetsroot' uses unexpected schema
+[05Jan2025 21:13:41.076] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23279!/data/.mcassetsroot' uses unexpected schema
+[05Jan2025 21:13:41.220] [main/INFO] [Sawmill/]: Generated runtime SERVER_DATA for pack Sawmill Sawmill Recipes (sawmill) in: 0 ms (debug resource dump on)
+[05Jan2025 21:13:43.708] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[05Jan2025 21:13:44.098] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/cardboard_box as it is missing following references: wares:cardboard_box (from [forge]ctov-3.4.10.jar)
+[05Jan2025 21:13:44.128] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag ctov:wares/sealed_delivery_agreement as it is missing following references: wares:sealed_delivery_agreement (from [forge]ctov-3.4.10.jar)
+[05Jan2025 21:13:44.698] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_drawer
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_drawer'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -393,7 +393,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23284!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.md36dba1$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.md46aacc$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zic000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
@@ -404,7 +404,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Jan2025 19:04:14.216] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_kitchen_counter
+[05Jan2025 21:13:44.713] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_kitchen_counter
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_kitchen_counter'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -447,7 +447,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23284!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.md36dba1$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.md46aacc$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zic000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
@@ -458,7 +458,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Jan2025 19:04:14.222] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_chair
+[05Jan2025 21:13:44.717] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_chair
 java.lang.IllegalArgumentException: Can't find block adorn:cobblemon/apricorn_chair
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -507,7 +507,7 @@ java.lang.IllegalArgumentException: Can't find block adorn:cobblemon/apricorn_ch
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23284!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.md36dba1$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.md46aacc$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zic000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
@@ -518,7 +518,7 @@ java.lang.IllegalArgumentException: Can't find block adorn:cobblemon/apricorn_ch
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Jan2025 19:04:14.329] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_table
+[05Jan2025 21:13:44.799] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_table
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_table'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -561,7 +561,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23284!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.md36dba1$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.md46aacc$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zic000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
@@ -572,7 +572,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Jan2025 19:04:14.376] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_kitchen_cupboard
+[05Jan2025 21:13:44.841] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_kitchen_cupboard
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_kitchen_cupboard'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -615,7 +615,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23284!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.md36dba1$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.md46aacc$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zic000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
@@ -626,7 +626,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Jan2025 19:04:14.443] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_kitchen_sink
+[05Jan2025 21:13:44.889] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_kitchen_sink
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_kitchen_sink'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -669,7 +669,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23284!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.md36dba1$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.md46aacc$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zic000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
@@ -680,7 +680,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Jan2025 19:04:14.472] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_bench
+[05Jan2025 21:13:44.918] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_bench
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_bench'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -723,7 +723,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23284!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.md36dba1$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.md46aacc$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zic000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
@@ -734,7 +734,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Jan2025 19:04:14.502] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_post
+[05Jan2025 21:13:44.933] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_post
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_post'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -777,7 +777,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23284!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.md36dba1$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.md46aacc$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zic000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
@@ -788,7 +788,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Jan2025 19:04:14.562] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:ctov:chests/village/village_forager
+[05Jan2025 21:13:44.974] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:ctov:chests/village/village_forager
 com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 	at net.minecraft.util.GsonHelper.m_13912_(GsonHelper.java:181) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.entries.TagEntry$Serializer.m_7267_(TagEntry.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
@@ -828,7 +828,7 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23284!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.md36dba1$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:539) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.md46aacc$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:539) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zic000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
@@ -839,7 +839,7 @@ com.google.gson.JsonSyntaxException: Missing expand, expected to find a Boolean
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Jan2025 19:04:14.608] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_coffee_table
+[05Jan2025 21:13:45.007] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_coffee_table
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_coffee_table'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -882,7 +882,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23284!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.md36dba1$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.md46aacc$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zic000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
@@ -893,7 +893,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Jan2025 19:04:14.662] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_shelf
+[05Jan2025 21:13:45.047] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_shelf
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_shelf'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -936,7 +936,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23284!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.md36dba1$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.md46aacc$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zic000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
@@ -947,7 +947,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Jan2025 19:04:14.711] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_step
+[05Jan2025 21:13:45.101] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_step
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_step'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -990,7 +990,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23284!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.md36dba1$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.md46aacc$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zic000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
@@ -1001,7 +1001,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Jan2025 19:04:14.717] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_platform
+[05Jan2025 21:13:45.106] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:adorn:blocks/cobblemon/apricorn_platform
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'adorn:cobblemon/apricorn_platform'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1044,7 +1044,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23284!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.md36dba1$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.md46aacc$lambda$cobblemon$supportICondition$0$0(LootDataManager.java:544) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.redirect$zic000$cobblemon$supportICondition(LootDataManager.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
@@ -1055,86 +1055,87 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[05Jan2025 19:04:14.739] [main/INFO] [Sawmill/]: Intercepted tag results
-[05Jan2025 19:04:14.815] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe basicweapons:diamond_dagger as it's serializer returned null
-[05Jan2025 19:04:14.957] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe basicweapons:stone_dagger as it's serializer returned null
-[05Jan2025 19:04:14.971] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe basicweapons:iron_dagger as it's serializer returned null
-[05Jan2025 19:04:15.024] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe basicweapons:golden_dagger as it's serializer returned null
-[05Jan2025 19:04:15.062] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe basicweapons:wooden_dagger as it's serializer returned null
-[05Jan2025 19:04:15.065] [main/INFO] [Sawmill/]: Generating Sawmill Recipes
-[05Jan2025 19:04:15.151] [main/INFO] [Sawmill/]: Generated Sawmill recipes in 86 milliseconds
-[05Jan2025 19:04:15.157] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
-[05Jan2025 19:04:15.324] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3086 advancements
-[05Jan2025 19:04:15.329] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[05Jan2025 19:04:15.358] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[05Jan2025 19:04:15.367] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[05Jan2025 19:04:15.369] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[05Jan2025 19:04:18.842] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 936 moves
-[05Jan2025 19:04:18.938] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 314 abilities
-[05Jan2025 19:04:19.221] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Finished additions
-[05Jan2025 19:04:20.063] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Imported 244 held item IDs from showdown
-[05Jan2025 19:04:20.064] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 1025 Pokémon species
-[05Jan2025 19:04:20.082] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 43 spawn detail presets.
-[05Jan2025 19:04:20.102] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting dummy Showdown battle to force it to pre-load data.
-[05Jan2025 19:04:20.142] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 15 fossils
-[05Jan2025 19:04:20.650] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 69 berries
-[05Jan2025 19:04:20.724] [main/INFO] [Moonlight/]: Applied 12 data villager trades
-[05Jan2025 19:04:20.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[05Jan2025 19:04:20.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[05Jan2025 19:04:20.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[05Jan2025 19:04:20.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[05Jan2025 19:04:21.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[05Jan2025 19:04:21.043] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[05Jan2025 19:04:21.272] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05Jan2025 19:04:21.273] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[05Jan2025 19:04:21.273] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05Jan2025 19:04:21.273] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[05Jan2025 19:04:21.297] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
-[05Jan2025 19:04:21.300] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[05Jan2025 19:04:21.460] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[05Jan2025 19:04:21.460] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[05Jan2025 19:04:21.460] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[05Jan2025 19:04:21.460] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[05Jan2025 19:04:21.461] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[05Jan2025 19:04:21.461] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[05Jan2025 19:04:21.462] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[05Jan2025 19:04:21.462] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[05Jan2025 19:04:21.462] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[05Jan2025 19:04:21.462] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[05Jan2025 19:04:21.463] [Server thread/INFO] [Sawmill/]: Injecting Carpenter Village Houses
-[05Jan2025 19:04:21.465] [Server thread/INFO] [Framework/]: Loading server configs...
-[05Jan2025 19:04:21.890] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[05Jan2025 19:04:21.891] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[05Jan2025 19:04:21.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[05Jan2025 19:04:22.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[05Jan2025 19:04:24.485] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 19:04:24.487] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 19:04:24.488] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 19:04:24.488] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 19:04:24.489] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 19:04:24.808] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[05Jan2025 19:04:25.161] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2853 ms
-[05Jan2025 19:04:25.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.873s)! For help, type "help"
-[05Jan2025 19:04:25.222] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting Forge permission node registry
-[05Jan2025 19:04:25.224] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[05Jan2025 19:04:25.224] [Server thread/INFO] [Basic Weapons/]: Mod loading on server side..
-[05Jan2025 19:04:25.255] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: clickadv.json
-[05Jan2025 19:04:25.320] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 57859 bytes (in 6 string chunks with the size of 10000)
-[05Jan2025 19:04:25.323] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[05Jan2025 19:04:25.330] [Server thread/WARN] [ModernFix/]: Dedicated server took 46.959 seconds to load
-[05Jan2025 19:06:16.593] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[05Jan2025 19:06:16.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImSensei_[/127.158.94.36:41253] logged in with entity id 74 at (613.4189293146733, 66.0, 1289.1605268813605)
-[05Jan2025 19:06:16.835] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "com.yyon.grapplinghook.client.ClientProxyInterface.fillGrappleVariants(net.minecraft.world.item.CreativeModeTab$Output)" because "com.yyon.grapplinghook.client.ClientProxy.proxy" is null
+[05Jan2025 21:13:45.128] [main/INFO] [Sawmill/]: Intercepted tag results
+[05Jan2025 21:13:45.223] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe basicweapons:diamond_dagger as it's serializer returned null
+[05Jan2025 21:13:45.335] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe basicweapons:stone_dagger as it's serializer returned null
+[05Jan2025 21:13:45.347] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe basicweapons:iron_dagger as it's serializer returned null
+[05Jan2025 21:13:45.404] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe basicweapons:golden_dagger as it's serializer returned null
+[05Jan2025 21:13:45.433] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe basicweapons:wooden_dagger as it's serializer returned null
+[05Jan2025 21:13:45.436] [main/INFO] [Sawmill/]: Generating Sawmill Recipes
+[05Jan2025 21:13:45.506] [main/INFO] [Sawmill/]: Generated Sawmill recipes in 70 milliseconds
+[05Jan2025 21:13:45.510] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
+[05Jan2025 21:13:45.629] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3086 advancements
+[05Jan2025 21:13:45.632] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[05Jan2025 21:13:45.653] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[05Jan2025 21:13:45.659] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[05Jan2025 21:13:45.660] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[05Jan2025 21:13:49.351] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 936 moves
+[05Jan2025 21:13:49.457] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 314 abilities
+[05Jan2025 21:13:49.791] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Finished additions
+[05Jan2025 21:13:50.762] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Imported 244 held item IDs from showdown
+[05Jan2025 21:13:50.762] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 1025 Pokémon species
+[05Jan2025 21:13:50.788] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 43 spawn detail presets.
+[05Jan2025 21:13:50.818] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting dummy Showdown battle to force it to pre-load data.
+[05Jan2025 21:13:50.874] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 15 fossils
+[05Jan2025 21:13:51.455] [main/INFO] [com.cobblemon.mod.common.Cobblemon/]: Loaded 69 berries
+[05Jan2025 21:13:51.535] [main/INFO] [Moonlight/]: Applied 12 data villager trades
+[05Jan2025 21:13:51.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[05Jan2025 21:13:51.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Jan2025 21:13:51.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Jan2025 21:13:51.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Jan2025 21:13:51.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Jan2025 21:13:51.840] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[05Jan2025 21:13:51.918] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05Jan2025 21:13:51.918] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05Jan2025 21:13:51.918] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05Jan2025 21:13:51.919] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05Jan2025 21:13:51.940] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[05Jan2025 21:13:51.943] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[05Jan2025 21:13:52.111] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[05Jan2025 21:13:52.112] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[05Jan2025 21:13:52.112] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[05Jan2025 21:13:52.112] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[05Jan2025 21:13:52.112] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[05Jan2025 21:13:52.113] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[05Jan2025 21:13:52.113] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[05Jan2025 21:13:52.113] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[05Jan2025 21:13:52.114] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[05Jan2025 21:13:52.114] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[05Jan2025 21:13:52.115] [Server thread/INFO] [Sawmill/]: Injecting Carpenter Village Houses
+[05Jan2025 21:13:52.117] [Server thread/INFO] [Framework/]: Loading server configs...
+[05Jan2025 21:13:52.154] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[05Jan2025 21:13:52.713] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[05Jan2025 21:13:52.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Jan2025 21:13:53.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Jan2025 21:13:53.652] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[05Jan2025 21:13:54.857] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 21:13:54.858] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 21:13:54.858] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 21:13:54.859] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 21:13:54.873] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[05Jan2025 21:13:55.114] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Jan2025 21:13:55.770] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2656 ms
+[05Jan2025 21:13:55.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.840s)! For help, type "help"
+[05Jan2025 21:13:55.862] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: Starting Forge permission node registry
+[05Jan2025 21:13:55.863] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Jan2025 21:13:55.864] [Server thread/INFO] [Basic Weapons/]: Mod loading on server side..
+[05Jan2025 21:13:55.900] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: clickadv.json
+[05Jan2025 21:13:55.965] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 57859 bytes (in 6 string chunks with the size of 10000)
+[05Jan2025 21:13:55.968] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[05Jan2025 21:13:55.976] [Server thread/WARN] [ModernFix/]: Dedicated server took 56.032 seconds to load
+[05Jan2025 21:15:25.590] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[05Jan2025 21:15:25.707] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nextraid[/127.249.127.78:34561] logged in with entity id 75 at (223.146076692417, 71.05280051640001, 1735.5410586094622)
+[05Jan2025 21:15:25.828] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "com.yyon.grapplinghook.client.ClientProxyInterface.fillGrappleVariants(net.minecraft.world.item.CreativeModeTab$Output)" because "com.yyon.grapplinghook.client.ClientProxy.proxy" is null
 	Index: 4
 	Listeners:
 		0: NORMAL
-		1: ASM: org.embeddedt.modernfix.forge.init.ModernFixForge@bfa3a48 onDatapackSync(Lnet/minecraftforge/event/OnDatapackSyncEvent;)V
+		1: ASM: org.embeddedt.modernfix.forge.init.ModernFixForge@7f9e12fd onDatapackSync(Lnet/minecraftforge/event/OnDatapackSyncEvent;)V
 		2: ASM: class immersive_aircraft.forge.ForgeBusEvents onDatapackSync(Lnet/minecraftforge/event/OnDatapackSyncEvent;)V
 		3: ASM: class tschipp.carryon.events.CommonEvents onDatapackSync(Lnet/minecraftforge/event/OnDatapackSyncEvent;)V
-		4: ASM: net.mehvahdjukaar.sawmill.forge.SawmillModImpl@379a921d dataSync(Lnet/minecraftforge/event/OnDatapackSyncEvent;)V
+		4: ASM: net.mehvahdjukaar.sawmill.forge.SawmillModImpl@7c191c14 dataSync(Lnet/minecraftforge/event/OnDatapackSyncEvent;)V
 		5: ASM: class net.mehvahdjukaar.moonlight.forge.MoonlightForge onDataSync(Lnet/minecraftforge/event/OnDatapackSyncEvent;)V
-		6: net.minecraftforge.eventbus.EventBus$$Lambda/0x0000725448684428@51b5f0d5
-		7: ASM: top.theillusivec4.curios.common.event.CuriosEventHandler@20a9dbb8 onDatapackSync(Lnet/minecraftforge/event/OnDatapackSyncEvent;)V
+		6: net.minecraftforge.eventbus.EventBus$$Lambda/0x00007ede3867acd8@6389ad16
+		7: ASM: top.theillusivec4.curios.common.event.CuriosEventHandler@29539b80 onDatapackSync(Lnet/minecraftforge/event/OnDatapackSyncEvent;)V
 java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.ClientProxyInterface.fillGrappleVariants(net.minecraft.world.item.CreativeModeTab$Output)" because "com.yyon.grapplinghook.client.ClientProxy.proxy" is null
 	at TRANSFORMER/grapplemod@1.20.1-v13/com.yyon.grapplinghook.common.CommonSetup.lambda$static$8(CommonSetup.java:135)
 	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onCreativeModeTabBuildContents(ForgeHooks.java:1627)
@@ -1172,7 +1173,7 @@ java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.Cli
 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
 	at java.base/java.lang.Thread.run(Thread.java:1583)
 
-[05Jan2025 19:06:16.837] [Server thread/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Couldn't place player in world
+[05Jan2025 21:15:25.830] [Server thread/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Couldn't place player in world
 java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.ClientProxyInterface.fillGrappleVariants(net.minecraft.world.item.CreativeModeTab$Output)" because "com.yyon.grapplinghook.client.ClientProxy.proxy" is null
 	at com.yyon.grapplinghook.common.CommonSetup.lambda$static$8(CommonSetup.java:135) ~[grappling_hook_mod-1.20.1-1.20.1-v13.jar%23221!/:1.20.1-v13]
 	at net.minecraftforge.common.ForgeHooks.onCreativeModeTabBuildContents(ForgeHooks.java:1627) ~[forge-1.20.1-47.3.7-universal.jar%23284!/:?]
@@ -1209,133 +1210,217 @@ java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.Cli
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[05Jan2025 19:06:16.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ lost connection: Invalid player data
-[05Jan2025 19:06:16.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ left the game
-[05Jan2025 19:06:16.842] [Server thread/WARN] [com.alrex.parcool.ParCool/]: Limitation entry is not loaded for UUID:02063f0c-ceb6-3856-be18-67d85054ed88. Skipped.
-[05Jan2025 19:06:16.891] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[05Jan2025 19:06:23.341] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImSensei_[/127.158.94.36:41623] logged in with entity id 75 at (613.4189293146733, 66.0, 1289.1605268813605)
-[05Jan2025 19:06:23.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ joined the game
-[05Jan2025 19:06:23.611] [Server thread/INFO] [Jade/]: Syncing config to ImSensei_ (02063f0c-ceb6-3856-be18-67d85054ed88)
-[05Jan2025 19:06:24.179] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 02063f0c-ceb6-3856-be18-67d85054ed88 was loaded
-[05Jan2025 19:09:21.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nextraid[/127.249.127.78:33605] logged in with entity id 1602 at (75.64875213441685, 62.9375, 1816.550219117136)
-[05Jan2025 19:09:21.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid joined the game
-[05Jan2025 19:09:21.445] [Server thread/INFO] [Jade/]: Syncing config to Nextraid (a9b403a4-c249-36d0-83b0-2189eacad68c)
-[05Jan2025 19:09:22.555] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was loaded
-[05Jan2025 19:13:12.444] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElKingus[/127.107.176.211:40347] logged in with entity id 4535 at (244.09204596871618, 31.0, 1793.6812893470535)
-[05Jan2025 19:13:12.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus joined the game
-[05Jan2025 19:13:12.572] [Server thread/INFO] [Jade/]: Syncing config to ElKingus (d7576eb2-d4e0-3173-8113-1cfb36272967)
-[05Jan2025 19:13:17.714] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was loaded
-[05Jan2025 19:14:07.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> hola
-[05Jan2025 19:14:16.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> pene
-[05Jan2025 19:16:01.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved wrongly!
-[05Jan2025 19:17:29.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> luifer
-[05Jan2025 19:17:29.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> tienes
-[05Jan2025 19:17:31.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> xp
-[05Jan2025 19:17:36.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> nop
-[05Jan2025 19:17:41.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> asi sea poquita
-[05Jan2025 19:17:44.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> unos 8 de xp
-[05Jan2025 19:18:05.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> no
-[05Jan2025 19:18:50.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> llamaron a las niñas ya?
-[05Jan2025 19:19:08.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> disc
-[05Jan2025 19:19:09.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> zzz
-[05Jan2025 19:19:25.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nextraid> zz
-[05Jan2025 19:19:27.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> duerme luife
-[05Jan2025 19:19:46.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> cabronazo
-[05Jan2025 19:21:17.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> pasen bloque de cesped mierda
-[05Jan2025 19:24:22.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> si
-[05Jan2025 19:24:28.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> gracias
-[05Jan2025 19:27:35.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> no
-[05Jan2025 19:30:36.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> zz
-[05Jan2025 19:31:18.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nextraid> zzz
-[05Jan2025 19:36:02.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=403, y=65, z=1955} BlockPos{x=403, y=64, z=1956}
-[05Jan2025 19:36:05.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus moved wrongly!
-[05Jan2025 19:38:11.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set the weather to clear]
-[05Jan2025 19:42:07.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [A New Friend!]
-[05Jan2025 19:45:01.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus fell from a high place
-[05Jan2025 19:45:01.275] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElKingus with unique ID travelersbackpack.wolf_05.01.2025-19.45.01.dat
-[05Jan2025 19:46:12.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nextraid> ZZZ
-[05Jan2025 19:46:34.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid moved too quickly! 1.2363774490987396,-11.55895306230558,1.2147842909362225
-[05Jan2025 19:48:27.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Creative Mode]
-[05Jan2025 19:50:01.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus lost connection: Disconnected
-[05Jan2025 19:50:01.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus left the game
-[05Jan2025 19:50:01.286] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was unloaded
-[05Jan2025 19:50:06.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElKingus[/127.107.176.211:48687] logged in with entity id 31572 at (230.98327531648746, 21.083603022122254, 1778.3913189255206)
-[05Jan2025 19:50:06.974] [Server thread/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Pokémon save file for PlayerPartyStore (d7576eb2-d4e0-3173-8113-1cfb36272967) was corrupted. A fresh file will be created.
-[05Jan2025 19:50:06.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus joined the game
-[05Jan2025 19:50:07.071] [Server thread/INFO] [Jade/]: Syncing config to ElKingus (d7576eb2-d4e0-3173-8113-1cfb36272967)
-[05Jan2025 19:50:07.714] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was loaded
-[05Jan2025 19:50:10.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Survival Mode]
-[05Jan2025 19:52:48.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus lost connection: Disconnected
-[05Jan2025 19:52:48.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus left the game
-[05Jan2025 19:52:48.506] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was unloaded
-[05Jan2025 19:55:22.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElKingus[/127.107.176.211:59509] logged in with entity id 34145 at (259.008691811376, 63.0, 1710.3037868584756)
-[05Jan2025 19:55:22.963] [Server thread/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Pokémon save file for PlayerPartyStore (d7576eb2-d4e0-3173-8113-1cfb36272967) was corrupted. A fresh file will be created.
-[05Jan2025 19:55:22.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus joined the game
-[05Jan2025 19:55:23.077] [Server thread/INFO] [Jade/]: Syncing config to ElKingus (d7576eb2-d4e0-3173-8113-1cfb36272967)
-[05Jan2025 19:55:23.980] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was loaded
-[05Jan2025 19:57:19.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus lost connection: Disconnected
-[05Jan2025 19:57:19.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus left the game
-[05Jan2025 19:57:19.806] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was unloaded
-[05Jan2025 19:59:16.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElKingus[/127.107.176.211:37951] logged in with entity id 35480 at (264.35603019772617, 75.0, 1723.8456949563736)
-[05Jan2025 19:59:16.936] [Server thread/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Pokémon save file for PlayerPartyStore (d7576eb2-d4e0-3173-8113-1cfb36272967) was corrupted. A fresh file will be created.
-[05Jan2025 19:59:16.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus joined the game
-[05Jan2025 19:59:17.035] [Server thread/INFO] [Jade/]: Syncing config to ElKingus (d7576eb2-d4e0-3173-8113-1cfb36272967)
-[05Jan2025 19:59:18.064] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was loaded
-[05Jan2025 20:06:52.789] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Carpenter'/1644, l='ServerLevel[world]', x=101.30, y=73.00, z=1834.40] died, message: 'Carpenter was slain by Anaconda'
-[05Jan2025 20:06:57.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus moved wrongly!
-[05Jan2025 20:11:25.056] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67b7a1f5[id=<null>,name=iDunk3d_ON,properties={},legacy=false] (/127.96.238.132:46491) lost connection: Disconnected
-[05Jan2025 20:11:29.459] [ForkJoinPool.commonPool-worker-19/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[05Jan2025 20:11:29.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iDunk3d_ON[/127.96.238.132:49319] logged in with entity id 42745 at (214.23750001192093, 70.0, 1746.57419940261)
-[05Jan2025 20:11:29.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON joined the game
-[05Jan2025 20:11:29.574] [Server thread/INFO] [Jade/]: Syncing config to iDunk3d_ON (fef86eea-bdc1-3edf-8f37-cabff18ea289)
-[05Jan2025 20:11:31.530] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fef86eea-bdc1-3edf-8f37-cabff18ea289 was loaded
-[05Jan2025 20:16:35.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
-[05Jan2025 20:16:55.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5314ms or 106 ticks behind
-[05Jan2025 20:17:16.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6415ms or 128 ticks behind
-[05Jan2025 20:17:17.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> tt
-[05Jan2025 20:17:19.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iDunk3d_ON> ola
-[05Jan2025 20:17:20.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> :V
-[05Jan2025 20:17:26.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid lost connection: Disconnected
-[05Jan2025 20:17:26.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid left the game
-[05Jan2025 20:17:26.746] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was unloaded
-[05Jan2025 20:17:33.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
-[05Jan2025 20:18:03.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nextraid[/127.249.127.78:39863] logged in with entity id 49895 at (43.30000001192093, 64.0, 1788.300000011921)
-[05Jan2025 20:18:03.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid joined the game
-[05Jan2025 20:18:03.458] [Server thread/INFO] [Jade/]: Syncing config to Nextraid (a9b403a4-c249-36d0-83b0-2189eacad68c)
-[05Jan2025 20:18:03.667] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was loaded
-[05Jan2025 20:22:05.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved wrongly!
-[05Jan2025 20:28:32.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Spectator Mode]
-[05Jan2025 20:28:49.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Survival Mode]
-[05Jan2025 20:32:11.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus lost connection: Disconnected
-[05Jan2025 20:32:11.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus left the game
-[05Jan2025 20:32:11.623] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was unloaded
-[05Jan2025 20:32:17.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElKingus[/127.107.176.211:42349] logged in with entity id 59101 at (222.18532825052685, -39.0, 1777.4247949622024)
-[05Jan2025 20:32:17.206] [Server thread/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Pokémon save file for PlayerPartyStore (d7576eb2-d4e0-3173-8113-1cfb36272967) was corrupted. A fresh file will be created.
-[05Jan2025 20:32:17.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus joined the game
-[05Jan2025 20:32:17.285] [Server thread/INFO] [Jade/]: Syncing config to ElKingus (d7576eb2-d4e0-3173-8113-1cfb36272967)
-[05Jan2025 20:32:17.973] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was loaded
-[05Jan2025 20:32:38.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON has made the advancement [Quite the Renovation]
-[05Jan2025 20:34:17.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved wrongly!
-[05Jan2025 20:34:59.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON has made the advancement [What a Deal!]
-[05Jan2025 20:38:34.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Magnum_EXT[/127.105.107.119:35017] logged in with entity id 62730 at (218.8743211324545, 81.0, 1818.343302529567)
-[05Jan2025 20:38:34.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT joined the game
-[05Jan2025 20:38:34.176] [Server thread/INFO] [Jade/]: Syncing config to Magnum_EXT (0e314d69-4cd6-318f-9c04-774e0da88dcf)
-[05Jan2025 20:38:35.164] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e314d69-4cd6-318f-9c04-774e0da88dcf was loaded
-[05Jan2025 20:40:29.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Spectator Mode]
-[05Jan2025 20:40:39.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Survival Mode]
-[05Jan2025 20:42:16.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1656, y=-53, z=2456} BlockPos{x=1656, y=-55, z=2455}
-[05Jan2025 20:42:19.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1657, y=-57, z=2460} BlockPos{x=1656, y=-54, z=2458}
-[05Jan2025 20:42:57.019] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1662, y=-52, z=2450} BlockPos{x=1664, y=-51, z=2449}
-[05Jan2025 20:43:11.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1670, y=-53, z=2458} BlockPos{x=1671, y=-54, z=2456}
-[05Jan2025 20:43:42.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved too quickly! 0.2680113567283513,7.5,7.022042885376777
-[05Jan2025 20:43:53.762] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1667, y=-46, z=2460} BlockPos{x=1667, y=-47, z=2461}
-[05Jan2025 20:45:21.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set the time to 13000]
-[05Jan2025 20:45:35.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set the time to 1000]
-[05Jan2025 20:45:37.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> ./soygay
-[05Jan2025 20:45:46.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> 41
-[05Jan2025 20:46:12.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus lost connection: Disconnected
-[05Jan2025 20:46:12.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus left the game
-[05Jan2025 20:46:12.677] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was unloaded
-[05Jan2025 20:53:04.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT has made the advancement [Sweet Tooth]
-[05Jan2025 20:53:15.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Teleported iDunk3d_ON to ImSensei_]
-[05Jan2025 20:53:39.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT has made the advancement [Hard Work and Dedication]
+[05Jan2025 21:15:25.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid lost connection: Invalid player data
+[05Jan2025 21:15:25.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid left the game
+[05Jan2025 21:15:25.834] [Server thread/WARN] [com.alrex.parcool.ParCool/]: Limitation entry is not loaded for UUID:a9b403a4-c249-36d0-83b0-2189eacad68c. Skipped.
+[05Jan2025 21:15:25.879] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jan2025 21:15:28.738] [ForkJoinPool.commonPool-worker-1/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[05Jan2025 21:15:28.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iDunk3d_ON[/127.96.238.132:38135] logged in with entity id 76 at (1398.5137557063936, -32.98837284646796, 2386.1696268072965)
+[05Jan2025 21:15:28.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON joined the game
+[05Jan2025 21:15:29.032] [Server thread/INFO] [Jade/]: Syncing config to iDunk3d_ON (fef86eea-bdc1-3edf-8f37-cabff18ea289)
+[05Jan2025 21:15:29.788] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of fef86eea-bdc1-3edf-8f37-cabff18ea289 was loaded
+[05Jan2025 21:15:32.838] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@129bf2a[id=<null>,name=ImSensei_,properties={},legacy=false] (/127.158.94.36:56701) lost connection: Disconnected
+[05Jan2025 21:15:44.320] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d3f80c[id=<null>,name=Nextraid,properties={},legacy=false] (/127.249.127.78:55633) lost connection: Disconnected
+[05Jan2025 21:15:47.910] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@161def93[id=<null>,name=ImSensei_,properties={},legacy=false] (/127.158.94.36:56343) lost connection: Disconnected
+[05Jan2025 21:15:48.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nextraid[/127.249.127.78:53485] logged in with entity id 575 at (223.146076692417, 71.05280051640001, 1735.5410586094622)
+[05Jan2025 21:15:49.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid joined the game
+[05Jan2025 21:15:49.016] [Server thread/INFO] [Jade/]: Syncing config to Nextraid (a9b403a4-c249-36d0-83b0-2189eacad68c)
+[05Jan2025 21:15:49.470] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was loaded
+[05Jan2025 21:15:52.193] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2afe1a01[id=<null>,name=ElKingus,properties={},legacy=false] (/127.107.176.211:39947) lost connection: Disconnected
+[05Jan2025 21:15:54.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImSensei_[/127.158.94.36:41733] logged in with entity id 878 at (1494.3132739401872, -46.0, 2397.699999988079)
+[05Jan2025 21:15:54.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ joined the game
+[05Jan2025 21:15:54.160] [Server thread/INFO] [Jade/]: Syncing config to ImSensei_ (02063f0c-ceb6-3856-be18-67d85054ed88)
+[05Jan2025 21:15:54.279] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 02063f0c-ceb6-3856-be18-67d85054ed88 was loaded
+[05Jan2025 21:15:55.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[05Jan2025 21:16:05.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Magnum_EXT[/127.231.75.52:56045] logged in with entity id 1098 at (220.6686289361006, 82.0, 1853.3994729319645)
+[05Jan2025 21:16:05.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT joined the game
+[05Jan2025 21:16:05.940] [Server thread/INFO] [Jade/]: Syncing config to Magnum_EXT (0e314d69-4cd6-318f-9c04-774e0da88dcf)
+[05Jan2025 21:16:06.513] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e314d69-4cd6-318f-9c04-774e0da88dcf was loaded
+[05Jan2025 21:16:14.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3735ms or 74 ticks behind
+[05Jan2025 21:16:25.678] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@72420283[id=<null>,name=ElKingus,properties={},legacy=false] (/127.107.176.211:48607) lost connection: Disconnected
+[05Jan2025 21:16:27.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Gave 20 experience levels to Nextraid]
+[05Jan2025 21:16:32.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2932ms or 58 ticks behind
+[05Jan2025 21:16:49.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2497ms or 49 ticks behind
+[05Jan2025 21:16:58.235] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElKingus[/127.107.176.211:49185] logged in with entity id 1946 at (209.5080922990108, 22.0, 1768.699999988079)
+[05Jan2025 21:16:58.253] [Server thread/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Pokémon save file for PlayerPartyStore (d7576eb2-d4e0-3173-8113-1cfb36272967) was corrupted. A fresh file will be created.
+[05Jan2025 21:16:58.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus joined the game
+[05Jan2025 21:16:58.406] [Server thread/INFO] [Jade/]: Syncing config to ElKingus (d7576eb2-d4e0-3173-8113-1cfb36272967)
+[05Jan2025 21:16:58.569] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was loaded
+[05Jan2025 21:17:00.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Spectator Mode]
+[05Jan2025 21:17:08.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3734ms or 74 ticks behind
+[05Jan2025 21:17:22.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Survival Mode]
+[05Jan2025 21:17:25.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
+[05Jan2025 21:17:51.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[05Jan2025 21:18:09.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> 9 9 9
+[05Jan2025 21:18:14.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Jan2025 21:19:14.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus was burnt to a crisp whilst fighting Nextraid
+[05Jan2025 21:19:14.355] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElKingus with unique ID travelersbackpack.wolf_05.01.2025-21.19.14.dat
+[05Jan2025 21:19:19.224] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[05Jan2025 21:19:19.225] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[05Jan2025 21:19:19.225] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[05Jan2025 21:19:19.225] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[05Jan2025 21:19:19.226] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 0
+[05Jan2025 21:19:19.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[05Jan2025 21:19:19.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved wrongly!
+[05Jan2025 21:19:45.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Gave 17 experience levels to ElKingus]
+[05Jan2025 21:19:59.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Jan2025 21:21:17.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05Jan2025 21:21:30.590] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:30.710] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:30.834] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:30.943] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:31.054] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:31.173] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:33.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:33.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:33.924] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:34.039] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:36.002] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:36.140] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:36.262] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:36.405] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:36.551] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:36.710] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:36.850] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:36.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4540ms or 90 ticks behind
+[05Jan2025 21:21:36.970] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:37.092] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:37.220] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:37.339] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:37.451] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:37.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:39.622] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:39.800] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:39.924] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:40.046] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:40.164] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:40.281] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:40.410] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:40.519] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:40.697] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:40.800] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:40.904] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:41.026] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:41.149] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:41.277] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:41.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:41.575] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:41.704] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:41.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:41.953] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:42.054] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:42.184] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:42.296] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:42.427] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:42.541] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:42.674] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:42.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:42.906] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:43.030] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:43.166] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:43.283] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:43.400] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:43.520] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:43.638] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:43.758] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:43.872] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:44.007] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:44.130] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:44.234] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:44.384] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:44.497] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:44.598] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:44.700] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:44.831] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:44.962] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:45.072] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:45.205] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:45.375] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:45.551] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:45.694] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:45.827] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:45.968] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:46.122] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:46.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:46.359] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:46.537] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:46.687] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:46.838] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:46.955] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:47.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:47.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:47.334] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:47.474] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:47.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:47.740] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:47.903] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:48.028] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:48.173] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:48.293] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:48.425] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:48.543] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:48.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:51.024] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:51.143] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:51.262] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:51.370] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:51.490] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:51.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:51.745] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:51.875] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:52.041] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:52.196] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:52.305] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:52.472] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:52.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:52.703] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:52.836] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:52.965] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:53.112] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:53.247] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:53.371] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:53.507] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:53.652] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:53.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:53.953] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:54.070] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:54.198] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:54.324] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:54.465] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:54.587] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:54.717] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:54.847] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:54.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:55.137] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:55.262] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:55.396] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:55.509] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:55.635] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:55.800] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:55.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Spectator Mode]
+[05Jan2025 21:21:55.968] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:56.099] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:56.262] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:56.446] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:56.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4642ms or 92 ticks behind
+[05Jan2025 21:21:56.588] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:56.716] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:56.859] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:57.001] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:57.131] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:57.270] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 21:21:58.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Enchanter]
+[05Jan2025 21:22:10.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Magnum_EXT> t
+[05Jan2025 21:22:14.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2919ms or 58 ticks behind
+[05Jan2025 21:22:21.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT lost connection: Disconnected
+[05Jan2025 21:22:21.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT left the game
+[05Jan2025 21:22:21.567] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e314d69-4cd6-318f-9c04-774e0da88dcf was unloaded
+[05Jan2025 21:22:21.637] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jan2025 21:22:25.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Survival Mode]
+[05Jan2025 21:22:32.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2727ms or 54 ticks behind
+[05Jan2025 21:22:43.587] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d0ebdff[id=<null>,name=Magnum_EXT,properties={},legacy=false] (/127.154.5.135:42857) lost connection: Disconnected
+[05Jan2025 21:22:48.707] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Magnum_EXT[/127.243.207.64:38143] logged in with entity id 6320 at (220.13740856647152, 81.0, 1822.165513445199)
+[05Jan2025 21:22:48.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT joined the game
+[05Jan2025 21:22:48.868] [Server thread/INFO] [Jade/]: Syncing config to Magnum_EXT (0e314d69-4cd6-318f-9c04-774e0da88dcf)
+[05Jan2025 21:22:49.074] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e314d69-4cd6-318f-9c04-774e0da88dcf was loaded
+[05Jan2025 21:22:50.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2982ms or 59 ticks behind

@@ -58,6 +58,7 @@
       "pasture": "2025-01-04 23:48:09 +0000",
       "volcanic_plains": "2025-01-03 20:44:00 +0000",
       "lavender_field": "2025-01-03 21:01:01 +0000",
+      "fir_clearing": "2025-01-05 20:57:04 +0000",
       "pumpkin_patch": "2025-01-05 00:04:13 +0000",
       "prairie": "2025-01-03 20:49:56 +0000",
       "grassland": "2025-01-03 23:04:59 +0000",
@@ -5114,12 +5115,6 @@
     },
     "done": true
   },
-  "betterdungeons:small_dungeon": {
-    "criteria": {
-      "in_better_monster_room": "2025-01-05 20:32:38 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
       "has_wood_cup": "2025-01-05 20:15:30 +0000"
@@ -5129,12 +5124,6 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-01-05 20:15:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-01-05 20:34:59 +0000"
     },
     "done": true
   },
@@ -5153,6 +5142,24 @@
   "animal_feeding_trough:recipes/decorations/feeding_trough": {
     "criteria": {
       "has_wood_slab": "2025-01-05 20:15:30 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-01-05 20:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-05 20:34:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-01-05 21:18:15 +0000"
     },
     "done": true
   },
