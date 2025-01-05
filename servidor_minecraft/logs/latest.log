@@ -1251,3 +1251,20 @@ java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.Cli
 [05Jan2025 19:36:05.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus moved wrongly!
 [05Jan2025 19:38:11.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set the weather to clear]
 [05Jan2025 19:42:07.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [A New Friend!]
+[05Jan2025 19:45:01.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus fell from a high place
+[05Jan2025 19:45:01.275] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElKingus with unique ID travelersbackpack.wolf_05.01.2025-19.45.01.dat
+[05Jan2025 19:46:12.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nextraid> ZZZ
+[05Jan2025 19:46:34.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid moved too quickly! 1.2363774490987396,-11.55895306230558,1.2147842909362225
+[05Jan2025 19:48:27.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Creative Mode]
+[05Jan2025 19:50:01.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus lost connection: Disconnected
+[05Jan2025 19:50:01.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus left the game
+[05Jan2025 19:50:01.286] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was unloaded
+[05Jan2025 19:50:06.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElKingus[/127.107.176.211:48687] logged in with entity id 31572 at (230.98327531648746, 21.083603022122254, 1778.3913189255206)
+[05Jan2025 19:50:06.974] [Server thread/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Pokémon save file for PlayerPartyStore (d7576eb2-d4e0-3173-8113-1cfb36272967) was corrupted. A fresh file will be created.
+[05Jan2025 19:50:06.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus joined the game
+[05Jan2025 19:50:07.071] [Server thread/INFO] [Jade/]: Syncing config to ElKingus (d7576eb2-d4e0-3173-8113-1cfb36272967)
+[05Jan2025 19:50:07.714] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was loaded
+[05Jan2025 19:50:10.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Survival Mode]
+[05Jan2025 19:52:48.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus lost connection: Disconnected
+[05Jan2025 19:52:48.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus left the game
+[05Jan2025 19:52:48.506] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was unloaded
