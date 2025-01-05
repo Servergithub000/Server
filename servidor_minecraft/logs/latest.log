@@ -1507,3 +1507,51 @@ java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.Cli
 [05Jan2025 21:41:34.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElKingus) moved wrongly! 0.5180155083245097
 [05Jan2025 21:41:34.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ElKingus) moved wrongly! 0.6913689018227842
 [05Jan2025 21:42:05.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid moved wrongly!
+[05Jan2025 21:43:54.208] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElKingus lost connection: Disconnected
+[05Jan2025 21:43:54.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus left the game
+[05Jan2025 21:43:54.209] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was unloaded
+[05Jan2025 21:45:43.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Magnum_EXT> t
+[05Jan2025 21:45:54.722] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElKingus[/127.107.176.211:37669] logged in with entity id 19187 at (208.31226530696242, 65.0, 1734.685713346348)
+[05Jan2025 21:45:54.742] [Server thread/ERROR] [com.cobblemon.mod.common.Cobblemon/]: Pokémon save file for PlayerPartyStore (d7576eb2-d4e0-3173-8113-1cfb36272967) was corrupted. A fresh file will be created.
+[05Jan2025 21:45:54.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus joined the game
+[05Jan2025 21:45:54.885] [Server thread/INFO] [Jade/]: Syncing config to ElKingus (d7576eb2-d4e0-3173-8113-1cfb36272967)
+[05Jan2025 21:45:55.730] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d7576eb2-d4e0-3173-8113-1cfb36272967 was loaded
+[05Jan2025 21:46:10.540] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[05Jan2025 21:46:10.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has made the advancement [We Need to Go Deeper]
+[05Jan2025 21:46:13.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid moved too quickly! 1.9708116457029519,-10.31063687235639,0.7319247179059403
+[05Jan2025 21:46:13.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2525ms or 50 ticks behind
+[05Jan2025 21:46:29.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT has made the advancement [Enchanter]
+[05Jan2025 21:46:46.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON fell from a high place
+[05Jan2025 21:46:46.577] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iDunk3d_ON with unique ID travelersbackpack.gold_05.01.2025-21.46.46.dat
+[05Jan2025 21:47:59.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has made the advancement [Those Were the Days]
+[05Jan2025 21:48:40.352] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[05Jan2025 21:48:46.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has made the advancement [War Pigs]
+[05Jan2025 21:48:55.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON has made the advancement [Those Were the Days]
+[05Jan2025 21:49:49.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has made the advancement [Hidden in the Depths]
+[05Jan2025 21:50:42.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON has made the advancement [War Pigs]
+[05Jan2025 21:50:44.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON has made the advancement [Hunt and Gather]
+[05Jan2025 21:53:17.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has made the advancement [A Terrible Fortress]
+[05Jan2025 21:53:39.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has made the advancement [Into Fire]
+[05Jan2025 21:54:08.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has made the advancement [Spooky Scary Skeleton]
+[05Jan2025 21:55:30.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[05Jan2025 21:55:38.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[05Jan2025 21:56:13.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON has made the advancement [Nightmare Fuel]
+[05Jan2025 21:56:32.294] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[05Jan2025 21:58:46.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON has made the advancement [A Terrible Fortress]
+[05Jan2025 21:59:09.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON has made the advancement [Into Fire]
+[05Jan2025 21:59:24.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid moved wrongly!
+[05Jan2025 22:00:02.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=212, y=83, z=1857} BlockPos{x=211, y=81, z=1858}
+[05Jan2025 22:00:02.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=212, y=83, z=1857} BlockPos{x=211, y=81, z=1858}
+[05Jan2025 22:00:02.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=212, y=83, z=1858} BlockPos{x=212, y=81, z=1859}
+[05Jan2025 22:00:02.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=212, y=83, z=1858} BlockPos{x=212, y=81, z=1859}
+[05Jan2025 22:00:02.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=212, y=83, z=1858} BlockPos{x=212, y=81, z=1859}
+[05Jan2025 22:00:02.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=213, y=83, z=1859} BlockPos{x=214, y=81, z=1860}
+[05Jan2025 22:00:03.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=215, y=82, z=1860} BlockPos{x=214, y=81, z=1861}
+[05Jan2025 22:00:45.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Jan2025 22:01:11.063] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[05Jan2025 22:01:54.944] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[05Jan2025 22:01:54.945] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[05Jan2025 22:02:46.485] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[05Jan2025 22:02:46.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [We Need to Go Deeper]
+[05Jan2025 22:03:11.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElKingus has made the advancement [Those Were the Days]
+[05Jan2025 22:03:44.683] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.

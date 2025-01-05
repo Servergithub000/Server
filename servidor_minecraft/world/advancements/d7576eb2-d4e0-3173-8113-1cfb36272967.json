@@ -1114,6 +1114,7 @@
     "criteria": {
       "obtain_rawst_berry": "2025-01-05 20:07:31 +0000",
       "obtain_aspear_berry": "2025-01-04 21:23:37 +0000",
+      "obtain_babiri_berry": "2025-01-05 21:41:03 +0000",
       "obtain_passho_berry": "2025-01-05 20:39:39 +0000",
       "obtain_razz_berry": "2025-01-04 21:23:05 +0000",
       "obtain_oran_berry": "2025-01-04 21:45:12 +0000"
@@ -1246,6 +1247,7 @@
       "cooked_beef": "2025-01-04 21:30:08 +0000",
       "beef": "2025-01-04 21:27:36 +0000",
       "porkchop": "2025-01-04 21:47:16 +0000",
+      "tropical_fish": "2025-01-05 21:40:38 +0000",
       "apple": "2025-01-04 21:48:22 +0000",
       "pumpkin_pie": "2025-01-04 22:00:45 +0000",
       "mutton": "2025-01-04 21:25:28 +0000",
@@ -5515,6 +5517,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-05 21:21:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-01-05 21:32:07 +0000"
@@ -5527,9 +5535,15 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
-      "enchanted_item": "2025-01-05 21:21:58 +0000"
+      "has_copper_ore": "2025-01-05 21:56:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-01-05 21:56:21 +0000"
     },
     "done": true
   },
