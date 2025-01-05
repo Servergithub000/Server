@@ -1317,3 +1317,18 @@ java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.Cli
 [05Jan2025 20:32:38.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON has made the advancement [Quite the Renovation]
 [05Jan2025 20:34:17.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved wrongly!
 [05Jan2025 20:34:59.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON has made the advancement [What a Deal!]
+[05Jan2025 20:38:34.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Magnum_EXT[/127.105.107.119:35017] logged in with entity id 62730 at (218.8743211324545, 81.0, 1818.343302529567)
+[05Jan2025 20:38:34.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT joined the game
+[05Jan2025 20:38:34.176] [Server thread/INFO] [Jade/]: Syncing config to Magnum_EXT (0e314d69-4cd6-318f-9c04-774e0da88dcf)
+[05Jan2025 20:38:35.164] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e314d69-4cd6-318f-9c04-774e0da88dcf was loaded
+[05Jan2025 20:40:29.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Spectator Mode]
+[05Jan2025 20:40:39.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set own game mode to Survival Mode]
+[05Jan2025 20:42:16.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1656, y=-53, z=2456} BlockPos{x=1656, y=-55, z=2455}
+[05Jan2025 20:42:19.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1657, y=-57, z=2460} BlockPos{x=1656, y=-54, z=2458}
+[05Jan2025 20:42:57.019] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1662, y=-52, z=2450} BlockPos{x=1664, y=-51, z=2449}
+[05Jan2025 20:43:11.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1670, y=-53, z=2458} BlockPos{x=1671, y=-54, z=2456}
+[05Jan2025 20:43:42.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved too quickly! 0.2680113567283513,7.5,7.022042885376777
+[05Jan2025 20:43:53.762] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1667, y=-46, z=2460} BlockPos{x=1667, y=-47, z=2461}
+[05Jan2025 20:45:21.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set the time to 13000]
+[05Jan2025 20:45:35.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set the time to 1000]
+[05Jan2025 20:45:37.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> ./soygay
