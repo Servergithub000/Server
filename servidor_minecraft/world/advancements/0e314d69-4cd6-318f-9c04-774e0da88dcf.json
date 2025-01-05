@@ -4259,5 +4259,145 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/dive_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-01-05 21:31:03 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/premier_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-01-05 21:31:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_magic_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 21:28:51 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/dream_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2025-01-05 21:27:59 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/level_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2025-01-05 21:27:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-05 21:28:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:harvest_apricorn": {
+    "criteria": {
+      "check_inv": "2025-01-05 21:27:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/white_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-01-05 21:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 21:28:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 21:27:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/heal_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-01-05 21:31:03 +0000",
+      "has_pink_apricorn": "2025-01-05 21:27:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/moon_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-01-05 21:31:03 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/love_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-01-05 21:31:03 +0000",
+      "has_pink_apricorn": "2025-01-05 21:27:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/apricorn_planks": {
+    "criteria": {
+      "has_apricorn_log": "2025-01-05 21:27:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:harvest_apricorn_seed": {
+    "criteria": {
+      "check_inv": "2025-01-05 21:28:05 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/safari_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-01-05 21:31:03 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/roseate_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2025-01-05 21:27:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/fast_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-01-05 21:31:03 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/magic_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-05 21:28:51 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/net_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-01-05 21:31:03 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/sport_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-01-05 21:31:03 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/timer_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-01-05 21:31:03 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-01-05 21:27:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
