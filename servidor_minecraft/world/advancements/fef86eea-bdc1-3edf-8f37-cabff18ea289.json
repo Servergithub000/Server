@@ -5630,6 +5630,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/polymer_plate": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-01-05 23:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-01-05 21:59:43 +0000"
@@ -5687,6 +5693,15 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-05 22:29:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "shirt": "2025-01-05 23:29:55 +0000",
+      "pants": "2025-01-05 23:29:58 +0000",
+      "helmet": "2025-01-05 23:29:59 +0000",
+      "boots": "2025-01-05 23:30:08 +0000"
     },
     "done": true
   },
@@ -5915,6 +5930,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-05 21:51:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/raygun": {
+    "criteria": {
+      "raygun": "2025-01-05 23:30:58 +0000"
     },
     "done": true
   },
