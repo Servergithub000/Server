@@ -6112,6 +6112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-01-06 02:27:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-01-06 01:37:15 +0000"
@@ -6121,6 +6127,12 @@
   "cobblemon:recipes/held/light_clay": {
     "criteria": {
       "has_clay": "2025-01-06 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cactus_smithing": {
+    "criteria": {
+      "has_cactus": "2025-01-06 02:29:04 +0000"
     },
     "done": true
   },
@@ -6139,6 +6151,12 @@
   "minecraft:husbandry/make_a_sign_glow": {
     "criteria": {
       "make_a_sign_glow": "2025-01-06 01:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-01-06 02:27:42 +0000"
     },
     "done": true
   },
