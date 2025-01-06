@@ -49,11 +49,19 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "scrubland": "2025-01-06 01:07:14 +0000",
       "bayou": "2025-01-06 01:00:05 +0000",
       "old_growth_woodland": "2025-01-06 00:55:24 +0000",
-      "mediterranean_forest": "2025-01-06 00:56:00 +0000"
+      "mediterranean_forest": "2025-01-06 00:56:00 +0000",
+      "spider_nest": "2025-01-06 01:15:18 +0000"
     },
     "done": false
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-01-06 01:15:56 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/redstone/willow_pressure_plate": {
     "criteria": {
@@ -127,6 +135,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-01-06 01:15:56 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/dark_oak_brigg": {
     "criteria": {
       "in_water": "2025-01-06 01:05:09 +0000"
@@ -154,6 +168,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-01-06 01:02:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-01-06 01:15:56 +0000"
     },
     "done": true
   },
@@ -235,6 +255,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-01-06 01:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-06 01:15:56 +0000"
+    },
+    "done": true
+  },
   "simplytools:recipes/tools/netherite_hammer": {
     "criteria": {
       "criterion1": "2025-01-06 01:01:37 +0000"
@@ -289,9 +321,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-01-06 01:15:56 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/mangrove_drakkar": {
     "criteria": {
       "in_water": "2025-01-06 01:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-06 01:15:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-01-06 01:15:56 +0000"
     },
     "done": true
   },
@@ -421,6 +471,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-01-06 01:15:56 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/spruce_drakkar": {
     "criteria": {
       "in_water": "2025-01-06 01:05:09 +0000"
@@ -436,6 +492,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-06 01:03:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-01-06 01:15:56 +0000"
     },
     "done": true
   },
@@ -496,6 +558,18 @@
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-01-06 00:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-01-06 01:15:56 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-01-06 01:15:56 +0000"
     },
     "done": true
   },
@@ -565,6 +639,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-01-06 01:15:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-06 00:56:35 +0000"
@@ -598,6 +678,12 @@
   "biomesoplenty:recipes/decorations/willow_fence": {
     "criteria": {
       "has_planks": "2025-01-06 01:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-01-06 01:15:56 +0000"
     },
     "done": true
   },
@@ -667,9 +753,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-01-06 01:15:56 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pufferfish_trophy": {
     "criteria": {
       "has_pufferfish_trophy": "2025-01-06 01:02:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-01-06 01:15:56 +0000"
     },
     "done": true
   },
@@ -757,6 +855,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-01-06 01:15:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-01-06 01:05:09 +0000"
@@ -772,6 +876,24 @@
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2025-01-06 01:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-06 01:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-01-06 01:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-06 01:15:56 +0000"
     },
     "done": true
   },
@@ -811,6 +933,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-01-06 01:15:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/willow_wood": {
     "criteria": {
       "has_log": "2025-01-06 01:01:37 +0000"
@@ -819,9 +947,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:savanna": "2025-01-06 00:56:55 +0000"
+      "minecraft:beach": "2025-01-06 01:07:31 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-06 01:07:45 +0000",
+      "minecraft:river": "2025-01-06 01:06:39 +0000",
+      "minecraft:savanna": "2025-01-06 00:56:55 +0000",
+      "minecraft:plains": "2025-01-06 01:09:36 +0000"
     },
     "done": false
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-01-06 01:15:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-01-06 01:15:56 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
@@ -832,6 +976,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-06 01:03:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-06 01:15:56 +0000"
     },
     "done": true
   },
@@ -868,6 +1018,12 @@
   "handcrafted:recipes/misc/wither_skeleton_trophy": {
     "criteria": {
       "has_wither_skeleton_trophy": "2025-01-06 01:02:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-01-06 01:15:56 +0000"
     },
     "done": true
   },

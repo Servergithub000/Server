@@ -77,3 +77,18 @@
 [06Jan2025 01:07:30.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [06Jan2025 01:07:48.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2826ms or 56 ticks behind
 [06Jan2025 01:07:56.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-20, y=92, z=137} BlockPos{x=-19, y=91, z=134}
+[06Jan2025 01:08:06.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[06Jan2025 01:08:15.702] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@78dd00a5[id=<null>,name=Magnum_EXT,properties={},legacy=false] (/127.76.5.149:57883) lost connection: Timed out
+[06Jan2025 01:08:28.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6768ms or 135 ticks behind
+[06Jan2025 01:09:15.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[06Jan2025 01:09:18.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [Those Were the Days]
+[06Jan2025 01:09:38.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[06Jan2025 01:09:50.546] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@f329e30[id=<null>,name=Magnum_EXT,properties={},legacy=false] (/127.105.107.119:42163) lost connection: Timed out
+[06Jan2025 01:11:09.971] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@15b8d254[id=<null>,name=Magnum_EXT,properties={},legacy=false] (/127.75.185.69:56449): Took too long to log in
+[06Jan2025 01:11:09.972] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15b8d254[id=<null>,name=Magnum_EXT,properties={},legacy=false] (/127.75.185.69:56449) lost connection: Took too long to log in
+[06Jan2025 01:11:10.016] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jan2025 01:12:57.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Magnum_EXT[/127.150.88.17:44151] logged in with entity id 224213 at (151.68251587900826, -11.0, 1874.3647562028857)
+[06Jan2025 01:12:57.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT joined the game
+[06Jan2025 01:12:57.917] [Server thread/INFO] [Jade/]: Syncing config to Magnum_EXT (0e314d69-4cd6-318f-9c04-774e0da88dcf)
+[06Jan2025 01:12:58.253] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e314d69-4cd6-318f-9c04-774e0da88dcf was loaded
+[06Jan2025 01:13:05.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Magnum_EXT> t
