@@ -342,3 +342,8 @@
 [06Jan2025 03:24:28.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=152, y=51, z=-910} BlockPos{x=152, y=50, z=-910}
 [06Jan2025 03:24:44.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=231, y=106, z=1689} BlockPos{x=233, y=105, z=1690}
 [06Jan2025 03:27:31.957] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:35:43.117] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[06Jan2025 03:35:43.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz has made the advancement [We Need to Go Deeper]
+[06Jan2025 03:35:59.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz has made the advancement [Those Were the Days]
+[06Jan2025 03:39:06.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT has completed the challenge [Hot Tourist Destinations]
+[06Jan2025 03:39:59.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz fell from a high place
