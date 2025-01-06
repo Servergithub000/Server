@@ -1917,6 +1917,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-06 02:19:47 +0000"
+    },
+    "done": false
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-06 02:02:15 +0000"
@@ -2046,6 +2052,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-01-06 01:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-06 02:19:47 +0000"
     },
     "done": true
   },
@@ -2358,6 +2370,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-06 02:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-06 02:19:47 +0000"
     },
     "done": true
   },

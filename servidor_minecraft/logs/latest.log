@@ -226,3 +226,8 @@
 [06Jan2025 02:13:43.757] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=14, z=53} BlockPos{x=-172, y=14, z=53}
 [06Jan2025 02:16:25.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [Nightmare Fuel]
 [06Jan2025 02:18:07.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT moved too quickly! -10.253467574982864,1.1661092609382155,-0.7165595284115795
+[06Jan2025 02:19:47.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz has made the advancement [Monster Hunter]
+[06Jan2025 02:22:31.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT has made the advancement [A Terrible Fortress]
+[06Jan2025 02:22:33.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [A Terrible Fortress]
+[06Jan2025 02:25:48.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> tótem
+[06Jan2025 02:29:31.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [War Pigs]
