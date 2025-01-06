@@ -167,3 +167,62 @@
 [06Jan2025 01:48:54.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz joined the game
 [06Jan2025 01:48:54.838] [Server thread/INFO] [Jade/]: Syncing config to Axelyuz (7c02bf3a-49aa-3351-ab97-e9b822dbe0db)
 [06Jan2025 01:48:55.021] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7c02bf3a-49aa-3351-ab97-e9b822dbe0db was loaded
+[06Jan2025 01:49:25.856] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36bd44da[id=<null>,name=Nextraid,properties={},legacy=false] (/127.249.127.78:52639) lost connection: Disconnected
+[06Jan2025 01:49:30.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz has made the advancement [Stone Age]
+[06Jan2025 01:49:59.567] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4dba3fe9[id=<null>,name=Nextraid,properties={},legacy=false] (/127.249.127.78:47811) lost connection: Disconnected
+[06Jan2025 01:50:00.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz has made the advancement [Getting an Upgrade]
+[06Jan2025 01:50:05.864] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@678a7b00[id=<null>,name=Nextraid,properties={},legacy=false] (/127.249.127.78:53459) lost connection: Disconnected
+[06Jan2025 01:51:32.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Teleported iDunk3d_ON to ImSensei_]
+[06Jan2025 01:51:56.527] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nextraid[/127.196.158.133:58095] logged in with entity id 258733 at (341.6216490187514, 94.26792273116138, 1548.6954400987452)
+[06Jan2025 01:51:56.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid joined the game
+[06Jan2025 01:51:56.606] [Server thread/INFO] [Jade/]: Syncing config to Nextraid (a9b403a4-c249-36d0-83b0-2189eacad68c)
+[06Jan2025 01:51:56.844] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was loaded
+[06Jan2025 01:52:56.029] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Jan2025 01:52:56.030] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[06Jan2025 01:52:56.031] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 infinity_ham
+[06Jan2025 01:52:56.031] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[06Jan2025 01:52:56.031] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 2
+[06Jan2025 01:54:11.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid lost connection: Timed out
+[06Jan2025 01:54:11.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid left the game
+[06Jan2025 01:54:11.837] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was unloaded
+[06Jan2025 01:54:44.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz has made the advancement [When in Rome]
+[06Jan2025 01:56:01.061] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45cbdbae[id=<null>,name=Nextraid,properties={},legacy=false] (/127.196.158.133:44735) lost connection: Disconnected
+[06Jan2025 01:57:02.576] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nextraid[/127.196.158.133:36079] logged in with entity id 262167 at (-98.94151651899637, 97.43562143994764, 1561.8771310475954)
+[06Jan2025 01:57:02.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid joined the game
+[06Jan2025 01:57:02.606] [Server thread/INFO] [Jade/]: Syncing config to Nextraid (a9b403a4-c249-36d0-83b0-2189eacad68c)
+[06Jan2025 01:57:02.841] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was loaded
+[06Jan2025 01:57:18.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nextraid> .
+[06Jan2025 01:59:47.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid lost connection: Timed out
+[06Jan2025 01:59:47.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid left the game
+[06Jan2025 01:59:47.920] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was unloaded
+[06Jan2025 02:01:47.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ lost connection: Disconnected
+[06Jan2025 02:01:47.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ left the game
+[06Jan2025 02:01:47.710] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 02063f0c-ceb6-3856-be18-67d85054ed88 was unloaded
+[06Jan2025 02:02:25.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nextraid[/127.196.158.133:60185] logged in with entity id 266071 at (82.78907068640052, 120.34367272415844, 1644.407197797458)
+[06Jan2025 02:02:25.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid joined the game
+[06Jan2025 02:02:25.251] [Server thread/INFO] [Jade/]: Syncing config to Nextraid (a9b403a4-c249-36d0-83b0-2189eacad68c)
+[06Jan2025 02:02:26.505] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was loaded
+[06Jan2025 02:03:02.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz has made the advancement [Isn't It Iron Pick]
+[06Jan2025 02:03:17.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz has made the advancement [Diamonds!]
+[06Jan2025 02:03:49.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ImSensei_[/127.158.94.36:47189] logged in with entity id 267585 at (224.23189496974865, 75.0, 1687.5138869709451)
+[06Jan2025 02:03:49.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ joined the game
+[06Jan2025 02:03:49.925] [Server thread/INFO] [Jade/]: Syncing config to ImSensei_ (02063f0c-ceb6-3856-be18-67d85054ed88)
+[06Jan2025 02:03:51.193] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 02063f0c-ceb6-3856-be18-67d85054ed88 was loaded
+[06Jan2025 02:08:58.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT has made the advancement [Nightmare Fuel]
+[06Jan2025 02:09:41.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid lost connection: Timed out
+[06Jan2025 02:09:41.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid left the game
+[06Jan2025 02:09:41.029] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was unloaded
+[06Jan2025 02:09:58.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nextraid[/127.196.158.133:55051] logged in with entity id 272892 at (29.78543468356536, 62.0, 225.5)
+[06Jan2025 02:09:58.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid joined the game
+[06Jan2025 02:09:58.334] [Server thread/INFO] [Jade/]: Syncing config to Nextraid (a9b403a4-c249-36d0-83b0-2189eacad68c)
+[06Jan2025 02:09:58.542] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was loaded
+[06Jan2025 02:10:28.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid lost connection: Timed out
+[06Jan2025 02:10:28.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid left the game
+[06Jan2025 02:10:28.423] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was unloaded
+[06Jan2025 02:10:36.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nextraid[/127.196.158.133:55235] logged in with entity id 273504 at (29.78543468356536, 62.0, 225.5)
+[06Jan2025 02:10:36.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid joined the game
+[06Jan2025 02:10:36.283] [Server thread/INFO] [Jade/]: Syncing config to Nextraid (a9b403a4-c249-36d0-83b0-2189eacad68c)
+[06Jan2025 02:10:36.467] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was loaded
+[06Jan2025 02:13:43.757] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=14, z=53} BlockPos{x=-172, y=14, z=53}
+[06Jan2025 02:16:25.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [Nightmare Fuel]
+[06Jan2025 02:18:07.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT moved too quickly! -10.253467574982864,1.1661092609382155,-0.7165595284115795
