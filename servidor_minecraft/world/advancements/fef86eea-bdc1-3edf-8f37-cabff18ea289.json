@@ -6124,9 +6124,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-06 03:50:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_table": {
     "criteria": {
       "has_acacia_table": "2025-01-06 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-06 03:50:57 +0000"
     },
     "done": true
   },
@@ -6163,6 +6175,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-01-06 01:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-06 03:50:57 +0000"
     },
     "done": true
   },
@@ -6328,9 +6346,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-06 03:50:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_counter": {
     "criteria": {
       "has_acacia_counter": "2025-01-06 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-06 03:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-06 03:50:57 +0000"
     },
     "done": true
   },
@@ -6349,6 +6385,12 @@
   "mcwtrpdoors:recipes/acacia/acacia_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-01-06 03:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-06 03:50:57 +0000"
     },
     "done": true
   },

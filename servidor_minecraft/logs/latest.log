@@ -347,3 +347,13 @@
 [06Jan2025 03:35:59.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz has made the advancement [Those Were the Days]
 [06Jan2025 03:39:06.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT has completed the challenge [Hot Tourist Destinations]
 [06Jan2025 03:39:59.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz fell from a high place
+[06Jan2025 03:45:33.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Axelyuz lost connection: Disconnected
+[06Jan2025 03:45:33.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz left the game
+[06Jan2025 03:45:33.803] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7c02bf3a-49aa-3351-ab97-e9b822dbe0db was unloaded
+[06Jan2025 03:45:35.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved wrongly!
+[06Jan2025 03:48:26.866] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Axelyuz[/127.181.179.99:56477] logged in with entity id 360587 at (220.96732682463144, 83.0, 1759.6055338632234)
+[06Jan2025 03:48:26.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz joined the game
+[06Jan2025 03:48:26.972] [Server thread/INFO] [Jade/]: Syncing config to Axelyuz (7c02bf3a-49aa-3351-ab97-e9b822dbe0db)
+[06Jan2025 03:48:28.406] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7c02bf3a-49aa-3351-ab97-e9b822dbe0db was loaded
+[06Jan2025 03:49:11.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved wrongly!
+[06Jan2025 03:49:12.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT moved wrongly!
