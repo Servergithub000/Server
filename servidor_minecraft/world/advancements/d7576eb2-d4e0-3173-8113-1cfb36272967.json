@@ -6065,6 +6065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-01-05 23:49:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-01-05 23:15:26 +0000"

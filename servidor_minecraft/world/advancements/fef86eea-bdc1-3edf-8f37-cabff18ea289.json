@@ -1395,6 +1395,7 @@
       "minecraft:husk": "2025-01-04 23:14:48 +0000",
       "minecraft:cave_spider": "2025-01-03 23:21:31 +0000",
       "minecraft:piglin": "2025-01-03 23:29:36 +0000",
+      "minecraft:enderman": "2025-01-05 23:57:08 +0000",
       "minecraft:zombie": "2025-01-03 20:57:41 +0000",
       "minecraft:drowned": "2025-01-04 22:31:46 +0000",
       "minecraft:zombie_villager": "2025-01-03 20:52:52 +0000"
@@ -5193,6 +5194,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 23:49:03 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/crimson/crimson_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-01-05 22:28:00 +0000"
@@ -5226,6 +5233,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-01-05 21:59:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 23:49:03 +0000"
     },
     "done": true
   },
@@ -5280,6 +5293,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-05 21:51:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 23:49:03 +0000"
     },
     "done": true
   },
@@ -5349,15 +5368,45 @@
     },
     "done": false
   },
+  "cobblemon:recipes/held/toxic_orb": {
+    "criteria": {
+      "has_orb": "2025-01-05 23:57:09 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 23:49:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-01-05 22:18:40 +0000"
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 23:49:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-01-05 21:52:00 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 23:49:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 23:49:03 +0000"
     },
     "done": true
   },
@@ -5388,6 +5437,12 @@
   "handcrafted:recipes/misc/crimson_cupboard": {
     "criteria": {
       "has_crimson_cupboard": "2025-01-05 22:29:17 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 23:49:03 +0000"
     },
     "done": true
   },
@@ -5493,6 +5548,18 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-01-05 23:49:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 23:49:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
       "has_red_nether_bricks": "2025-01-05 22:18:40 +0000"
@@ -5502,6 +5569,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-01-05 22:15:25 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-01-05 23:49:03 +0000"
     },
     "done": true
   },
@@ -5529,6 +5602,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/life_orb": {
+    "criteria": {
+      "has_orb": "2025-01-05 23:57:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-01-05 21:52:59 +0000"
@@ -5538,6 +5617,12 @@
   "farmersdelight:recipes/food/smoked_ham": {
     "criteria": {
       "has_ham": "2025-01-05 21:50:51 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/flame_orb": {
+    "criteria": {
+      "has_orb": "2025-01-05 23:57:09 +0000"
     },
     "done": true
   },
@@ -5586,6 +5671,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-05 21:51:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 23:49:03 +0000"
     },
     "done": true
   },
@@ -5679,6 +5770,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 23:49:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_oxidized_cut_copper": "2025-01-05 23:14:13 +0000"
@@ -5742,6 +5839,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 23:49:03 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/crimson/crimson_swamp_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-05 22:28:00 +0000"
@@ -5778,6 +5881,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-05 23:57:09 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/acid_create_rust": {
     "criteria": {
       "rust": "2025-01-05 23:16:38 +0000"
@@ -5811,6 +5920,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-05 21:51:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 23:49:03 +0000"
     },
     "done": true
   },
@@ -5868,9 +5983,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-05 23:49:03 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/nether": {
     "criteria": {
       "has_nether_wart": "2025-01-05 21:59:43 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 23:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-05 23:49:03 +0000"
     },
     "done": true
   },
@@ -5898,9 +6031,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/bamboo_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-01-05 23:49:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_from_honeycomb": {
     "criteria": {
       "has_weathered_cut_copper": "2025-01-05 23:14:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-05 23:49:03 +0000"
     },
     "done": true
   },

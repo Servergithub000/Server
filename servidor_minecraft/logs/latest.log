@@ -1725,3 +1725,22 @@ java.lang.NullPointerException: Cannot invoke "com.yyon.grapplinghook.client.Cli
 [05Jan2025 23:45:45.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [05Jan2025 23:46:02.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
 [05Jan2025 23:46:19.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2345ms or 46 ticks behind
+[05Jan2025 23:46:33.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT lost connection: Disconnected
+[05Jan2025 23:46:33.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT left the game
+[05Jan2025 23:46:33.723] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e314d69-4cd6-318f-9c04-774e0da88dcf was unloaded
+[05Jan2025 23:46:38.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Jan2025 23:47:34.207] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/140442, l='ServerLevel[world]', x=-1303.50, y=47.00, z=3376.50]
+[05Jan2025 23:51:12.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[05Jan2025 23:51:15.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Teleported ElKingus to ImSensei_]
+[05Jan2025 23:51:33.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ImSensei_ has made the advancement [What a Deal!]
+[05Jan2025 23:51:42.273] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Jan2025 23:54:43.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> .
+[05Jan2025 23:54:43.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> .
+[05Jan2025 23:54:44.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> .
+[05Jan2025 23:54:44.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElKingus> .
+[05Jan2025 23:54:46.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iDunk3d_ON> .t
+[05Jan2025 23:54:47.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iDunk3d_ON> .t
+[05Jan2025 23:54:47.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iDunk3d_ON> .t
+[05Jan2025 23:54:47.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iDunk3d_ON> .
+[05Jan2025 23:54:48.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iDunk3d_ON> .t
+[05Jan2025 23:56:51.369] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor

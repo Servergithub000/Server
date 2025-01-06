@@ -6286,6 +6286,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-05 23:51:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-01-05 21:54:54 +0000"
@@ -6301,6 +6307,12 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-01-05 21:49:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-01-05 23:51:18 +0000"
     },
     "done": true
   },
@@ -6331,6 +6343,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-01-05 21:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-05 23:51:33 +0000"
     },
     "done": true
   },
