@@ -1709,8 +1709,10 @@
       "minecraft:spider": "2025-01-03 20:15:44 +0000",
       "minecraft:creeper": "2025-01-03 20:15:40 +0000",
       "minecraft:slime": "2025-01-05 01:18:31 +0000",
+      "minecraft:phantom": "2025-01-06 01:39:46 +0000",
       "minecraft:zombified_piglin": "2025-01-06 00:46:53 +0000",
       "minecraft:witch": "2025-01-05 04:45:23 +0000",
+      "minecraft:piglin": "2025-01-06 01:29:19 +0000",
       "minecraft:enderman": "2025-01-05 04:42:16 +0000",
       "minecraft:zombie": "2025-01-03 20:16:32 +0000",
       "minecraft:drowned": "2025-01-03 23:18:34 +0000",
@@ -5833,21 +5835,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-06 00:53:58 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/ghast": {
     "criteria": {
       "has_ghast_tear": "2025-01-06 00:45:50 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-06 00:53:58 +0000"
     },
     "done": true
   },
@@ -5917,12 +5907,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-01-06 00:47:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-01-06 00:45:50 +0000"
@@ -5947,12 +5931,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2025-01-06 00:47:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-01-06 00:45:50 +0000"
@@ -5965,18 +5943,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/agriculture/apricorn_bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-01-06 00:53:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-01-06 00:47:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-01-06 00:45:50 +0000"
@@ -5986,12 +5952,6 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-06 00:45:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-01-06 00:53:58 +0000"
     },
     "done": true
   },
@@ -6067,12 +6027,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-01-06 00:47:26 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/blaze": {
     "criteria": {
       "has_blaze_rod": "2025-01-06 00:45:50 +0000"
@@ -6097,18 +6051,6 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-01-06 01:09:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2025-01-06 00:53:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-01-06 00:45:50 +0000"
@@ -6124,6 +6066,114 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-06 00:45:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-01-06 00:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-06 00:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-06 00:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-06 00:47:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-06 00:53:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-06 00:53:58 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/apricorn_bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-06 00:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-06 00:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-06 00:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-06 01:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-06 01:41:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-06 01:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-01-06 01:32:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-01-06 01:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-06 01:32:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_the_recipe": "2025-01-06 01:44:29 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/iron_ball": {
+    "criteria": {
+      "has_iron": "2025-01-06 01:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-06 01:42:07 +0000"
     },
     "done": true
   },

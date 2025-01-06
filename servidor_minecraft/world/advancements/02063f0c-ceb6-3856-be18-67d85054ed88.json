@@ -6004,6 +6004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-06 01:31:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-05 21:26:45 +0000"
@@ -6025,6 +6031,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-01-05 21:26:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-01-06 01:31:21 +0000"
     },
     "done": true
   },
@@ -6082,6 +6094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-01-06 01:31:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-01-05 21:47:41 +0000"
@@ -6091,6 +6109,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-01-05 22:33:05 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_item0": "2025-01-06 01:28:22 +0000"
     },
     "done": true
   },
@@ -6352,6 +6376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-06 01:31:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-01-05 23:51:33 +0000"
@@ -6406,6 +6436,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-05 21:26:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-01-06 01:31:21 +0000"
     },
     "done": true
   },
@@ -6472,6 +6508,12 @@
   "alexscaves:alexscaves/acid_create_rust": {
     "criteria": {
       "rust": "2025-01-05 23:19:24 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_item0": "2025-01-06 01:28:22 +0000"
     },
     "done": true
   },
@@ -6562,6 +6604,12 @@
   "travelersbackpack:recipes/misc/nether": {
     "criteria": {
       "has_nether_wart": "2025-01-05 21:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-06 01:31:21 +0000"
     },
     "done": true
   },
