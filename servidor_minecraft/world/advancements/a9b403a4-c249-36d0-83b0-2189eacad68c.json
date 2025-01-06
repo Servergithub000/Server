@@ -6218,6 +6218,12 @@
     },
     "done": true
   },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-01-06 03:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-06 02:31:14 +0000"
@@ -6239,6 +6245,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-06 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-01-06 03:18:30 +0000"
     },
     "done": true
   },
@@ -6269,6 +6281,12 @@
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2025-01-06 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-01-06 03:13:01 +0000"
     },
     "done": true
   },

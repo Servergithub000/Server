@@ -1367,6 +1367,7 @@
     "criteria": {
       "minecraft:blaze": "2025-01-06 02:36:00 +0000",
       "minecraft:skeleton": "2025-01-03 20:22:05 +0000",
+      "minecraft:ghast": "2025-01-06 03:10:29 +0000",
       "minecraft:hoglin": "2025-01-06 02:17:40 +0000",
       "minecraft:magma_cube": "2025-01-06 03:05:45 +0000",
       "minecraft:spider": "2025-01-03 20:38:43 +0000",
@@ -4558,6 +4559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-06 03:18:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-01-06 02:22:27 +0000"
@@ -4597,6 +4604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-06 03:18:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-01-06 02:42:30 +0000"
@@ -4618,6 +4631,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-06 02:10:28 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-01-06 03:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-06 03:22:09 +0000"
     },
     "done": true
   },
@@ -4654,6 +4679,12 @@
   "handcrafted:recipes/misc/blackstone_pillar_trim": {
     "criteria": {
       "has_blackstone_pillar_trim": "2025-01-06 02:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-06 03:18:51 +0000"
     },
     "done": true
   },
@@ -4735,9 +4766,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-06 03:18:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-06 02:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-06 03:18:51 +0000"
     },
     "done": true
   },
@@ -4799,6 +4842,12 @@
   "cobblemon:recipes/held/flame_orb": {
     "criteria": {
       "has_orb": "2025-01-06 02:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-06 03:18:51 +0000"
     },
     "done": true
   },
@@ -4961,6 +5010,18 @@
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-01-06 02:28:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-06 03:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-06 03:22:09 +0000"
     },
     "done": true
   },
