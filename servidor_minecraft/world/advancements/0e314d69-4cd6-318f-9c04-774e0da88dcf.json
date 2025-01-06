@@ -4436,12 +4436,6 @@
     },
     "done": true
   },
-  "betterdungeons:zombie_dungeon": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2025-01-06 00:53:41 +0000"
-    },
-    "done": true
-  },
   "cobblemon:recipes/consumables/remedy": {
     "criteria": {
       "has_root": "2025-01-06 00:53:22 +0000"
@@ -4460,9 +4454,27 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-06 00:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-01-06 00:55:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2025-01-06 00:59:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2025-01-06 00:59:40 +0000"
     },
     "done": true
   },
