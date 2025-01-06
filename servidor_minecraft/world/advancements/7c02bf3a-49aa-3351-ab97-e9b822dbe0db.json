@@ -54,6 +54,7 @@
       "old_growth_woodland": "2025-01-06 00:55:24 +0000",
       "mediterranean_forest": "2025-01-06 00:56:00 +0000",
       "spider_nest": "2025-01-06 01:15:18 +0000",
+      "wasteland": "2025-01-06 04:07:21 +0000",
       "volcanic_plains": "2025-01-06 02:41:13 +0000",
       "lavender_field": "2025-01-06 02:49:54 +0000"
     },
@@ -73,12 +74,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2025-01-06 04:07:16 +0000",
       "minecraft:beach": "2025-01-06 01:07:31 +0000",
       "minecraft:mangrove_swamp": "2025-01-06 01:59:01 +0000",
+      "minecraft:sparse_jungle": "2025-01-06 04:07:05 +0000",
       "minecraft:lukewarm_ocean": "2025-01-06 01:07:45 +0000",
       "minecraft:river": "2025-01-06 01:06:39 +0000",
       "minecraft:dripstone_caves": "2025-01-06 01:54:57 +0000",
       "minecraft:swamp": "2025-01-06 02:40:29 +0000",
+      "minecraft:desert": "2025-01-06 04:08:17 +0000",
+      "minecraft:warm_ocean": "2025-01-06 04:07:23 +0000",
       "minecraft:flower_forest": "2025-01-06 02:44:28 +0000",
       "minecraft:savanna": "2025-01-06 00:56:55 +0000",
       "minecraft:plains": "2025-01-06 01:09:36 +0000"
@@ -2445,6 +2450,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:husk": "2025-01-06 04:11:35 +0000",
       "minecraft:zombie": "2025-01-06 02:19:47 +0000"
     },
     "done": false
@@ -2644,6 +2650,102 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-01-06 03:35:59 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-01-06 04:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2025-01-06 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2025-01-06 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/kings_rock": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:14:50 +0000"
     },
     "done": true
   },
