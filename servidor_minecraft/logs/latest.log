@@ -314,3 +314,10 @@
 [06Jan2025 02:59:01.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Magnum_EXT> pa ve
 [06Jan2025 02:59:41.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT has made the advancement [The Soul Forge]
 [06Jan2025 03:00:25.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Magnum_EXT> mame gallo
+[06Jan2025 03:02:39.391] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/323426, l='ServerLevel[world]', x=324.51, y=72.94, z=1120.99] died, message: 'Farmer was slain by Zombie'
+[06Jan2025 03:08:00.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[06Jan2025 03:08:24.015] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[06Jan2025 03:08:37.763] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Axelyuz[/127.181.179.99:42821] logged in with entity id 333990 at (248.86584389439986, 63.0, 1723.541013598724)
+[06Jan2025 03:08:37.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz joined the game
+[06Jan2025 03:08:37.912] [Server thread/INFO] [Jade/]: Syncing config to Axelyuz (7c02bf3a-49aa-3351-ab97-e9b822dbe0db)
+[06Jan2025 03:08:38.171] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7c02bf3a-49aa-3351-ab97-e9b822dbe0db was loaded
