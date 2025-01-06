@@ -10,3 +10,36 @@
 [06Jan2025 00:27:43.248] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e314d69-4cd6-318f-9c04-774e0da88dcf was loaded
 [06Jan2025 00:32:05.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> @SIMP
 [06Jan2025 00:35:15.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT moved too quickly! -2.3273413451201463,0.0,-9.87958043429785
+[06Jan2025 00:37:28.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-955, y=69, z=-204} BlockPos{x=-955, y=68, z=-204}
+[06Jan2025 00:37:28.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-955, y=69, z=-204} BlockPos{x=-955, y=68, z=-204}
+[06Jan2025 00:39:31.582] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 00:44:01.987] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid lost connection: Disconnected
+[06Jan2025 00:44:01.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid left the game
+[06Jan2025 00:44:01.988] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was unloaded
+[06Jan2025 00:45:50.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nextraid[/127.249.127.78:51229] logged in with entity id 193064 at (-1373.0467042472158, 96.0, -403.97652499688826)
+[06Jan2025 00:45:50.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid joined the game
+[06Jan2025 00:45:50.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [Into Fire]
+[06Jan2025 00:45:50.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [Hidden in the Depths]
+[06Jan2025 00:45:50.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [Spooky Scary Skeleton]
+[06Jan2025 00:45:50.472] [Server thread/INFO] [Jade/]: Syncing config to Nextraid (a9b403a4-c249-36d0-83b0-2189eacad68c)
+[06Jan2025 00:45:51.517] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was loaded
+[06Jan2025 00:46:41.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Magnum_EXT> t
+[06Jan2025 00:47:16.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid has made the advancement [Straddle My Ol' Saddle]
+[06Jan2025 00:49:18.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Set the weather to clear]
+[06Jan2025 00:51:13.637] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 00:53:22.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT has made the advancement [The Root of Basic Healing]
+[06Jan2025 00:53:41.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Magnum_EXT has made the advancement [When in Rome]
+[06Jan2025 00:55:23.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Axelyuz[/127.181.179.99:33485] logged in with entity id 201326 at (-8.5, 80.0, -3.5)
+[06Jan2025 00:55:23.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz joined the game
+[06Jan2025 00:55:23.506] [Server thread/INFO] [Jade/]: Syncing config to Axelyuz (7c02bf3a-49aa-3351-ab97-e9b822dbe0db)
+[06Jan2025 00:55:24.470] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7c02bf3a-49aa-3351-ab97-e9b822dbe0db was loaded
+[06Jan2025 00:55:31.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Axelyuz lost connection: Disconnected
+[06Jan2025 00:55:31.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz left the game
+[06Jan2025 00:55:31.888] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7c02bf3a-49aa-3351-ab97-e9b822dbe0db was unloaded
+[06Jan2025 00:55:37.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Axelyuz[/127.181.179.99:52291] logged in with entity id 201634 at (-8.5, 80.0, -3.5)
+[06Jan2025 00:55:37.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz joined the game
+[06Jan2025 00:55:37.597] [Server thread/INFO] [Jade/]: Syncing config to Axelyuz (7c02bf3a-49aa-3351-ab97-e9b822dbe0db)
+[06Jan2025 00:55:37.810] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7c02bf3a-49aa-3351-ab97-e9b822dbe0db was loaded
+[06Jan2025 00:55:59.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Teleported Axelyuz to ImSensei_]
+[06Jan2025 00:56:20.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> ./skin
+[06Jan2025 00:56:35.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz has made the advancement [Alex's Mobs]
