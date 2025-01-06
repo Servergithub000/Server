@@ -978,11 +978,13 @@
       "minecraft:cherry_grove": "2025-01-05 03:39:12 +0000",
       "minecraft:birch_forest": "2025-01-05 00:20:11 +0000",
       "minecraft:windswept_hills": "2025-01-05 00:50:11 +0000",
+      "minecraft:wooded_badlands": "2025-01-06 04:33:20 +0000",
       "minecraft:beach": "2025-01-03 21:21:21 +0000",
       "minecraft:dark_forest": "2025-01-03 21:45:23 +0000",
       "minecraft:mangrove_swamp": "2025-01-05 01:24:01 +0000",
       "minecraft:sparse_jungle": "2025-01-05 04:16:31 +0000",
       "minecraft:river": "2025-01-03 20:06:30 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-06 04:34:21 +0000",
       "minecraft:stony_shore": "2025-01-03 22:36:09 +0000",
       "minecraft:dripstone_caves": "2025-01-05 00:50:12 +0000",
       "minecraft:swamp": "2025-01-05 00:20:07 +0000",
@@ -5125,9 +5127,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-06 04:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-01-06 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:29:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2025-01-06 04:29:35 +0000"
     },
     "done": true
   },
@@ -5137,9 +5163,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:29:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-01-06 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:29:35 +0000"
     },
     "done": true
   },
@@ -5149,15 +5193,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:29:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper": {
     "criteria": {
       "has_oxidized_copper": "2025-01-06 04:12:46 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2025-01-06 04:29:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:29:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
     "criteria": {
       "has_oxidized_copper": "2025-01-06 04:12:46 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/kings_rock": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:29:35 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/leek_and_potato_stew": {
+    "criteria": {
+      "has_potato": "2025-01-06 04:41:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-06 04:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-01-06 04:29:35 +0000"
     },
     "done": true
   },

@@ -1519,3 +1519,48 @@ java.lang.IllegalArgumentException: Unable to find ability of name: dummy
 [06Jan2025 04:28:41.811] [Server thread/INFO] [betterdeserttemples/]: CLEARED TEMPLE AT BlockPos{x=-960, y=0, z=-464}
 [06Jan2025 04:28:44.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
 [06Jan2025 04:29:08.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iDunk3d_ON moved wrongly!
+[06Jan2025 04:30:30.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[06Jan2025 04:30:37.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Teleported 5 entities to ImSensei_]
+[06Jan2025 04:30:37.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Axelyuz moved too quickly! -27.174690772706754,24.9942905698364,53.592702331302746
+[06Jan2025 04:31:36.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iDunk3d_ON was slain by Nextraid
+[06Jan2025 04:31:36.238] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for iDunk3d_ON with unique ID travelersbackpack.lapis_06.01.2025-04.31.36.dat
+[06Jan2025 04:31:36.504] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Jan2025 04:31:36.505] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[06Jan2025 04:31:36.505] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[06Jan2025 04:31:36.505] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[06Jan2025 04:31:36.506] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[06Jan2025 04:31:43.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Teleported iDunk3d_ON to Nextraid]
+[06Jan2025 04:34:14.193] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/31418, l='ServerLevel[world]', x=-328.50, y=61.00, z=989.50]
+[06Jan2025 04:34:19.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 6.578055189706475,-1.002668128080586E-5,7.946702576406324
+[06Jan2025 04:34:19.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 7.240978959316806,-1.1029349408886446E-5,8.737232991191604
+[06Jan2025 04:34:19.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 7.904841664369229,-1.2032017536967032E-5,9.527000121147921
+[06Jan2025 04:34:19.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 8.56964284369377,-1.3034685665047618E-5,10.316003459822014
+[06Jan2025 04:34:19.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 9.23538458811285,-1.4037353793128204E-5,11.104240320391455
+[06Jan2025 04:34:19.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ImSensei_) moved too quickly! 9.902073346033035,-1.504002192120879E-5,11.89170427353065
+[06Jan2025 04:34:29.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid moved wrongly!
+[06Jan2025 04:34:59.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Axelyuz moved wrongly!
+[06Jan2025 04:35:11.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Magnum_EXT moved wrongly!
+[06Jan2025 04:35:22.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iDunk3d_ON> le ha agradecido al conductor
+[06Jan2025 04:35:34.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ImSensei_ moved wrongly!
+[06Jan2025 04:35:49.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz has made the advancement [Sweet Dreams]
+[06Jan2025 04:42:23.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Stopping the server]
+[06Jan2025 04:42:23.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jan2025 04:42:23.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jan2025 04:42:23.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid lost connection: Disconnected
+[06Jan2025 04:42:23.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nextraid left the game
+[06Jan2025 04:42:23.636] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a9b403a4-c249-36d0-83b0-2189eacad68c was unloaded
+[06Jan2025 04:42:23.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Axelyuz lost connection: Server closed
+[06Jan2025 04:42:23.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz left the game
+[06Jan2025 04:42:23.649] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7c02bf3a-49aa-3351-ab97-e9b822dbe0db was unloaded
+[06Jan2025 04:42:23.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jan2025 04:42:23.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jan2025 04:42:23.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jan2025 04:42:23.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jan2025 04:42:24.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jan2025 04:42:24.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jan2025 04:42:24.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jan2025 04:42:24.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jan2025 04:42:24.057] [Server thread/INFO] [Framework/]: Unloading server configs...
+[06Jan2025 04:42:24.059] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[06Jan2025 04:42:24.060] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[06Jan2025 04:42:24.087] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
