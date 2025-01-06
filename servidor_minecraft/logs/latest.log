@@ -92,3 +92,26 @@
 [06Jan2025 01:12:57.917] [Server thread/INFO] [Jade/]: Syncing config to Magnum_EXT (0e314d69-4cd6-318f-9c04-774e0da88dcf)
 [06Jan2025 01:12:58.253] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 0e314d69-4cd6-318f-9c04-774e0da88dcf was loaded
 [06Jan2025 01:13:05.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Magnum_EXT> t
+[06Jan2025 01:22:09.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelyuz fell from a high place
+[06Jan2025 01:22:19.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Teleported Axelyuz to ImSensei_]
+[06Jan2025 01:22:28.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ImSensei_: Teleported Axelyuz to ImSensei_]
+[06Jan2025 01:25:35.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nextraid moved wrongly!
+[06Jan2025 01:27:24.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Axelyuz: Skin changed]
+[06Jan2025 01:27:30.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> namemc.com
+[06Jan2025 01:27:39.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ImSensei_> https://www.namemc.com
+[06Jan2025 01:28:12.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=217, y=43, z=101} BlockPos{x=218, y=43, z=100}
+[06Jan2025 01:28:12.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=217, y=43, z=101} BlockPos{x=218, y=43, z=100}
+[06Jan2025 01:28:12.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=217, y=43, z=101} BlockPos{x=218, y=43, z=100}
+[06Jan2025 01:28:12.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=217, y=43, z=101} BlockPos{x=218, y=43, z=100}
+[06Jan2025 01:28:12.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=217, y=43, z=101} BlockPos{x=218, y=43, z=100}
+[06Jan2025 01:28:13.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=217, y=43, z=101} BlockPos{x=218, y=43, z=100}
+[06Jan2025 01:28:13.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=42, z=100} BlockPos{x=219, y=43, z=101}
+[06Jan2025 01:28:13.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=42, z=100} BlockPos{x=219, y=43, z=101}
+[06Jan2025 01:28:13.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=42, z=100} BlockPos{x=219, y=43, z=101}
+[06Jan2025 01:28:13.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=42, z=100} BlockPos{x=219, y=43, z=101}
+[06Jan2025 01:28:13.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=42, z=100} BlockPos{x=219, y=43, z=101}
+[06Jan2025 01:28:13.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=42, z=100} BlockPos{x=219, y=43, z=101}
+[06Jan2025 01:28:13.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=42, z=100} BlockPos{x=219, y=43, z=101}
+[06Jan2025 01:28:13.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=42, z=100} BlockPos{x=219, y=43, z=101}
+[06Jan2025 01:28:13.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=42, z=100} BlockPos{x=219, y=43, z=101}
+[06Jan2025 01:28:13.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=42, z=100} BlockPos{x=219, y=43, z=101}
